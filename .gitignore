@@ -1,0 +1,4 @@
+.ideas
+pycache/*
+src/*.egg-info
+config.ini

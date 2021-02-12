@@ -1,0 +1,7 @@
+owlready2
+requests
+rdflib
+pyyaml
+ipydex
+python-decouple
+networkx
