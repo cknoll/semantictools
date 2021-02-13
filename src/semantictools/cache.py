@@ -4,6 +4,10 @@ from typing import Union
 import glob
 import tempfile
 
+# noinspection PyUnresolvedReferences
+# for debugging
+from ipydex import IPS
+
 
 node_cache = {}
 
@@ -44,9 +48,11 @@ def get_cachepath(
         latest_file = max(list_of_files, key=os.path.getctime)
 
         cachepath = latest_file
-    elif create_new_file is True:
+    elif create_new_file is True and not suffix2:
         # use exisiting filename or create a new one if necessary
         cachepath = wdq_cache_path or tempfile.mktemp(suffix=suffix)
+    elif create_new_file is True and suffix2 != "":
+        cachepath = tempfile.mktemp(suffix=suffix)
     elif create_new_file == "force":
         cachepath = tempfile.mktemp(suffix=suffix)
     elif create_new_file is True:
@@ -71,6 +77,7 @@ def load_wdq_cache(**kwargs) -> dict:
     """
 
     cachepath = get_cachepath(**kwargs)
+    wikidata_query_cache.clear()
 
     if not os.path.isfile(cachepath):
         return {}

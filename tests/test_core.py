@@ -38,7 +38,6 @@ class TestWikidata(unittest.TestCase):
         self.assertEquals(list(G.successors(n1)), res_nodes)
 
     def test_load_cache(self):
-        self.assertEqual(smt.cache.wdq_cache_path, None)
         res = smt.cache.load_wdq_cache(suffix2="_test")
         self.assertEqual(res, {})
         self.assertTrue(smt.cache.wdq_cache_path.endswith("_semantictools_wdq_cache_test.pcl"))
