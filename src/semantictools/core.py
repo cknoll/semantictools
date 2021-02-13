@@ -28,7 +28,7 @@ try:
     config_path = os.path.join(BASEPATH, "config.ini")
     config = Config(RepositoryIni(config_path))
     request_headers = {
-        'User-Agent': f'semantictools/{__version__} {config("contact_email")}',
+        "User-Agent": f'semantictools/{__version__} {config("contact_email")}',
     }
 
 except (ImportError, FileNotFoundError):
@@ -101,7 +101,7 @@ class Node(object):
 
     def __repr__(self):
         # return f'<a href="http://www.wikidata.org/entity/{self.id}">{self.id}</a>\n{self.label}'
-        return f'{{{self.id}}}\n{self.smart_label}'
+        return f"{{{self.id}}}\n{self.smart_label}"
 
 
 def get_node(data: dict) -> Node:

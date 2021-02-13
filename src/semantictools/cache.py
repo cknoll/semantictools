@@ -13,7 +13,9 @@ wikidata_query_cache = {}
 wdq_cache_path = None
 
 
-def get_cachepath(cachepath: str = None, suffix2: str = "", create_new_file: Union[bool, str] = True) -> Union[str, None]:
+def get_cachepath(
+    cachepath: str = None, suffix2: str = "", create_new_file: Union[bool, str] = True
+) -> Union[str, None]:
     """
     :param cachepath:           desired value to return
                                 (useful for uniform kwarg-handling in load_ and save_save_wdq_cache)
@@ -49,8 +51,10 @@ def get_cachepath(cachepath: str = None, suffix2: str = "", create_new_file: Uni
         cachepath = tempfile.mktemp(suffix=suffix)
     elif create_new_file is True:
         if wdq_cache_path is not None:
-            msg = f"Not allowed to create a new cache filename because of already exsiting: {wdq_cache_path}" \
-                   " use option `create_new_file='force' to override."
+            msg = (
+                f"Not allowed to create a new cache filename because of already exsiting: {wdq_cache_path}"
+                " use option `create_new_file='force' to override."
+            )
             raise ValueError(msg)
         cachepath = tempfile.mktemp(suffix=suffix)
     else:

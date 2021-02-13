@@ -54,7 +54,7 @@ class TestWikidata(unittest.TestCase):
         t3 = time.time()
 
         # ensure speedup due to cache
-        self.assertGreater((t2 - t1)/(t3 - t2), 100)
+        self.assertGreater((t2 - t1) / (t3 - t2), 100)
         self.assertEqual(len(smt.cache.wikidata_query_cache), 1)
 
         smt.cache.save_wdq_cache(suffix2="_test")
