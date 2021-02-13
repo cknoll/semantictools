@@ -4,6 +4,20 @@
 
 This repo collects some code to explore ontologies from Python or Jupyter Notebook.
 
+# Showcase
+
+See [doc/demo_notebooks](doc/demo_notebooks).
+
+Retrieving the superclasses of a wikidata entity:
+
+### 3 levels
+
+![Code style: black](doc/demo_notebooks/vectorspace_superclasses_l3.svg)
+
+### 13 levels
+
+![Code style: black](doc/demo_notebooks/vectorspace_superclasses_l13.svg)
+
 # Contributing
 
-This repo uses `black -l 120 ./` as code style base line.
+This repo uses `black -l 120 ./` as base line for coding style .
