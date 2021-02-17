@@ -1,8 +1,12 @@
 import os
 import sys
 import unittest
-import semantictools as smt
 import time
+
+import owlready2 as owl2
+import nxv
+
+import semantictools as smt
 
 # noinspection PyUnresolvedReferences
 from ipydex import IPS, activate_ips_on_exception
@@ -61,3 +65,30 @@ class TestWikidata(unittest.TestCase):
         res = smt.cache.load_wdq_cache(suffix2="_test")
         self.assertEqual(len(res), 1)
         os.remove(smt.cache.wdq_cache_path)
+
+    def test_generate_taxonomy_graph(self):
+
+        path = os.path.join(BASEPATH, "tests", "testdata", "bfo.owl")
+        bfo = owl2.get_ontology(path).load()
+
+        self.assertTrue(isinstance(bfo, owl2.Ontology))
+
+        G = smt.generate_taxonomy_graph_from_onto(owl2.Thing)
+
+        self.assertEqual(G.number_of_nodes(), 36)
+
+        style = nxv.Style(
+            graph={"rankdir": "BT"},
+            node=lambda u, d: {
+                "shape": "circle",
+                "fixedsize": True,
+                "width": 1,
+                "fontsize": 10,
+            },
+            edge=lambda u, v, d: {"style": "solid", "arrowType": "normal", "label": "is a"},
+        )
+
+        svg_data = nxv.render(G, style, format="svg")
+
+        self.assertTrue(isinstance(svg_data, bytes))
+        self.assertGreater(len(svg_data), 30e3)

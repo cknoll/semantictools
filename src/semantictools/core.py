@@ -183,7 +183,7 @@ def build_graph(base_node: Node, n: int = 3) -> nx.DiGraph:
 cache.load_wdq_cache()
 
 
-def generate_digraph_from_onto(base_concept: owl2.ThingClass) -> nx.DiGraph:
+def generate_taxonomy_graph_from_onto(base_concept: owl2.ThingClass) -> nx.DiGraph:
 
     G = nx.DiGraph()
 
