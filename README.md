@@ -5,19 +5,33 @@
 
 This repo collects some code to explore ontologies from Python or Jupyter Notebook.
 
-# Showcase
+Installation:
 
-See [doc/demo_notebooks](doc/demo_notebooks).
+1. clone the repo
+2. run `pip install -e .`
 
-Retrieving the superclasses of a wikidata entity:
+# Showcases
+
+## Retrieving the superclasses of a wikidata entity
+
+See also [doc/demo_notebooks/wikidata_superclasses.ipynb](doc/demo_notebooks/wikidata_superclasses.ipynb)
+
 
 ### 3 levels
 
-![Code style: black](doc/demo_notebooks/vectorspace_superclasses_l3.svg)
+![vectorspace_superclasses_l3.svg](doc/demo_notebooks/vectorspace_superclasses_l3.svg)
 
 ### 13 levels
 
-![Code style: black](doc/demo_notebooks/vectorspace_superclasses_l13.svg)
+![vectorspace_superclasses_l13.svg](doc/demo_notebooks/vectorspace_superclasses_l13.svg)
+
+
+## Visualizing the taxonomy of `bfo.owl`
+
+See also [doc/demo_notebooks/bfo_visualization.ipynb](doc/demo_notebooks/bfo_visualization.ipynb):
+
+![bfo.svg](doc/demo_notebooks/bfo.svg)
+
 
 # Contributing
 

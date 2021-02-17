@@ -5,3 +5,4 @@ pyyaml
 ipydex
 python-decouple
 networkx
+nxv
