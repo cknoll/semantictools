@@ -8,6 +8,9 @@ import networkx as nx
 import owlready2 as owl2
 
 
+import nxv
+
+
 from . import cache
 
 from .release import __version__
@@ -65,6 +68,9 @@ def wikidata_query2(query: str) -> dict:
     return data
 
 
+cache.load_wdq_cache() # load wikidata query cache
+
+
 def get_superclasses(entity_id: str) -> list:
     """
     :param entity_id:    str like "Q472971"
@@ -93,13 +99,17 @@ def get_superclasses(entity_id: str) -> list:
     return entities
 
 
+import re
+
+
 class Node(object):
     def __init__(self, data: dict, id_in_repr: bool = True):
         self.is_top_level = False
         self.id = data["id"]
         self.smart_label = self.label = data["label"]
-        if len(self.label) > 16:
-            self.smart_label = self.label.replace(" ", "\n")
+        if len(self.label) > 12:
+            tmp = self.label #"-".join(camel_case_split(self.label))
+            self.smart_label = tmp.replace(" ", "\n").replace("_", "_\n").replace("-", "-\n")
 
         cache.node_cache[self.id] = self
 
@@ -120,29 +130,76 @@ def get_node(data: dict, **kwargs) -> Node:
         return Node(data, **kwargs)
 
 
-def get_node_from_owl_concept(concept: owl2.ThingClass):
-    """
-
-    :param concept:
-    :return:
-    """
-
-    if concept.label:
-
-        graph_label = f"{concept.name}\n{concept.label[0]}"
-    else:
-        graph_label = f"{concept.name}"
-
-    data = dict(id=f"{concept.iri}", label=graph_label)
-
-    node = get_node(data, id_in_repr=False)
-
-    # also store the original concept object
-    node.concept = concept
-
-    return node
+class GraphVisualizer(object):
+    def __init__(self, show_labels_for_concepts: bool=True):
+        self.show_labels_for_concepts = show_labels_for_concepts
 
 
+        # Some (long) concept names have labels ending with "__disp".
+        # These should be used instead of the actual name, because they fit into the circles.
+        self.use_disp_labels = True
+
+        self.concept_node_mapping = {}
+
+
+    def get_node_from_owl_concept(self, concept: owl2.ThingClass):
+        """
+        :param concept:
+        :return:
+        """
+
+        if self.use_disp_labels:
+            for lbl in concept.label:
+                if lbl.endswith("__disp"):
+                    concept.name = lbl[:-6].strip()
+
+        if self.show_labels_for_concepts and concept.label:
+
+            graph_label = f"{concept.name}\n{concept.label[0]}"
+        else:
+            graph_label = f"{concept.name}"
+
+
+
+        data = dict(id=f"{concept.iri}", label=graph_label)
+
+        node = get_node(data, id_in_repr=False)
+
+        # also store the original concept object
+        node.concept = concept
+        self.concept_node_mapping[concept] = node
+
+        return node
+
+    def generate_taxonomy_graph_from_onto(self, base_concept: owl2.ThingClass) -> nx.DiGraph:
+
+        G = nx.DiGraph()
+
+        base_node = self.get_node_from_owl_concept(base_concept)
+
+        active_nodes = [base_node]
+        G.add_node(base_node)
+
+        while True:
+
+            res_entities = []
+            for node in active_nodes:
+
+                raw_subclasses = node.concept.subclasses()
+                subclasses = [self.get_node_from_owl_concept(concept) for concept in raw_subclasses]
+
+                for cls in subclasses:
+                    G.add_node(cls)
+                    G.add_edge(cls, node)
+
+                res_entities.extend(subclasses)
+
+            active_nodes = res_entities
+
+            if not active_nodes:
+                break
+
+        return G
 
 # noinspection PyShadowingNames
 def build_graph(base_node: Node, n: int = 3) -> nx.DiGraph:
@@ -180,35 +237,6 @@ def build_graph(base_node: Node, n: int = 3) -> nx.DiGraph:
 
     return G
 
-cache.load_wdq_cache()
 
 
-def generate_taxonomy_graph_from_onto(base_concept: owl2.ThingClass) -> nx.DiGraph:
 
-    G = nx.DiGraph()
-
-    base_node  = get_node_from_owl_concept(base_concept)
-
-    active_nodes = [base_node]
-    G.add_node(base_node)
-
-    while True:
-
-        res_entities = []
-        for node in active_nodes:
-
-            raw_subclasses = node.concept.subclasses()
-            subclasses = [get_node_from_owl_concept(concept) for concept in raw_subclasses]
-
-            for cls in subclasses:
-                G.add_node(cls)
-                G.add_edge(cls, node)
-
-            res_entities.extend(subclasses)
-
-        active_nodes = res_entities
-
-        if not active_nodes:
-            break
-
-    return G
