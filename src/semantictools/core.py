@@ -4,11 +4,12 @@ import requests
 import json
 import time
 import re
+import base64
+from IPython.display import SVG, display, HTML
 
 import networkx as nx
 import owlready2 as owl2
-
-
+import BeautifulSoup
 import nxv
 
 
@@ -272,7 +273,12 @@ class GraphVisualizer(object):
 
         return node
 
-    def generate_taxonomy_graph_from_onto(self, base_concept: owl2.ThingClass) -> nx.DiGraph:
+    def generate_taxonomy_graph_from_onto(
+        self, base_concept: owl2.ThingClass, world: owl2.World = None
+    ) -> nx.DiGraph:
+
+        if world is None:
+            world = owl2.default_world
 
         G = nx.DiGraph()
 
@@ -286,7 +292,7 @@ class GraphVisualizer(object):
             res_entities = []
             for node in active_nodes:
 
-                raw_subclasses = node.concept.subclasses()
+                raw_subclasses = node.concept.subclasses(world=world)
                 subclasses = [self.get_node_from_owl_concept(concept) for concept in raw_subclasses]
 
                 for cls in subclasses:
@@ -301,6 +307,85 @@ class GraphVisualizer(object):
                 break
 
         return G
+
+
+def vizualize_taxonomy(
+    onto: owl2.Ontology, style: dict = None, svg_fname: str = None, scale: float = 1.0
+):
+    """
+    create a svg image and display it in a Jupyter Notebook.
+
+    :param onto:
+    :param style:       (optional), hardcoded default
+    :param svg_fname:   (optional), default -> tempfile
+    :param width:       html display width, default "20%"
+
+    :return:        IPython.display.HTML-Object
+    """
+    base_concept = owl2.Thing
+    assert base_concept
+
+    gv = GraphVisualizer()
+    G = gv.generate_taxonomy_graph_from_onto(base_concept, world=onto.world)
+
+    default_style = nxv.Style(
+        graph={
+            "rankdir": "BT",
+        },
+        node=lambda u, d: {
+            "shape": "circle",
+            "fixedsize": True,
+            "width": 1,
+            "fontsize": 10,
+        },
+        edge=lambda u, v, d: {"style": "solid", "arrowType": "normal", "label": "is a"},
+    )
+
+    if style is None:
+        style = default_style
+    svg_data = nxv.render(G, style, format="svg")
+    if svg_fname is None:
+        import tempfile
+
+        svg_fname = tempfile.mktemp(suffix=".svg")
+
+    with open(svg_fname, "wb") as svgfile:
+        svgfile.write(svg_data)
+
+    svg_abspath = os.path.abspath(svg_fname)
+    url = f"file://{svg_abspath}"
+
+    # unfortunately in jupyter notebooks links to absolute paths dont work
+    display(HTML(f"path of the created image: {svg_abspath}"))
+
+    res = SVG(svg_abspath)
+    scale_svg(res, scale)
+    return res
+
+
+def scale_svg(svg_object, scale=1.0):
+
+    soup = BeautifulSoup(svg_object.data, "lxml")
+    svg_elt = soup.find("svg")
+    w = svg_elt.attrs["width"].rstrip("pt")
+    h = svg_elt.attrs["height"].rstrip("pt")
+
+    ws = float(w) * scale
+    hs = float(h) * scale
+
+    svg_elt.attrs["width"] = f"{ws}pt"
+    svg_elt.attrs["height"] = f"{hs}pt"
+    svg_elt.attrs["viewbox"] = f"0.00 0.00 {ws} {hs}"
+
+    g_elt = svg_elt.find("g")
+    tf = g_elt.attrs["transform"]
+    # non-greedy regex-search-and-replace
+    tf2 = re.sub("scale\(.*?\)", f"scale({scale} {scale})", tf)
+    g_elt.attrs["transform"] = tf2
+
+    svg_object.data = str(svg_elt)
+
+    return svg_object
 
 
 # noinspection PyShadowingNames
