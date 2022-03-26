@@ -9,7 +9,7 @@ import nxv
 import semantictools as smt
 
 # noinspection PyUnresolvedReferences
-from ipydex import IPS, activate_ips_on_exception
+from ipydex import IPS, activate_ips_on_exception, set_trace
 
 BASEPATH = os.path.dirname(os.path.dirname(os.path.abspath(sys.modules.get(__name__).__file__)))
 
@@ -92,3 +92,15 @@ class TestWikidata(unittest.TestCase):
 
         self.assertTrue(isinstance(svg_data, bytes))
         self.assertGreater(len(svg_data), 30e3)
+
+
+    def test_vizualize_taxonomy(self):
+
+        w = owl2.World()
+        target_path = "testdata/rector-modularization-asserted-minimal.owl"
+        target_path = "testdata/rector-modularization-reasoned-openllet.owl"
+        ocf = w.get_ontology(target_path).load()
+
+        # set_trace()
+        smt.vizualize_taxonomy(ocf)
+

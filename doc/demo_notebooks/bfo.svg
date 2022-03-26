@@ -19,8 +19,9 @@
 <g id="node2" class="node">
 <title>node0001</title>
 <ellipse fill="none" stroke="#000000" cx="1005" cy="-651" rx="36" ry="36"/>
-<text text-anchor="middle" x="1005" y="-654" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000001</text>
-<text text-anchor="middle" x="1005" y="-643" font-family="Times,serif" font-size="10.00" fill="#000000">entity</text>
+<text text-anchor="middle" x="1005" y="-659.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="1005" y="-648.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000001</text>
+<text text-anchor="middle" x="1005" y="-637.5" font-family="Times,serif" font-size="10.00" fill="#000000">entity</text>
 </g>
 <!-- node0001&#45;&gt;node0000 -->
 <g id="edge1" class="edge">
@@ -33,8 +34,9 @@
 <g id="node3" class="node">
 <title>node0002</title>
 <ellipse fill="none" stroke="#000000" cx="915" cy="-528" rx="36" ry="36"/>
-<text text-anchor="middle" x="915" y="-531" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000002</text>
-<text text-anchor="middle" x="915" y="-520" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
+<text text-anchor="middle" x="915" y="-536.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="915" y="-525.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000002</text>
+<text text-anchor="middle" x="915" y="-514.5" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
 </g>
 <!-- node0002&#45;&gt;node0001 -->
 <g id="edge2" class="edge">
@@ -47,8 +49,9 @@
 <g id="node4" class="node">
 <title>node0003</title>
 <ellipse fill="none" stroke="#000000" cx="1128" cy="-528" rx="36" ry="36"/>
-<text text-anchor="middle" x="1128" y="-531" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000003</text>
-<text text-anchor="middle" x="1128" y="-520" font-family="Times,serif" font-size="10.00" fill="#000000">occurrent</text>
+<text text-anchor="middle" x="1128" y="-536.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="1128" y="-525.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000003</text>
+<text text-anchor="middle" x="1128" y="-514.5" font-family="Times,serif" font-size="10.00" fill="#000000">occurrent</text>
 </g>
 <!-- node0003&#45;&gt;node0001 -->
 <g id="edge3" class="edge">
@@ -61,9 +64,10 @@
 <g id="node5" class="node">
 <title>node0004</title>
 <ellipse fill="none" stroke="#000000" cx="621" cy="-405" rx="36" ry="36"/>
-<text text-anchor="middle" x="621" y="-413.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000004</text>
-<text text-anchor="middle" x="621" y="-402.5" font-family="Times,serif" font-size="10.00" fill="#000000">independent</text>
-<text text-anchor="middle" x="621" y="-391.5" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
+<text text-anchor="middle" x="621" y="-419" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="621" y="-408" font-family="Times,serif" font-size="10.00" fill="#000000">0000004</text>
+<text text-anchor="middle" x="621" y="-397" font-family="Times,serif" font-size="10.00" fill="#000000">independent</text>
+<text text-anchor="middle" x="621" y="-386" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
 </g>
 <!-- node0004&#45;&gt;node0002 -->
 <g id="edge4" class="edge">
@@ -76,10 +80,11 @@
 <g id="node6" class="node">
 <title>node0005</title>
 <ellipse fill="none" stroke="#000000" cx="858" cy="-405" rx="36" ry="36"/>
-<text text-anchor="middle" x="858" y="-419" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000020</text>
-<text text-anchor="middle" x="858" y="-408" font-family="Times,serif" font-size="10.00" fill="#000000">specifically</text>
-<text text-anchor="middle" x="858" y="-397" font-family="Times,serif" font-size="10.00" fill="#000000">dependent</text>
-<text text-anchor="middle" x="858" y="-386" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
+<text text-anchor="middle" x="858" y="-424.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="858" y="-413.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000020</text>
+<text text-anchor="middle" x="858" y="-402.5" font-family="Times,serif" font-size="10.00" fill="#000000">specifically</text>
+<text text-anchor="middle" x="858" y="-391.5" font-family="Times,serif" font-size="10.00" fill="#000000">dependent</text>
+<text text-anchor="middle" x="858" y="-380.5" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
 </g>
 <!-- node0005&#45;&gt;node0002 -->
 <g id="edge5" class="edge">
@@ -92,10 +97,11 @@
 <g id="node7" class="node">
 <title>node0006</title>
 <ellipse fill="none" stroke="#000000" cx="948" cy="-405" rx="36" ry="36"/>
-<text text-anchor="middle" x="948" y="-419" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000031</text>
-<text text-anchor="middle" x="948" y="-408" font-family="Times,serif" font-size="10.00" fill="#000000">generically</text>
-<text text-anchor="middle" x="948" y="-397" font-family="Times,serif" font-size="10.00" fill="#000000">dependent</text>
-<text text-anchor="middle" x="948" y="-386" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
+<text text-anchor="middle" x="948" y="-424.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="948" y="-413.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000031</text>
+<text text-anchor="middle" x="948" y="-402.5" font-family="Times,serif" font-size="10.00" fill="#000000">generically</text>
+<text text-anchor="middle" x="948" y="-391.5" font-family="Times,serif" font-size="10.00" fill="#000000">dependent</text>
+<text text-anchor="middle" x="948" y="-380.5" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
 </g>
 <!-- node0006&#45;&gt;node0002 -->
 <g id="edge6" class="edge">
@@ -108,9 +114,10 @@
 <g id="node8" class="node">
 <title>node0007</title>
 <ellipse fill="none" stroke="#000000" cx="1038" cy="-405" rx="36" ry="36"/>
-<text text-anchor="middle" x="1038" y="-413.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000008</text>
-<text text-anchor="middle" x="1038" y="-402.5" font-family="Times,serif" font-size="10.00" fill="#000000">temporal</text>
-<text text-anchor="middle" x="1038" y="-391.5" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
+<text text-anchor="middle" x="1038" y="-419" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="1038" y="-408" font-family="Times,serif" font-size="10.00" fill="#000000">0000008</text>
+<text text-anchor="middle" x="1038" y="-397" font-family="Times,serif" font-size="10.00" fill="#000000">temporal</text>
+<text text-anchor="middle" x="1038" y="-386" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
 </g>
 <!-- node0007&#45;&gt;node0003 -->
 <g id="edge7" class="edge">
@@ -123,9 +130,10 @@
 <g id="node9" class="node">
 <title>node0008</title>
 <ellipse fill="none" stroke="#000000" cx="1128" cy="-405" rx="36" ry="36"/>
-<text text-anchor="middle" x="1128" y="-413.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000011</text>
-<text text-anchor="middle" x="1128" y="-402.5" font-family="Times,serif" font-size="10.00" fill="#000000">spatiotemporal</text>
-<text text-anchor="middle" x="1128" y="-391.5" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
+<text text-anchor="middle" x="1128" y="-419" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="1128" y="-408" font-family="Times,serif" font-size="10.00" fill="#000000">0000011</text>
+<text text-anchor="middle" x="1128" y="-397" font-family="Times,serif" font-size="10.00" fill="#000000">spatiotemporal</text>
+<text text-anchor="middle" x="1128" y="-386" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
 </g>
 <!-- node0008&#45;&gt;node0003 -->
 <g id="edge8" class="edge">
@@ -138,8 +146,9 @@
 <g id="node10" class="node">
 <title>node0009</title>
 <ellipse fill="none" stroke="#000000" cx="1218" cy="-405" rx="36" ry="36"/>
-<text text-anchor="middle" x="1218" y="-408" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000015</text>
-<text text-anchor="middle" x="1218" y="-397" font-family="Times,serif" font-size="10.00" fill="#000000">process</text>
+<text text-anchor="middle" x="1218" y="-413.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="1218" y="-402.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000015</text>
+<text text-anchor="middle" x="1218" y="-391.5" font-family="Times,serif" font-size="10.00" fill="#000000">process</text>
 </g>
 <!-- node0009&#45;&gt;node0003 -->
 <g id="edge9" class="edge">
@@ -152,9 +161,10 @@
 <g id="node11" class="node">
 <title>node0010</title>
 <ellipse fill="none" stroke="#000000" cx="1308" cy="-405" rx="36" ry="36"/>
-<text text-anchor="middle" x="1308" y="-413.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000035</text>
-<text text-anchor="middle" x="1308" y="-402.5" font-family="Times,serif" font-size="10.00" fill="#000000">process</text>
-<text text-anchor="middle" x="1308" y="-391.5" font-family="Times,serif" font-size="10.00" fill="#000000">boundary</text>
+<text text-anchor="middle" x="1308" y="-419" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="1308" y="-408" font-family="Times,serif" font-size="10.00" fill="#000000">0000035</text>
+<text text-anchor="middle" x="1308" y="-397" font-family="Times,serif" font-size="10.00" fill="#000000">process</text>
+<text text-anchor="middle" x="1308" y="-386" font-family="Times,serif" font-size="10.00" fill="#000000">boundary</text>
 </g>
 <!-- node0010&#45;&gt;node0003 -->
 <g id="edge10" class="edge">
@@ -167,9 +177,10 @@
 <g id="node12" class="node">
 <title>node0011</title>
 <ellipse fill="none" stroke="#000000" cx="384" cy="-282" rx="36" ry="36"/>
-<text text-anchor="middle" x="384" y="-290.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000141</text>
-<text text-anchor="middle" x="384" y="-279.5" font-family="Times,serif" font-size="10.00" fill="#000000">immaterial</text>
-<text text-anchor="middle" x="384" y="-268.5" font-family="Times,serif" font-size="10.00" fill="#000000">entity</text>
+<text text-anchor="middle" x="384" y="-296" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="384" y="-285" font-family="Times,serif" font-size="10.00" fill="#000000">0000141</text>
+<text text-anchor="middle" x="384" y="-274" font-family="Times,serif" font-size="10.00" fill="#000000">immaterial</text>
+<text text-anchor="middle" x="384" y="-263" font-family="Times,serif" font-size="10.00" fill="#000000">entity</text>
 </g>
 <!-- node0011&#45;&gt;node0004 -->
 <g id="edge11" class="edge">
@@ -182,9 +193,10 @@
 <g id="node13" class="node">
 <title>node0012</title>
 <ellipse fill="none" stroke="#000000" cx="621" cy="-282" rx="36" ry="36"/>
-<text text-anchor="middle" x="621" y="-290.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000040</text>
-<text text-anchor="middle" x="621" y="-279.5" font-family="Times,serif" font-size="10.00" fill="#000000">material</text>
-<text text-anchor="middle" x="621" y="-268.5" font-family="Times,serif" font-size="10.00" fill="#000000">entity</text>
+<text text-anchor="middle" x="621" y="-296" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="621" y="-285" font-family="Times,serif" font-size="10.00" fill="#000000">0000040</text>
+<text text-anchor="middle" x="621" y="-274" font-family="Times,serif" font-size="10.00" fill="#000000">material</text>
+<text text-anchor="middle" x="621" y="-263" font-family="Times,serif" font-size="10.00" fill="#000000">entity</text>
 </g>
 <!-- node0012&#45;&gt;node0004 -->
 <g id="edge12" class="edge">
@@ -197,9 +209,10 @@
 <g id="node14" class="node">
 <title>node0013</title>
 <ellipse fill="none" stroke="#000000" cx="858" cy="-282" rx="36" ry="36"/>
-<text text-anchor="middle" x="858" y="-290.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000017</text>
-<text text-anchor="middle" x="858" y="-279.5" font-family="Times,serif" font-size="10.00" fill="#000000">realizable</text>
-<text text-anchor="middle" x="858" y="-268.5" font-family="Times,serif" font-size="10.00" fill="#000000">entity</text>
+<text text-anchor="middle" x="858" y="-296" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="858" y="-285" font-family="Times,serif" font-size="10.00" fill="#000000">0000017</text>
+<text text-anchor="middle" x="858" y="-274" font-family="Times,serif" font-size="10.00" fill="#000000">realizable</text>
+<text text-anchor="middle" x="858" y="-263" font-family="Times,serif" font-size="10.00" fill="#000000">entity</text>
 </g>
 <!-- node0013&#45;&gt;node0005 -->
 <g id="edge13" class="edge">
@@ -212,8 +225,9 @@
 <g id="node15" class="node">
 <title>node0014</title>
 <ellipse fill="none" stroke="#000000" cx="948" cy="-282" rx="36" ry="36"/>
-<text text-anchor="middle" x="948" y="-285" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000019</text>
-<text text-anchor="middle" x="948" y="-274" font-family="Times,serif" font-size="10.00" fill="#000000">quality</text>
+<text text-anchor="middle" x="948" y="-290.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="948" y="-279.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000019</text>
+<text text-anchor="middle" x="948" y="-268.5" font-family="Times,serif" font-size="10.00" fill="#000000">quality</text>
 </g>
 <!-- node0014&#45;&gt;node0005 -->
 <g id="edge14" class="edge">
@@ -226,10 +240,12 @@
 <g id="node16" class="node">
 <title>node0015</title>
 <ellipse fill="none" stroke="#000000" cx="1038" cy="-282" rx="36" ry="36"/>
-<text text-anchor="middle" x="1038" y="-296" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000038</text>
-<text text-anchor="middle" x="1038" y="-285" font-family="Times,serif" font-size="10.00" fill="#000000">one&#45;dimensional</text>
-<text text-anchor="middle" x="1038" y="-274" font-family="Times,serif" font-size="10.00" fill="#000000">temporal</text>
-<text text-anchor="middle" x="1038" y="-263" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
+<text text-anchor="middle" x="1038" y="-307" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="1038" y="-296" font-family="Times,serif" font-size="10.00" fill="#000000">0000038</text>
+<text text-anchor="middle" x="1038" y="-285" font-family="Times,serif" font-size="10.00" fill="#000000">one&#45;</text>
+<text text-anchor="middle" x="1038" y="-274" font-family="Times,serif" font-size="10.00" fill="#000000">dimensional</text>
+<text text-anchor="middle" x="1038" y="-263" font-family="Times,serif" font-size="10.00" fill="#000000">temporal</text>
+<text text-anchor="middle" x="1038" y="-252" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
 </g>
 <!-- node0015&#45;&gt;node0007 -->
 <g id="edge15" class="edge">
@@ -242,10 +258,12 @@
 <g id="node17" class="node">
 <title>node0016</title>
 <ellipse fill="none" stroke="#000000" cx="1128" cy="-282" rx="36" ry="36"/>
-<text text-anchor="middle" x="1128" y="-296" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000148</text>
-<text text-anchor="middle" x="1128" y="-285" font-family="Times,serif" font-size="10.00" fill="#000000">zero&#45;dimensional</text>
-<text text-anchor="middle" x="1128" y="-274" font-family="Times,serif" font-size="10.00" fill="#000000">temporal</text>
-<text text-anchor="middle" x="1128" y="-263" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
+<text text-anchor="middle" x="1128" y="-307" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="1128" y="-296" font-family="Times,serif" font-size="10.00" fill="#000000">0000148</text>
+<text text-anchor="middle" x="1128" y="-285" font-family="Times,serif" font-size="10.00" fill="#000000">zero&#45;</text>
+<text text-anchor="middle" x="1128" y="-274" font-family="Times,serif" font-size="10.00" fill="#000000">dimensional</text>
+<text text-anchor="middle" x="1128" y="-263" font-family="Times,serif" font-size="10.00" fill="#000000">temporal</text>
+<text text-anchor="middle" x="1128" y="-252" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
 </g>
 <!-- node0016&#45;&gt;node0007 -->
 <g id="edge16" class="edge">
@@ -258,9 +276,10 @@
 <g id="node18" class="node">
 <title>node0017</title>
 <ellipse fill="none" stroke="#000000" cx="1218" cy="-282" rx="36" ry="36"/>
-<text text-anchor="middle" x="1218" y="-290.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000144</text>
-<text text-anchor="middle" x="1218" y="-279.5" font-family="Times,serif" font-size="10.00" fill="#000000">process</text>
-<text text-anchor="middle" x="1218" y="-268.5" font-family="Times,serif" font-size="10.00" fill="#000000">profile</text>
+<text text-anchor="middle" x="1218" y="-296" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="1218" y="-285" font-family="Times,serif" font-size="10.00" fill="#000000">0000144</text>
+<text text-anchor="middle" x="1218" y="-274" font-family="Times,serif" font-size="10.00" fill="#000000">process</text>
+<text text-anchor="middle" x="1218" y="-263" font-family="Times,serif" font-size="10.00" fill="#000000">profile</text>
 </g>
 <!-- node0017&#45;&gt;node0009 -->
 <g id="edge17" class="edge">
@@ -273,8 +292,9 @@
 <g id="node19" class="node">
 <title>node0018</title>
 <ellipse fill="none" stroke="#000000" cx="1308" cy="-282" rx="36" ry="36"/>
-<text text-anchor="middle" x="1308" y="-285" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000182</text>
-<text text-anchor="middle" x="1308" y="-274" font-family="Times,serif" font-size="10.00" fill="#000000">history</text>
+<text text-anchor="middle" x="1308" y="-290.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="1308" y="-279.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000182</text>
+<text text-anchor="middle" x="1308" y="-268.5" font-family="Times,serif" font-size="10.00" fill="#000000">history</text>
 </g>
 <!-- node0018&#45;&gt;node0009 -->
 <g id="edge18" class="edge">
@@ -287,9 +307,10 @@
 <g id="node20" class="node">
 <title>node0019</title>
 <ellipse fill="none" stroke="#000000" cx="216" cy="-159" rx="36" ry="36"/>
-<text text-anchor="middle" x="216" y="-167.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000006</text>
-<text text-anchor="middle" x="216" y="-156.5" font-family="Times,serif" font-size="10.00" fill="#000000">spatial</text>
-<text text-anchor="middle" x="216" y="-145.5" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
+<text text-anchor="middle" x="216" y="-173" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="216" y="-162" font-family="Times,serif" font-size="10.00" fill="#000000">0000006</text>
+<text text-anchor="middle" x="216" y="-151" font-family="Times,serif" font-size="10.00" fill="#000000">spatial</text>
+<text text-anchor="middle" x="216" y="-140" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
 </g>
 <!-- node0019&#45;&gt;node0011 -->
 <g id="edge19" class="edge">
@@ -302,8 +323,9 @@
 <g id="node21" class="node">
 <title>node0020</title>
 <ellipse fill="none" stroke="#000000" cx="351" cy="-159" rx="36" ry="36"/>
-<text text-anchor="middle" x="351" y="-162" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000029</text>
-<text text-anchor="middle" x="351" y="-151" font-family="Times,serif" font-size="10.00" fill="#000000">site</text>
+<text text-anchor="middle" x="351" y="-167.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="351" y="-156.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000029</text>
+<text text-anchor="middle" x="351" y="-145.5" font-family="Times,serif" font-size="10.00" fill="#000000">site</text>
 </g>
 <!-- node0020&#45;&gt;node0011 -->
 <g id="edge20" class="edge">
@@ -316,10 +338,11 @@
 <g id="node22" class="node">
 <title>node0021</title>
 <ellipse fill="none" stroke="#000000" cx="441" cy="-159" rx="36" ry="36"/>
-<text text-anchor="middle" x="441" y="-173" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000140</text>
-<text text-anchor="middle" x="441" y="-162" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
-<text text-anchor="middle" x="441" y="-151" font-family="Times,serif" font-size="10.00" fill="#000000">fiat</text>
-<text text-anchor="middle" x="441" y="-140" font-family="Times,serif" font-size="10.00" fill="#000000">boundary</text>
+<text text-anchor="middle" x="441" y="-178.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="441" y="-167.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000140</text>
+<text text-anchor="middle" x="441" y="-156.5" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
+<text text-anchor="middle" x="441" y="-145.5" font-family="Times,serif" font-size="10.00" fill="#000000">fiat</text>
+<text text-anchor="middle" x="441" y="-134.5" font-family="Times,serif" font-size="10.00" fill="#000000">boundary</text>
 </g>
 <!-- node0021&#45;&gt;node0011 -->
 <g id="edge21" class="edge">
@@ -332,10 +355,11 @@
 <g id="node23" class="node">
 <title>node0022</title>
 <ellipse fill="none" stroke="#000000" cx="531" cy="-159" rx="36" ry="36"/>
-<text text-anchor="middle" x="531" y="-173" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000024</text>
-<text text-anchor="middle" x="531" y="-162" font-family="Times,serif" font-size="10.00" fill="#000000">fiat</text>
-<text text-anchor="middle" x="531" y="-151" font-family="Times,serif" font-size="10.00" fill="#000000">object</text>
-<text text-anchor="middle" x="531" y="-140" font-family="Times,serif" font-size="10.00" fill="#000000">part</text>
+<text text-anchor="middle" x="531" y="-178.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="531" y="-167.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000024</text>
+<text text-anchor="middle" x="531" y="-156.5" font-family="Times,serif" font-size="10.00" fill="#000000">fiat</text>
+<text text-anchor="middle" x="531" y="-145.5" font-family="Times,serif" font-size="10.00" fill="#000000">object</text>
+<text text-anchor="middle" x="531" y="-134.5" font-family="Times,serif" font-size="10.00" fill="#000000">part</text>
 </g>
 <!-- node0022&#45;&gt;node0012 -->
 <g id="edge22" class="edge">
@@ -348,9 +372,10 @@
 <g id="node24" class="node">
 <title>node0023</title>
 <ellipse fill="none" stroke="#000000" cx="621" cy="-159" rx="36" ry="36"/>
-<text text-anchor="middle" x="621" y="-167.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000027</text>
-<text text-anchor="middle" x="621" y="-156.5" font-family="Times,serif" font-size="10.00" fill="#000000">object</text>
-<text text-anchor="middle" x="621" y="-145.5" font-family="Times,serif" font-size="10.00" fill="#000000">aggregate</text>
+<text text-anchor="middle" x="621" y="-173" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="621" y="-162" font-family="Times,serif" font-size="10.00" fill="#000000">0000027</text>
+<text text-anchor="middle" x="621" y="-151" font-family="Times,serif" font-size="10.00" fill="#000000">object</text>
+<text text-anchor="middle" x="621" y="-140" font-family="Times,serif" font-size="10.00" fill="#000000">aggregate</text>
 </g>
 <!-- node0023&#45;&gt;node0012 -->
 <g id="edge23" class="edge">
@@ -363,8 +388,9 @@
 <g id="node25" class="node">
 <title>node0024</title>
 <ellipse fill="none" stroke="#000000" cx="711" cy="-159" rx="36" ry="36"/>
-<text text-anchor="middle" x="711" y="-162" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000030</text>
-<text text-anchor="middle" x="711" y="-151" font-family="Times,serif" font-size="10.00" fill="#000000">object</text>
+<text text-anchor="middle" x="711" y="-167.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="711" y="-156.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000030</text>
+<text text-anchor="middle" x="711" y="-145.5" font-family="Times,serif" font-size="10.00" fill="#000000">object</text>
 </g>
 <!-- node0024&#45;&gt;node0012 -->
 <g id="edge24" class="edge">
@@ -377,8 +403,9 @@
 <g id="node26" class="node">
 <title>node0025</title>
 <ellipse fill="none" stroke="#000000" cx="801" cy="-159" rx="36" ry="36"/>
-<text text-anchor="middle" x="801" y="-162" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000016</text>
-<text text-anchor="middle" x="801" y="-151" font-family="Times,serif" font-size="10.00" fill="#000000">disposition</text>
+<text text-anchor="middle" x="801" y="-167.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="801" y="-156.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000016</text>
+<text text-anchor="middle" x="801" y="-145.5" font-family="Times,serif" font-size="10.00" fill="#000000">disposition</text>
 </g>
 <!-- node0025&#45;&gt;node0013 -->
 <g id="edge25" class="edge">
@@ -391,8 +418,9 @@
 <g id="node27" class="node">
 <title>node0026</title>
 <ellipse fill="none" stroke="#000000" cx="891" cy="-159" rx="36" ry="36"/>
-<text text-anchor="middle" x="891" y="-162" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000023</text>
-<text text-anchor="middle" x="891" y="-151" font-family="Times,serif" font-size="10.00" fill="#000000">role</text>
+<text text-anchor="middle" x="891" y="-167.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="891" y="-156.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000023</text>
+<text text-anchor="middle" x="891" y="-145.5" font-family="Times,serif" font-size="10.00" fill="#000000">role</text>
 </g>
 <!-- node0026&#45;&gt;node0013 -->
 <g id="edge26" class="edge">
@@ -405,9 +433,10 @@
 <g id="node28" class="node">
 <title>node0027</title>
 <ellipse fill="none" stroke="#000000" cx="981" cy="-159" rx="36" ry="36"/>
-<text text-anchor="middle" x="981" y="-167.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000145</text>
-<text text-anchor="middle" x="981" y="-156.5" font-family="Times,serif" font-size="10.00" fill="#000000">relational</text>
-<text text-anchor="middle" x="981" y="-145.5" font-family="Times,serif" font-size="10.00" fill="#000000">quality</text>
+<text text-anchor="middle" x="981" y="-173" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="981" y="-162" font-family="Times,serif" font-size="10.00" fill="#000000">0000145</text>
+<text text-anchor="middle" x="981" y="-151" font-family="Times,serif" font-size="10.00" fill="#000000">relational</text>
+<text text-anchor="middle" x="981" y="-140" font-family="Times,serif" font-size="10.00" fill="#000000">quality</text>
 </g>
 <!-- node0027&#45;&gt;node0014 -->
 <g id="edge27" class="edge">
@@ -420,10 +449,12 @@
 <g id="node29" class="node">
 <title>node0028</title>
 <ellipse fill="none" stroke="#000000" cx="36" cy="-36" rx="36" ry="36"/>
-<text text-anchor="middle" x="36" y="-50" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000009</text>
-<text text-anchor="middle" x="36" y="-39" font-family="Times,serif" font-size="10.00" fill="#000000">two&#45;dimensional</text>
-<text text-anchor="middle" x="36" y="-28" font-family="Times,serif" font-size="10.00" fill="#000000">spatial</text>
-<text text-anchor="middle" x="36" y="-17" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
+<text text-anchor="middle" x="36" y="-61" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="36" y="-50" font-family="Times,serif" font-size="10.00" fill="#000000">0000009</text>
+<text text-anchor="middle" x="36" y="-39" font-family="Times,serif" font-size="10.00" fill="#000000">two&#45;</text>
+<text text-anchor="middle" x="36" y="-28" font-family="Times,serif" font-size="10.00" fill="#000000">dimensional</text>
+<text text-anchor="middle" x="36" y="-17" font-family="Times,serif" font-size="10.00" fill="#000000">spatial</text>
+<text text-anchor="middle" x="36" y="-6" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
 </g>
 <!-- node0028&#45;&gt;node0019 -->
 <g id="edge28" class="edge">
@@ -436,10 +467,12 @@
 <g id="node30" class="node">
 <title>node0029</title>
 <ellipse fill="none" stroke="#000000" cx="126" cy="-36" rx="36" ry="36"/>
-<text text-anchor="middle" x="126" y="-50" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000028</text>
-<text text-anchor="middle" x="126" y="-39" font-family="Times,serif" font-size="10.00" fill="#000000">three&#45;dimensional</text>
-<text text-anchor="middle" x="126" y="-28" font-family="Times,serif" font-size="10.00" fill="#000000">spatial</text>
-<text text-anchor="middle" x="126" y="-17" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
+<text text-anchor="middle" x="126" y="-61" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="126" y="-50" font-family="Times,serif" font-size="10.00" fill="#000000">0000028</text>
+<text text-anchor="middle" x="126" y="-39" font-family="Times,serif" font-size="10.00" fill="#000000">three&#45;</text>
+<text text-anchor="middle" x="126" y="-28" font-family="Times,serif" font-size="10.00" fill="#000000">dimensional</text>
+<text text-anchor="middle" x="126" y="-17" font-family="Times,serif" font-size="10.00" fill="#000000">spatial</text>
+<text text-anchor="middle" x="126" y="-6" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
 </g>
 <!-- node0029&#45;&gt;node0019 -->
 <g id="edge29" class="edge">
@@ -452,10 +485,12 @@
 <g id="node31" class="node">
 <title>node0030</title>
 <ellipse fill="none" stroke="#000000" cx="216" cy="-36" rx="36" ry="36"/>
-<text text-anchor="middle" x="216" y="-50" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000018</text>
-<text text-anchor="middle" x="216" y="-39" font-family="Times,serif" font-size="10.00" fill="#000000">zero&#45;dimensional</text>
-<text text-anchor="middle" x="216" y="-28" font-family="Times,serif" font-size="10.00" fill="#000000">spatial</text>
-<text text-anchor="middle" x="216" y="-17" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
+<text text-anchor="middle" x="216" y="-61" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="216" y="-50" font-family="Times,serif" font-size="10.00" fill="#000000">0000018</text>
+<text text-anchor="middle" x="216" y="-39" font-family="Times,serif" font-size="10.00" fill="#000000">zero&#45;</text>
+<text text-anchor="middle" x="216" y="-28" font-family="Times,serif" font-size="10.00" fill="#000000">dimensional</text>
+<text text-anchor="middle" x="216" y="-17" font-family="Times,serif" font-size="10.00" fill="#000000">spatial</text>
+<text text-anchor="middle" x="216" y="-6" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
 </g>
 <!-- node0030&#45;&gt;node0019 -->
 <g id="edge30" class="edge">
@@ -468,10 +503,12 @@
 <g id="node32" class="node">
 <title>node0031</title>
 <ellipse fill="none" stroke="#000000" cx="306" cy="-36" rx="36" ry="36"/>
-<text text-anchor="middle" x="306" y="-50" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000026</text>
-<text text-anchor="middle" x="306" y="-39" font-family="Times,serif" font-size="10.00" fill="#000000">one&#45;dimensional</text>
-<text text-anchor="middle" x="306" y="-28" font-family="Times,serif" font-size="10.00" fill="#000000">spatial</text>
-<text text-anchor="middle" x="306" y="-17" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
+<text text-anchor="middle" x="306" y="-61" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="306" y="-50" font-family="Times,serif" font-size="10.00" fill="#000000">0000026</text>
+<text text-anchor="middle" x="306" y="-39" font-family="Times,serif" font-size="10.00" fill="#000000">one&#45;</text>
+<text text-anchor="middle" x="306" y="-28" font-family="Times,serif" font-size="10.00" fill="#000000">dimensional</text>
+<text text-anchor="middle" x="306" y="-17" font-family="Times,serif" font-size="10.00" fill="#000000">spatial</text>
+<text text-anchor="middle" x="306" y="-6" font-family="Times,serif" font-size="10.00" fill="#000000">region</text>
 </g>
 <!-- node0031&#45;&gt;node0019 -->
 <g id="edge31" class="edge">
@@ -484,11 +521,13 @@
 <g id="node33" class="node">
 <title>node0032</title>
 <ellipse fill="none" stroke="#000000" cx="396" cy="-36" rx="36" ry="36"/>
-<text text-anchor="middle" x="396" y="-55.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000142</text>
-<text text-anchor="middle" x="396" y="-44.5" font-family="Times,serif" font-size="10.00" fill="#000000">one&#45;dimensional</text>
-<text text-anchor="middle" x="396" y="-33.5" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
-<text text-anchor="middle" x="396" y="-22.5" font-family="Times,serif" font-size="10.00" fill="#000000">fiat</text>
-<text text-anchor="middle" x="396" y="-11.5" font-family="Times,serif" font-size="10.00" fill="#000000">boundary</text>
+<text text-anchor="middle" x="396" y="-66.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="396" y="-55.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000142</text>
+<text text-anchor="middle" x="396" y="-44.5" font-family="Times,serif" font-size="10.00" fill="#000000">one&#45;</text>
+<text text-anchor="middle" x="396" y="-33.5" font-family="Times,serif" font-size="10.00" fill="#000000">dimensional</text>
+<text text-anchor="middle" x="396" y="-22.5" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
+<text text-anchor="middle" x="396" y="-11.5" font-family="Times,serif" font-size="10.00" fill="#000000">fiat</text>
+<text text-anchor="middle" x="396" y="-.5" font-family="Times,serif" font-size="10.00" fill="#000000">boundary</text>
 </g>
 <!-- node0032&#45;&gt;node0021 -->
 <g id="edge32" class="edge">
@@ -501,11 +540,13 @@
 <g id="node34" class="node">
 <title>node0033</title>
 <ellipse fill="none" stroke="#000000" cx="486" cy="-36" rx="36" ry="36"/>
-<text text-anchor="middle" x="486" y="-55.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000146</text>
-<text text-anchor="middle" x="486" y="-44.5" font-family="Times,serif" font-size="10.00" fill="#000000">two&#45;dimensional</text>
-<text text-anchor="middle" x="486" y="-33.5" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
-<text text-anchor="middle" x="486" y="-22.5" font-family="Times,serif" font-size="10.00" fill="#000000">fiat</text>
-<text text-anchor="middle" x="486" y="-11.5" font-family="Times,serif" font-size="10.00" fill="#000000">boundary</text>
+<text text-anchor="middle" x="486" y="-66.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="486" y="-55.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000146</text>
+<text text-anchor="middle" x="486" y="-44.5" font-family="Times,serif" font-size="10.00" fill="#000000">two&#45;</text>
+<text text-anchor="middle" x="486" y="-33.5" font-family="Times,serif" font-size="10.00" fill="#000000">dimensional</text>
+<text text-anchor="middle" x="486" y="-22.5" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
+<text text-anchor="middle" x="486" y="-11.5" font-family="Times,serif" font-size="10.00" fill="#000000">fiat</text>
+<text text-anchor="middle" x="486" y="-.5" font-family="Times,serif" font-size="10.00" fill="#000000">boundary</text>
 </g>
 <!-- node0033&#45;&gt;node0021 -->
 <g id="edge33" class="edge">
@@ -518,11 +559,13 @@
 <g id="node35" class="node">
 <title>node0034</title>
 <ellipse fill="none" stroke="#000000" cx="576" cy="-36" rx="36" ry="36"/>
-<text text-anchor="middle" x="576" y="-55.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000147</text>
-<text text-anchor="middle" x="576" y="-44.5" font-family="Times,serif" font-size="10.00" fill="#000000">zero&#45;dimensional</text>
-<text text-anchor="middle" x="576" y="-33.5" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
-<text text-anchor="middle" x="576" y="-22.5" font-family="Times,serif" font-size="10.00" fill="#000000">fiat</text>
-<text text-anchor="middle" x="576" y="-11.5" font-family="Times,serif" font-size="10.00" fill="#000000">boundary</text>
+<text text-anchor="middle" x="576" y="-66.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="576" y="-55.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000147</text>
+<text text-anchor="middle" x="576" y="-44.5" font-family="Times,serif" font-size="10.00" fill="#000000">zero&#45;</text>
+<text text-anchor="middle" x="576" y="-33.5" font-family="Times,serif" font-size="10.00" fill="#000000">dimensional</text>
+<text text-anchor="middle" x="576" y="-22.5" font-family="Times,serif" font-size="10.00" fill="#000000">continuant</text>
+<text text-anchor="middle" x="576" y="-11.5" font-family="Times,serif" font-size="10.00" fill="#000000">fiat</text>
+<text text-anchor="middle" x="576" y="-.5" font-family="Times,serif" font-size="10.00" fill="#000000">boundary</text>
 </g>
 <!-- node0034&#45;&gt;node0021 -->
 <g id="edge34" class="edge">
@@ -535,8 +578,9 @@
 <g id="node36" class="node">
 <title>node0035</title>
 <ellipse fill="none" stroke="#000000" cx="801" cy="-36" rx="36" ry="36"/>
-<text text-anchor="middle" x="801" y="-39" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_0000034</text>
-<text text-anchor="middle" x="801" y="-28" font-family="Times,serif" font-size="10.00" fill="#000000">function</text>
+<text text-anchor="middle" x="801" y="-44.5" font-family="Times,serif" font-size="10.00" fill="#000000">BFO_</text>
+<text text-anchor="middle" x="801" y="-33.5" font-family="Times,serif" font-size="10.00" fill="#000000">0000034</text>
+<text text-anchor="middle" x="801" y="-22.5" font-family="Times,serif" font-size="10.00" fill="#000000">function</text>
 </g>
 <!-- node0035&#45;&gt;node0025 -->
 <g id="edge35" class="edge">

@@ -20,9 +20,10 @@
 <g id="node2" class="node">
 <title>node0001</title>
 <ellipse fill="none" stroke="#000000" cx="329" cy="-282" rx="36" ry="36"/>
-<text text-anchor="middle" x="329" y="-290.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q472971">Q472971</a></text>
-<text text-anchor="middle" x="329" y="-279.5" font-family="Times,serif" font-size="10.00" fill="#000000">space</text>
-<text text-anchor="middle" x="329" y="-268.5" font-family="Times,serif" font-size="10.00" fill="#000000">(mathematics)</text>
+<text text-anchor="middle" x="329" y="-296" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q472971">Q472971</a></text>
+<text text-anchor="middle" x="329" y="-285" font-family="Times,serif" font-size="10.00" fill="#000000">space</text>
+<text text-anchor="middle" x="329" y="-274" font-family="Times,serif" font-size="10.00" fill="#000000">in</text>
+<text text-anchor="middle" x="329" y="-263" font-family="Times,serif" font-size="10.00" fill="#000000">mathematics</text>
 </g>
 <!-- node0000&#45;&gt;node0001 -->
 <g id="edge1" class="edge">

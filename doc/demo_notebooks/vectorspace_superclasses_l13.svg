@@ -20,9 +20,10 @@
 <g id="node2" class="node">
 <title>node0001</title>
 <ellipse fill="none" stroke="#000000" cx="36" cy="-3960" rx="36" ry="36"/>
-<text text-anchor="middle" x="36" y="-3968.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q472971">Q472971</a></text>
-<text text-anchor="middle" x="36" y="-3957.5" font-family="Times,serif" font-size="10.00" fill="#000000">space</text>
-<text text-anchor="middle" x="36" y="-3946.5" font-family="Times,serif" font-size="10.00" fill="#000000">(mathematics)</text>
+<text text-anchor="middle" x="36" y="-3974" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q472971">Q472971</a></text>
+<text text-anchor="middle" x="36" y="-3963" font-family="Times,serif" font-size="10.00" fill="#000000">space</text>
+<text text-anchor="middle" x="36" y="-3952" font-family="Times,serif" font-size="10.00" fill="#000000">in</text>
+<text text-anchor="middle" x="36" y="-3941" font-family="Times,serif" font-size="10.00" fill="#000000">mathematics</text>
 </g>
 <!-- node0000&#45;&gt;node0001 -->
 <g id="edge1" class="edge">
@@ -34,59 +35,59 @@
 <!-- node0002 -->
 <g id="node3" class="node">
 <title>node0002</title>
-<ellipse fill="none" stroke="#000000" cx="125" cy="-4050" rx="36" ry="36"/>
-<text text-anchor="middle" x="125" y="-4053" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q1292333">Q1292333</a></text>
-<text text-anchor="middle" x="125" y="-4042" font-family="Times,serif" font-size="10.00" fill="#000000">free module</text>
+<ellipse fill="none" stroke="#000000" cx="106" cy="-4050" rx="36" ry="36"/>
+<text text-anchor="middle" x="106" y="-4053" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q1292333">Q1292333</a></text>
+<text text-anchor="middle" x="106" y="-4042" font-family="Times,serif" font-size="10.00" fill="#000000">free module</text>
 </g>
 <!-- node0000&#45;&gt;node0002 -->
 <g id="edge2" class="edge">
 <title>node0000&#45;&gt;node0002</title>
-<path fill="none" stroke="#000000" d="M78.5525,-4140.6832C86.2933,-4125.5703 95.6018,-4107.3965 103.8465,-4091.2997"/>
-<polygon fill="#000000" stroke="#000000" points="107.1144,-4092.597 108.558,-4082.101 100.8841,-4089.4058 107.1144,-4092.597"/>
-<text text-anchor="middle" x="106.5" y="-4107.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M74.1397,-4139.0641C79.1476,-4125.0647 85.015,-4108.6627 90.3404,-4093.7758"/>
+<polygon fill="#000000" stroke="#000000" points="93.6744,-4094.8467 93.7472,-4084.2521 87.0834,-4092.4889 93.6744,-4094.8467"/>
+<text text-anchor="middle" x="95.5" y="-4107.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0003 -->
 <g id="node4" class="node">
 <title>node0003</title>
-<ellipse fill="none" stroke="#000000" cx="149" cy="-888" rx="36" ry="36"/>
-<text text-anchor="middle" x="149" y="-891" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q36161">Q36161</a></text>
-<text text-anchor="middle" x="149" y="-880" font-family="Times,serif" font-size="10.00" fill="#000000">set</text>
+<ellipse fill="none" stroke="#000000" cx="164" cy="-888" rx="36" ry="36"/>
+<text text-anchor="middle" x="164" y="-891" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q36161">Q36161</a></text>
+<text text-anchor="middle" x="164" y="-880" font-family="Times,serif" font-size="10.00" fill="#000000">set</text>
 </g>
 <!-- node0001&#45;&gt;node0003 -->
 <g id="edge3" class="edge">
 <title>node0001&#45;&gt;node0003</title>
-<path fill="none" stroke="#000000" d="M36,-3923.7994C36,-3887.4512 36,-3829.8438 36,-3780 36,-3780 36,-3780 36,-1011 36,-966.8124 76.0378,-931.6488 108.4488,-910.4225"/>
-<polygon fill="#000000" stroke="#000000" points="110.3366,-913.3699 116.921,-905.0695 106.5975,-907.4522 110.3366,-913.3699"/>
+<path fill="none" stroke="#000000" d="M36,-3923.7994C36,-3887.4512 36,-3829.8438 36,-3780 36,-3780 36,-3780 36,-1011 36,-962.5584 84.2528,-927.2335 121.5057,-907.1797"/>
+<polygon fill="#000000" stroke="#000000" points="123.4364,-910.1212 130.7036,-902.4116 120.2148,-903.9066 123.4364,-910.1212"/>
 <text text-anchor="middle" x="45.5" y="-2465.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0004 -->
 <g id="node5" class="node">
 <title>node0004</title>
-<ellipse fill="none" stroke="#000000" cx="125" cy="-3870" rx="36" ry="36"/>
-<text text-anchor="middle" x="125" y="-3878.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q942423">Q942423</a></text>
-<text text-anchor="middle" x="125" y="-3867.5" font-family="Times,serif" font-size="10.00" fill="#000000">projective</text>
-<text text-anchor="middle" x="125" y="-3856.5" font-family="Times,serif" font-size="10.00" fill="#000000">module</text>
+<ellipse fill="none" stroke="#000000" cx="106" cy="-3870" rx="36" ry="36"/>
+<text text-anchor="middle" x="106" y="-3878.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q942423">Q942423</a></text>
+<text text-anchor="middle" x="106" y="-3867.5" font-family="Times,serif" font-size="10.00" fill="#000000">projective</text>
+<text text-anchor="middle" x="106" y="-3856.5" font-family="Times,serif" font-size="10.00" fill="#000000">module</text>
 </g>
 <!-- node0002&#45;&gt;node0004 -->
 <g id="edge4" class="edge">
 <title>node0002&#45;&gt;node0004</title>
-<path fill="none" stroke="#000000" d="M125,-4013.5743C125,-3985.5469 125,-3946.621 125,-3916.3701"/>
-<polygon fill="#000000" stroke="#000000" points="128.5001,-3916.0639 125,-3906.0639 121.5001,-3916.064 128.5001,-3916.0639"/>
-<text text-anchor="middle" x="134.5" y="-3956.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M106,-4013.5743C106,-3985.5469 106,-3946.621 106,-3916.3701"/>
+<polygon fill="#000000" stroke="#000000" points="109.5001,-3916.0639 106,-3906.0639 102.5001,-3916.064 109.5001,-3916.0639"/>
+<text text-anchor="middle" x="115.5" y="-3956.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0005 -->
 <g id="node6" class="node">
 <title>node0005</title>
-<ellipse fill="none" stroke="#000000" cx="615" cy="-3780" rx="36" ry="36"/>
-<text text-anchor="middle" x="615" y="-3783" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q5500272">Q5500272</a></text>
-<text text-anchor="middle" x="615" y="-3772" font-family="Times,serif" font-size="10.00" fill="#000000">free object</text>
+<ellipse fill="none" stroke="#000000" cx="622" cy="-3780" rx="36" ry="36"/>
+<text text-anchor="middle" x="622" y="-3783" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q5500272">Q5500272</a></text>
+<text text-anchor="middle" x="622" y="-3772" font-family="Times,serif" font-size="10.00" fill="#000000">free object</text>
 </g>
 <!-- node0002&#45;&gt;node0005 -->
 <g id="edge5" class="edge">
 <title>node0002&#45;&gt;node0005</title>
-<path fill="none" stroke="#000000" d="M156.7727,-4032.4926C242.6491,-3985.173 479.3143,-3854.7656 574.5357,-3802.2967"/>
-<polygon fill="#000000" stroke="#000000" points="576.2301,-3805.3593 583.2993,-3797.4677 572.8518,-3799.2284 576.2301,-3805.3593"/>
-<text text-anchor="middle" x="358.5" y="-3956.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M138.2781,-4033.1103C228.1557,-3986.0813 481.2201,-3853.6639 580.9066,-3801.5024"/>
+<polygon fill="#000000" stroke="#000000" points="582.8266,-3804.448 590.0642,-3796.7106 579.5812,-3798.2457 582.8266,-3804.448"/>
+<text text-anchor="middle" x="350.5" y="-3956.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0006 -->
 <g id="node7" class="node">
@@ -98,9 +99,9 @@
 <!-- node0003&#45;&gt;node0006 -->
 <g id="edge6" class="edge">
 <title>node0003&#45;&gt;node0006</title>
-<path fill="none" stroke="#000000" d="M146.3726,-852.0927C145.4382,-839.3225 144.3727,-824.7605 143.3839,-811.2472"/>
-<polygon fill="#000000" stroke="#000000" points="146.8667,-810.8828 142.6462,-801.1649 139.8854,-811.3937 146.8667,-810.8828"/>
-<text text-anchor="middle" x="154.5" y="-822.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M157.0582,-852.4233C154.496,-839.2919 151.5572,-824.2306 148.8489,-810.3504"/>
+<polygon fill="#000000" stroke="#000000" points="152.2766,-809.6413 146.9262,-800.4967 145.4062,-810.982 152.2766,-809.6413"/>
+<text text-anchor="middle" x="162.5" y="-822.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0007 -->
 <g id="node8" class="node">
@@ -113,9 +114,9 @@
 <!-- node0003&#45;&gt;node0007 -->
 <g id="edge7" class="edge">
 <title>node0003&#45;&gt;node0007</title>
-<path fill="none" stroke="#000000" d="M163.0941,-854.6361C169.8427,-838.4856 177.9668,-818.7849 185,-801 200.3886,-762.0871 217.1422,-717.4885 229.025,-685.4478"/>
-<polygon fill="#000000" stroke="#000000" points="232.3599,-686.5206 232.5495,-675.9274 225.7953,-684.0903 232.3599,-686.5206"/>
-<text text-anchor="middle" x="221.5" y="-761.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M175.2627,-853.7948C189.6999,-809.9485 214.7507,-733.8682 230.5709,-685.8218"/>
+<polygon fill="#000000" stroke="#000000" points="233.8995,-686.9034 233.7027,-676.3104 227.2507,-684.7141 233.8995,-686.9034"/>
+<text text-anchor="middle" x="224.5" y="-761.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0008 -->
 <g id="node9" class="node">
@@ -127,9 +128,9 @@
 <!-- node0003&#45;&gt;node0008 -->
 <g id="edge8" class="edge">
 <title>node0003&#45;&gt;node0008</title>
-<path fill="none" stroke="#000000" d="M179.9449,-868.8894C194.5616,-859.229 211.8603,-846.8457 226,-834 236.7017,-824.2777 247.3097,-812.6631 256.517,-801.7608"/>
-<polygon fill="#000000" stroke="#000000" points="259.2733,-803.9199 262.9551,-793.9854 253.8817,-799.4556 259.2733,-803.9199"/>
-<text text-anchor="middle" x="249.5" y="-822.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M191.9442,-865.1773C202.8896,-855.853 215.3499,-844.7476 226,-834 236.1771,-823.7298 246.6365,-811.96 255.869,-801.084"/>
+<polygon fill="#000000" stroke="#000000" points="258.6062,-803.267 262.3533,-793.3569 253.244,-798.7673 258.6062,-803.267"/>
+<text text-anchor="middle" x="248.5" y="-822.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0009 -->
 <g id="node10" class="node">
@@ -141,38 +142,38 @@
 <!-- node0003&#45;&gt;node0009 -->
 <g id="edge9" class="edge">
 <title>node0003&#45;&gt;node0009</title>
-<path fill="none" stroke="#000000" d="M126.2874,-859.7813C112.2642,-842.3586 94.1365,-819.8363 79.0709,-801.1184"/>
-<polygon fill="#000000" stroke="#000000" points="81.6036,-798.683 72.6069,-793.0874 76.1505,-803.0721 81.6036,-798.683"/>
-<text text-anchor="middle" x="114.5" y="-822.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M139.2637,-861.3108C122.3829,-843.0973 99.8728,-818.8101 81.681,-799.1821"/>
+<polygon fill="#000000" stroke="#000000" points="84.0527,-796.5922 74.688,-791.6371 78.9187,-801.3506 84.0527,-796.5922"/>
+<text text-anchor="middle" x="122.5" y="-822.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0010 -->
 <g id="node11" class="node">
 <title>node0010</title>
-<ellipse fill="none" stroke="#000000" cx="164" cy="-3690" rx="36" ry="36"/>
-<text text-anchor="middle" x="164" y="-3693" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q1426191">Q1426191</a></text>
-<text text-anchor="middle" x="164" y="-3682" font-family="Times,serif" font-size="10.00" fill="#000000">flat module</text>
+<ellipse fill="none" stroke="#000000" cx="171" cy="-3690" rx="36" ry="36"/>
+<text text-anchor="middle" x="171" y="-3693" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q1426191">Q1426191</a></text>
+<text text-anchor="middle" x="171" y="-3682" font-family="Times,serif" font-size="10.00" fill="#000000">flat module</text>
 </g>
 <!-- node0004&#45;&gt;node0010 -->
 <g id="edge10" class="edge">
 <title>node0004&#45;&gt;node0010</title>
-<path fill="none" stroke="#000000" d="M132.7051,-3834.4378C138.848,-3806.0863 147.4922,-3766.19 154.1396,-3735.5097"/>
-<polygon fill="#000000" stroke="#000000" points="157.6139,-3736.0027 156.3109,-3725.4883 150.7726,-3734.5204 157.6139,-3736.0027"/>
-<text text-anchor="middle" x="160.5" y="-3776.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M118.379,-3835.7197C128.8155,-3806.8187 143.8158,-3765.2794 155.1327,-3733.9403"/>
+<polygon fill="#000000" stroke="#000000" points="158.5625,-3734.747 158.6671,-3724.1527 151.9786,-3732.3694 158.5625,-3734.747"/>
+<text text-anchor="middle" x="158.5" y="-3776.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0011 -->
 <g id="node12" class="node">
 <title>node0011</title>
-<ellipse fill="none" stroke="#000000" cx="93" cy="-3600" rx="36" ry="36"/>
-<text text-anchor="middle" x="93" y="-3608.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q2112502">Q2112502</a></text>
-<text text-anchor="middle" x="93" y="-3597.5" font-family="Times,serif" font-size="10.00" fill="#000000">projective</text>
-<text text-anchor="middle" x="93" y="-3586.5" font-family="Times,serif" font-size="10.00" fill="#000000">object</text>
+<ellipse fill="none" stroke="#000000" cx="97" cy="-3600" rx="36" ry="36"/>
+<text text-anchor="middle" x="97" y="-3608.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q2112502">Q2112502</a></text>
+<text text-anchor="middle" x="97" y="-3597.5" font-family="Times,serif" font-size="10.00" fill="#000000">projective</text>
+<text text-anchor="middle" x="97" y="-3586.5" font-family="Times,serif" font-size="10.00" fill="#000000">object</text>
 </g>
 <!-- node0004&#45;&gt;node0011 -->
 <g id="edge11" class="edge">
 <title>node0004&#45;&gt;node0011</title>
-<path fill="none" stroke="#000000" d="M117.252,-3834.656C116.0504,-3828.4582 114.9086,-3822.0554 114,-3816 105.2529,-3757.7046 99.3537,-3689.9852 96.0886,-3646.1353"/>
-<polygon fill="#000000" stroke="#000000" points="99.5724,-3645.7853 95.354,-3636.0665 92.591,-3646.2947 99.5724,-3645.7853"/>
-<text text-anchor="middle" x="123.5" y="-3776.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M104.6428,-3833.9827C104.4232,-3827.9777 104.2018,-3821.813 104,-3816 101.969,-3757.5067 99.814,-3690.0965 98.4403,-3646.3556"/>
+<polygon fill="#000000" stroke="#000000" points="101.937,-3646.1942 98.1254,-3636.3088 94.9405,-3646.4135 101.937,-3646.1942"/>
+<text text-anchor="middle" x="113.5" y="-3776.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0012 -->
 <g id="node13" class="node">
@@ -185,7 +186,7 @@
 <!-- node0005&#45;&gt;node0012 -->
 <g id="edge12" class="edge">
 <title>node0005&#45;&gt;node0012</title>
-<path fill="none" stroke="#000000" d="M650.2326,-3772.3188C748.7666,-3749.8283 1020,-3680.5991 1020,-3600 1020,-3600 1020,-3600 1020,-1560 1020,-1494.5046 937.9231,-1461.442 884.31,-1446.8317"/>
+<path fill="none" stroke="#000000" d="M657.3198,-3772.0397C754.7254,-3749.0723 1020,-3679.2479 1020,-3600 1020,-3600 1020,-3600 1020,-1560 1020,-1494.5046 937.9231,-1461.442 884.31,-1446.8317"/>
 <polygon fill="#000000" stroke="#000000" points="884.8876,-1443.3654 874.3283,-1444.233 883.1239,-1450.1396 884.8876,-1443.3654"/>
 <text text-anchor="middle" x="1029.5" y="-2706.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
@@ -213,16 +214,17 @@
 <!-- node0014 -->
 <g id="node15" class="node">
 <title>node0014</title>
-<ellipse fill="none" stroke="#000000" cx="173" cy="-282" rx="36" ry="36"/>
-<text text-anchor="middle" x="173" y="-285" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q7184903">Q7184903</a></text>
-<text text-anchor="middle" x="173" y="-274" font-family="Times,serif" font-size="10.00" fill="#000000">abstract object</text>
+<ellipse fill="none" stroke="#000000" cx="217" cy="-282" rx="36" ry="36"/>
+<text text-anchor="middle" x="217" y="-290.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q7184903">Q7184903</a></text>
+<text text-anchor="middle" x="217" y="-279.5" font-family="Times,serif" font-size="10.00" fill="#000000">abstract</text>
+<text text-anchor="middle" x="217" y="-268.5" font-family="Times,serif" font-size="10.00" fill="#000000">object</text>
 </g>
 <!-- node0007&#45;&gt;node0014 -->
 <g id="edge15" class="edge">
 <title>node0007&#45;&gt;node0014</title>
-<path fill="none" stroke="#000000" d="M243.0019,-605.7653C238.9565,-547.553 227.3382,-430.1877 196,-336 194.7333,-332.1929 193.3121,-328.2795 191.814,-324.3824"/>
-<polygon fill="#000000" stroke="#000000" points="194.9429,-322.7809 187.9756,-314.7992 188.4448,-325.3837 194.9429,-322.7809"/>
-<text text-anchor="middle" x="240.5" y="-458.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M243.5873,-605.6473C241.1398,-548.2441 235.3528,-433.1423 225,-336 224.7133,-333.3098 224.391,-330.548 224.0448,-327.7642"/>
+<polygon fill="#000000" stroke="#000000" points="227.4911,-327.1278 222.7061,-317.6751 220.5519,-328.0486 227.4911,-327.1278"/>
+<text text-anchor="middle" x="247.5" y="-458.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0008&#45;&gt;node0007 -->
 <g id="edge16" class="edge">
@@ -248,17 +250,18 @@
 <!-- node0016 -->
 <g id="node17" class="node">
 <title>node0016</title>
-<ellipse fill="none" stroke="#000000" cx="378" cy="-3510" rx="36" ry="36"/>
-<text text-anchor="middle" x="378" y="-3518.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q7827200">Q7827200</a></text>
-<text text-anchor="middle" x="378" y="-3507.5" font-family="Times,serif" font-size="10.00" fill="#000000">torsion&#45;free</text>
-<text text-anchor="middle" x="378" y="-3496.5" font-family="Times,serif" font-size="10.00" fill="#000000">module</text>
+<ellipse fill="none" stroke="#000000" cx="192" cy="-3510" rx="36" ry="36"/>
+<text text-anchor="middle" x="192" y="-3524" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q7827200">Q7827200</a></text>
+<text text-anchor="middle" x="192" y="-3513" font-family="Times,serif" font-size="10.00" fill="#000000">torsion&#45;</text>
+<text text-anchor="middle" x="192" y="-3502" font-family="Times,serif" font-size="10.00" fill="#000000">free</text>
+<text text-anchor="middle" x="192" y="-3491" font-family="Times,serif" font-size="10.00" fill="#000000">module</text>
 </g>
 <!-- node0010&#45;&gt;node0016 -->
 <g id="edge18" class="edge">
 <title>node0010&#45;&gt;node0016</title>
-<path fill="none" stroke="#000000" d="M191.9768,-3666.4681C230.6129,-3633.9704 300.3073,-3575.349 342.5464,-3539.8207"/>
-<polygon fill="#000000" stroke="#000000" points="344.9556,-3542.3679 350.3555,-3533.2524 340.4497,-3537.0109 344.9556,-3542.3679"/>
-<text text-anchor="middle" x="317.5" y="-3596.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M175.1992,-3654.0069C178.4898,-3625.8014 183.0907,-3586.3657 186.6459,-3555.8924"/>
+<polygon fill="#000000" stroke="#000000" points="190.1256,-3556.2689 187.8081,-3545.9307 183.1728,-3555.4577 190.1256,-3556.2689"/>
+<text text-anchor="middle" x="194.5" y="-3596.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0017 -->
 <g id="node18" class="node">
@@ -273,7 +276,7 @@
 <!-- node0011&#45;&gt;node0017 -->
 <g id="edge19" class="edge">
 <title>node0011&#45;&gt;node0017</title>
-<path fill="none" stroke="#000000" d="M89.2764,-3563.9236C86.4332,-3533.2566 83,-3488.039 83,-3448.5 83,-3448.5 83,-3448.5 83,-2469 83,-2418.6121 105.5399,-2364.6364 123.867,-2329.0772"/>
+<path fill="none" stroke="#000000" d="M91.8267,-3564.2718C87.8386,-3533.6261 83,-3488.2533 83,-3448.5 83,-3448.5 83,-3448.5 83,-2469 83,-2418.6121 105.5399,-2364.6364 123.867,-2329.0772"/>
 <polygon fill="#000000" stroke="#000000" points="127.0851,-2330.4783 128.6602,-2320.0012 120.8953,-2327.2093 127.0851,-2330.4783"/>
 <text text-anchor="middle" x="92.5" y="-3014.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
@@ -295,954 +298,992 @@
 <!-- node0019 -->
 <g id="node20" class="node">
 <title>node0019</title>
-<ellipse fill="none" stroke="#000000" cx="101" cy="-372" rx="36" ry="36"/>
-<text text-anchor="middle" x="101" y="-380.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q99527517">Q99527517</a></text>
-<text text-anchor="middle" x="101" y="-369.5" font-family="Times,serif" font-size="10.00" fill="#000000">collection</text>
-<text text-anchor="middle" x="101" y="-358.5" font-family="Times,serif" font-size="10.00" fill="#000000">entity</text>
+<ellipse fill="none" stroke="#000000" cx="100" cy="-372" rx="36" ry="36"/>
+<text text-anchor="middle" x="100" y="-380.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q99527517">Q99527517</a></text>
+<text text-anchor="middle" x="100" y="-369.5" font-family="Times,serif" font-size="10.00" fill="#000000">collective</text>
+<text text-anchor="middle" x="100" y="-358.5" font-family="Times,serif" font-size="10.00" fill="#000000">entity</text>
 </g>
 <!-- node0013&#45;&gt;node0019 -->
 <g id="edge21" class="edge">
 <title>node0013&#45;&gt;node0019</title>
-<path fill="none" stroke="#000000" d="M102.5953,-515.5743C102.2839,-487.5469 101.8513,-448.621 101.5152,-418.3701"/>
-<polygon fill="#000000" stroke="#000000" points="105.0117,-418.0244 101.4007,-408.0639 98.0121,-418.1022 105.0117,-418.0244"/>
+<path fill="none" stroke="#000000" d="M102.3929,-515.5743C101.9258,-487.5469 101.277,-448.621 100.7728,-418.3701"/>
+<polygon fill="#000000" stroke="#000000" points="104.2673,-418.0042 100.6011,-408.0639 97.2683,-418.1209 104.2673,-418.0042"/>
 <text text-anchor="middle" x="111.5" y="-458.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0020 -->
 <g id="node21" class="node">
 <title>node0020</title>
-<ellipse fill="none" stroke="#000000" cx="171" cy="-159" rx="36" ry="36"/>
-<text text-anchor="middle" x="171" y="-162" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q488383">Q488383</a></text>
-<text text-anchor="middle" x="171" y="-151" font-family="Times,serif" font-size="10.00" fill="#000000">object</text>
+<ellipse fill="none" stroke="#000000" cx="164" cy="-159" rx="36" ry="36"/>
+<text text-anchor="middle" x="164" y="-162" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q488383">Q488383</a></text>
+<text text-anchor="middle" x="164" y="-151" font-family="Times,serif" font-size="10.00" fill="#000000">object</text>
 </g>
 <!-- node0014&#45;&gt;node0020 -->
 <g id="edge22" class="edge">
 <title>node0014&#45;&gt;node0020</title>
-<path fill="none" stroke="#000000" d="M172.4108,-245.7612C172.2071,-233.2361 171.9759,-219.0191 171.7605,-205.771"/>
-<polygon fill="#000000" stroke="#000000" points="175.2542,-205.3466 171.5919,-195.4048 168.2551,-205.4604 175.2542,-205.3466"/>
-<text text-anchor="middle" x="181.5" y="-216.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M202.6574,-248.7144C196.4121,-234.2206 189.0166,-217.0574 182.375,-201.6438"/>
+<polygon fill="#000000" stroke="#000000" points="185.5256,-200.1108 178.354,-192.3122 179.097,-202.8809 185.5256,-200.1108"/>
+<text text-anchor="middle" x="202.5" y="-216.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0021 -->
 <g id="node22" class="node">
 <title>node0021</title>
-<ellipse fill="none" stroke="#000000" cx="173" cy="-462" rx="36" ry="36"/>
-<text text-anchor="middle" x="173" y="-465" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q930933">Q930933</a></text>
-<text text-anchor="middle" x="173" y="-454" font-family="Times,serif" font-size="10.00" fill="#000000">relation</text>
+<ellipse fill="none" stroke="#000000" cx="254" cy="-159" rx="36" ry="36"/>
+<text text-anchor="middle" x="254" y="-173" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q7048977">Q7048977</a></text>
+<text text-anchor="middle" x="254" y="-162" font-family="Times,serif" font-size="10.00" fill="#000000">non&#45;</text>
+<text text-anchor="middle" x="254" y="-151" font-family="Times,serif" font-size="10.00" fill="#000000">physical</text>
+<text text-anchor="middle" x="254" y="-140" font-family="Times,serif" font-size="10.00" fill="#000000">entity</text>
 </g>
-<!-- node0015&#45;&gt;node0021 -->
+<!-- node0014&#45;&gt;node0021 -->
 <g id="edge23" class="edge">
-<title>node0015&#45;&gt;node0021</title>
-<path fill="none" stroke="#000000" d="M96.3047,-627.2687C113.0245,-618.2383 132.1849,-605.1042 144,-588 160.0906,-564.7064 167.3655,-533.7819 170.6055,-508.3993"/>
-<polygon fill="#000000" stroke="#000000" points="174.1066,-508.5822 171.7275,-498.2579 167.149,-507.8124 174.1066,-508.5822"/>
-<text text-anchor="middle" x="178.5" y="-548.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0014&#45;&gt;node0021</title>
+<path fill="none" stroke="#000000" d="M227.405,-247.4103C231.5036,-233.7855 236.2624,-217.9656 240.6121,-203.5058"/>
+<polygon fill="#000000" stroke="#000000" points="244.0158,-204.3406 243.5449,-193.7562 237.3125,-202.3241 244.0158,-204.3406"/>
+<text text-anchor="middle" x="246.5" y="-216.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0022 -->
 <g id="node23" class="node">
 <title>node0022</title>
-<ellipse fill="none" stroke="#000000" cx="515" cy="-3387" rx="36" ry="36"/>
-<text text-anchor="middle" x="515" y="-3390" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q18848">Q18848</a></text>
-<text text-anchor="middle" x="515" y="-3379" font-family="Times,serif" font-size="10.00" fill="#000000">module</text>
+<ellipse fill="none" stroke="#000000" cx="173" cy="-462" rx="36" ry="36"/>
+<text text-anchor="middle" x="173" y="-465" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q930933">Q930933</a></text>
+<text text-anchor="middle" x="173" y="-454" font-family="Times,serif" font-size="10.00" fill="#000000">relation</text>
 </g>
-<!-- node0016&#45;&gt;node0022 -->
+<!-- node0015&#45;&gt;node0022 -->
 <g id="edge24" class="edge">
-<title>node0016&#45;&gt;node0022</title>
-<path fill="none" stroke="#000000" d="M405.0668,-3485.6992C426.6454,-3466.3256 457.0109,-3439.0632 480.3621,-3418.0983"/>
-<polygon fill="#000000" stroke="#000000" points="482.8866,-3420.5354 487.9894,-3411.2504 478.2101,-3415.3267 482.8866,-3420.5354"/>
-<text text-anchor="middle" x="463.5" y="-3444.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0015&#45;&gt;node0022</title>
+<path fill="none" stroke="#000000" d="M96.4217,-628.3007C114.0971,-619.3735 134.6392,-606.0107 147,-588 162.9962,-564.6923 169.5307,-533.6341 172.0491,-508.1856"/>
+<polygon fill="#000000" stroke="#000000" points="175.5536,-508.2721 172.8757,-498.0213 168.5766,-507.7047 175.5536,-508.2721"/>
+<text text-anchor="middle" x="180.5" y="-548.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0023 -->
 <g id="node24" class="node">
 <title>node0023</title>
-<ellipse fill="none" stroke="#000000" cx="147" cy="-2109" rx="36" ry="36"/>
-<text text-anchor="middle" x="147" y="-2112" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q379825">Q379825</a></text>
-<text text-anchor="middle" x="147" y="-2101" font-family="Times,serif" font-size="10.00" fill="#000000">element</text>
+<ellipse fill="none" stroke="#000000" cx="274" cy="-3387" rx="36" ry="36"/>
+<text text-anchor="middle" x="274" y="-3390" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q18848">Q18848</a></text>
+<text text-anchor="middle" x="274" y="-3379" font-family="Times,serif" font-size="10.00" fill="#000000">module</text>
 </g>
-<!-- node0017&#45;&gt;node0023 -->
+<!-- node0016&#45;&gt;node0023 -->
 <g id="edge25" class="edge">
-<title>node0017&#45;&gt;node0023</title>
-<path fill="none" stroke="#000000" d="M147,-2252.5743C147,-2224.5469 147,-2185.621 147,-2155.3701"/>
-<polygon fill="#000000" stroke="#000000" points="150.5001,-2155.0639 147,-2145.0639 143.5001,-2155.064 150.5001,-2155.0639"/>
+<title>node0016&#45;&gt;node0023</title>
+<path fill="none" stroke="#000000" d="M212.0595,-3479.9108C222.9795,-3463.5307 236.6087,-3443.087 248.3001,-3425.5499"/>
+<polygon fill="#000000" stroke="#000000" points="251.2286,-3427.4668 253.8634,-3417.2048 245.4042,-3423.5839 251.2286,-3427.4668"/>
+<text text-anchor="middle" x="246.5" y="-3444.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0024 -->
+<g id="node25" class="node">
+<title>node0024</title>
+<ellipse fill="none" stroke="#000000" cx="148" cy="-2109" rx="36" ry="36"/>
+<text text-anchor="middle" x="148" y="-2112" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q379825">Q379825</a></text>
+<text text-anchor="middle" x="148" y="-2101" font-family="Times,serif" font-size="10.00" fill="#000000">element</text>
+</g>
+<!-- node0017&#45;&gt;node0024 -->
+<g id="edge26" class="edge">
+<title>node0017&#45;&gt;node0024</title>
+<path fill="none" stroke="#000000" d="M147.2024,-2252.5743C147.3581,-2224.5469 147.5743,-2185.621 147.7424,-2155.3701"/>
+<polygon fill="#000000" stroke="#000000" points="151.2439,-2155.0832 147.7996,-2145.0639 144.244,-2155.0443 151.2439,-2155.0832"/>
 <text text-anchor="middle" x="156.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0018&#45;&gt;node0007 -->
-<g id="edge26" class="edge">
+<g id="edge27" class="edge">
 <title>node0018&#45;&gt;node0007</title>
 <path fill="none" stroke="#000000" d="M349,-1220.94C349,-1196.4244 349,-1163.2552 349,-1134 349,-1134 349,-1134 349,-765 349,-723.3861 313.8585,-688.5902 284.4303,-666.7471"/>
 <polygon fill="#000000" stroke="#000000" points="286.092,-663.6326 275.9218,-660.663 282.0204,-669.3266 286.092,-663.6326"/>
 <text text-anchor="middle" x="358.5" y="-945.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
-<!-- node0024 -->
-<g id="node25" class="node">
-<title>node0024</title>
-<polygon fill="none" stroke="#000000" points="157,-72 85,-72 85,0 157,0 157,-72"/>
-<text text-anchor="middle" x="121" y="-39" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q35120">Q35120</a></text>
-<text text-anchor="middle" x="121" y="-28" font-family="Times,serif" font-size="10.00" fill="#000000">entity</text>
-</g>
-<!-- node0019&#45;&gt;node0024 -->
-<g id="edge27" class="edge">
-<title>node0019&#45;&gt;node0024</title>
-<path fill="none" stroke="#000000" d="M103.1404,-336.0421C106.7847,-274.8163 114.1915,-150.3834 118.2271,-82.584"/>
-<polygon fill="#000000" stroke="#000000" points="121.7443,-82.3975 118.8448,-72.2072 114.7567,-81.9815 121.7443,-82.3975"/>
-<text text-anchor="middle" x="119.5" y="-216.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0020&#45;&gt;node0024 -->
-<g id="edge28" class="edge">
-<title>node0020&#45;&gt;node0024</title>
-<path fill="none" stroke="#000000" d="M157.3373,-125.3897C151.8345,-111.853 145.4021,-96.0291 139.4913,-81.4887"/>
-<polygon fill="#000000" stroke="#000000" points="142.7057,-80.1017 135.6975,-72.1559 136.221,-82.7378 142.7057,-80.1017"/>
-<text text-anchor="middle" x="157.5" y="-93.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0021&#45;&gt;node0014 -->
-<g id="edge29" class="edge">
-<title>node0021&#45;&gt;node0014</title>
-<path fill="none" stroke="#000000" d="M173,-425.5743C173,-397.5469 173,-358.621 173,-328.3701"/>
-<polygon fill="#000000" stroke="#000000" points="176.5001,-328.0639 173,-318.0639 169.5001,-328.064 176.5001,-328.0639"/>
-<text text-anchor="middle" x="182.5" y="-368.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
 <!-- node0025 -->
 <g id="node26" class="node">
 <title>node0025</title>
-<ellipse fill="none" stroke="#000000" cx="596" cy="-3264" rx="36" ry="36"/>
-<text text-anchor="middle" x="596" y="-3267" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q181296">Q181296</a></text>
-<text text-anchor="middle" x="596" y="-3256" font-family="Times,serif" font-size="10.00" fill="#000000">abelian group</text>
+<polygon fill="none" stroke="#000000" points="200,-72 128,-72 128,0 200,0 200,-72"/>
+<text text-anchor="middle" x="164" y="-39" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q35120">Q35120</a></text>
+<text text-anchor="middle" x="164" y="-28" font-family="Times,serif" font-size="10.00" fill="#000000">entity</text>
 </g>
-<!-- node0022&#45;&gt;node0025 -->
+<!-- node0019&#45;&gt;node0025 -->
+<g id="edge28" class="edge">
+<title>node0019&#45;&gt;node0025</title>
+<path fill="none" stroke="#000000" d="M98.2987,-335.7527C96.989,-286.567 98.1511,-196.401 119,-123 123.0006,-108.9155 129.4005,-94.4638 136.1333,-81.485"/>
+<polygon fill="#000000" stroke="#000000" points="139.408,-82.7855 141.0651,-72.321 133.244,-79.4681 139.408,-82.7855"/>
+<text text-anchor="middle" x="111.5" y="-216.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0020&#45;&gt;node0025 -->
+<g id="edge29" class="edge">
+<title>node0020&#45;&gt;node0025</title>
+<path fill="none" stroke="#000000" d="M164,-122.7612C164,-110.2361 164,-96.0191 164,-82.771"/>
+<polygon fill="#000000" stroke="#000000" points="167.5001,-82.4048 164,-72.4048 160.5001,-82.4048 167.5001,-82.4048"/>
+<text text-anchor="middle" x="173.5" y="-93.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0021&#45;&gt;node0025 -->
 <g id="edge30" class="edge">
-<title>node0022&#45;&gt;node0025</title>
-<path fill="none" stroke="#000000" d="M534.8148,-3356.9108C545.5036,-3340.6797 558.8201,-3320.4584 570.298,-3303.0289"/>
-<polygon fill="#000000" stroke="#000000" points="573.5322,-3304.4816 576.109,-3294.2048 567.6859,-3300.6316 573.5322,-3304.4816"/>
-<text text-anchor="middle" x="569.5" y="-3321.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0021&#45;&gt;node0025</title>
+<path fill="none" stroke="#000000" d="M232.6713,-129.8507C221.9591,-115.2108 208.7452,-97.1518 196.7788,-80.7977"/>
+<polygon fill="#000000" stroke="#000000" points="199.3845,-78.4317 190.6548,-72.4282 193.7353,-82.5653 199.3845,-78.4317"/>
+<text text-anchor="middle" x="223.5" y="-93.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0022&#45;&gt;node0014 -->
+<g id="edge31" class="edge">
+<title>node0022&#45;&gt;node0014</title>
+<path fill="none" stroke="#000000" d="M181.5881,-426.8669C188.5536,-398.3716 198.4197,-358.0103 205.9695,-327.1247"/>
+<polygon fill="#000000" stroke="#000000" points="209.4589,-327.5896 208.4336,-317.0445 202.6591,-325.9274 209.4589,-327.5896"/>
+<text text-anchor="middle" x="211.5" y="-368.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0026 -->
 <g id="node27" class="node">
 <title>node0026</title>
-<ellipse fill="none" stroke="#000000" cx="147" cy="-1986" rx="36" ry="36"/>
-<text text-anchor="middle" x="147" y="-1989" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q5358816">Q5358816</a></text>
-<text text-anchor="middle" x="147" y="-1978" font-family="Times,serif" font-size="10.00" fill="#000000">element</text>
+<ellipse fill="none" stroke="#000000" cx="601" cy="-3264" rx="36" ry="36"/>
+<text text-anchor="middle" x="601" y="-3272.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q181296">Q181296</a></text>
+<text text-anchor="middle" x="601" y="-3261.5" font-family="Times,serif" font-size="10.00" fill="#000000">abelian</text>
+<text text-anchor="middle" x="601" y="-3250.5" font-family="Times,serif" font-size="10.00" fill="#000000">group</text>
 </g>
 <!-- node0023&#45;&gt;node0026 -->
-<g id="edge31" class="edge">
+<g id="edge32" class="edge">
 <title>node0023&#45;&gt;node0026</title>
-<path fill="none" stroke="#000000" d="M147,-2072.7612C147,-2060.2361 147,-2046.0191 147,-2032.771"/>
-<polygon fill="#000000" stroke="#000000" points="150.5001,-2032.4048 147,-2022.4048 143.5001,-2032.4048 150.5001,-2032.4048"/>
-<text text-anchor="middle" x="156.5" y="-2043.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M307.7631,-3374.3001C367.3644,-3351.8813 491.1601,-3305.3159 557.2287,-3280.4644"/>
+<polygon fill="#000000" stroke="#000000" points="558.8031,-3283.6117 566.9307,-3276.8151 556.3387,-3277.0599 558.8031,-3283.6117"/>
+<text text-anchor="middle" x="466.5" y="-3321.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0027 -->
 <g id="node28" class="node">
 <title>node0027</title>
-<ellipse fill="none" stroke="#000000" cx="543" cy="-2772" rx="36" ry="36"/>
-<text text-anchor="middle" x="543" y="-2775" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q83478">Q83478</a></text>
-<text text-anchor="middle" x="543" y="-2764" font-family="Times,serif" font-size="10.00" fill="#000000">group</text>
+<ellipse fill="none" stroke="#000000" cx="148" cy="-1986" rx="36" ry="36"/>
+<text text-anchor="middle" x="148" y="-1989" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q5358816">Q5358816</a></text>
+<text text-anchor="middle" x="148" y="-1978" font-family="Times,serif" font-size="10.00" fill="#000000">element</text>
 </g>
-<!-- node0025&#45;&gt;node0027 -->
-<g id="edge32" class="edge">
-<title>node0025&#45;&gt;node0027</title>
-<path fill="none" stroke="#000000" d="M596,-3227.94C596,-3203.4244 596,-3170.2552 596,-3141 596,-3141 596,-3141 596,-2895 596,-2865.0301 582.565,-2834.0592 569.2234,-2810.6924"/>
-<polygon fill="#000000" stroke="#000000" points="572.0631,-2808.6194 563.947,-2801.8091 566.0447,-2812.1942 572.0631,-2808.6194"/>
-<text text-anchor="middle" x="605.5" y="-3014.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<!-- node0024&#45;&gt;node0027 -->
+<g id="edge33" class="edge">
+<title>node0024&#45;&gt;node0027</title>
+<path fill="none" stroke="#000000" d="M148,-2072.7612C148,-2060.2361 148,-2046.0191 148,-2032.771"/>
+<polygon fill="#000000" stroke="#000000" points="151.5001,-2032.4048 148,-2022.4048 144.5001,-2032.4048 151.5001,-2032.4048"/>
+<text text-anchor="middle" x="157.5" y="-2043.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0028 -->
 <g id="node29" class="node">
 <title>node0028</title>
-<ellipse fill="none" stroke="#000000" cx="530" cy="-3141" rx="36" ry="36"/>
-<text text-anchor="middle" x="530" y="-3144" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q1755242">Q1755242</a></text>
-<text text-anchor="middle" x="530" y="-3133" font-family="Times,serif" font-size="10.00" fill="#000000">nilpotent group</text>
+<ellipse fill="none" stroke="#000000" cx="548" cy="-2772" rx="36" ry="36"/>
+<text text-anchor="middle" x="548" y="-2775" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q83478">Q83478</a></text>
+<text text-anchor="middle" x="548" y="-2764" font-family="Times,serif" font-size="10.00" fill="#000000">group</text>
 </g>
-<!-- node0025&#45;&gt;node0028 -->
-<g id="edge33" class="edge">
-<title>node0025&#45;&gt;node0028</title>
-<path fill="none" stroke="#000000" d="M576.5998,-3233.478C571.9885,-3225.8951 567.1933,-3217.7248 563,-3210 558.3453,-3201.4252 553.644,-3192.0885 549.3064,-3183.1336"/>
-<polygon fill="#000000" stroke="#000000" points="552.4053,-3181.5008 544.9349,-3173.9878 546.0896,-3184.5195 552.4053,-3181.5008"/>
-<text text-anchor="middle" x="572.5" y="-3198.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<!-- node0026&#45;&gt;node0028 -->
+<g id="edge34" class="edge">
+<title>node0026&#45;&gt;node0028</title>
+<path fill="none" stroke="#000000" d="M601,-3227.94C601,-3203.4244 601,-3170.2552 601,-3141 601,-3141 601,-3141 601,-2895 601,-2865.0301 587.565,-2834.0592 574.2234,-2810.6924"/>
+<polygon fill="#000000" stroke="#000000" points="577.0631,-2808.6194 568.947,-2801.8091 571.0447,-2812.1942 577.0631,-2808.6194"/>
+<text text-anchor="middle" x="610.5" y="-3014.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0029 -->
 <g id="node30" class="node">
 <title>node0029</title>
-<ellipse fill="none" stroke="#000000" cx="651" cy="-2772" rx="36" ry="36"/>
-<text text-anchor="middle" x="651" y="-2780.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q19934355">Q19934355</a></text>
-<text text-anchor="middle" x="651" y="-2769.5" font-family="Times,serif" font-size="10.00" fill="#000000">commutative</text>
-<text text-anchor="middle" x="651" y="-2758.5" font-family="Times,serif" font-size="10.00" fill="#000000">monoid</text>
+<ellipse fill="none" stroke="#000000" cx="535" cy="-3141" rx="36" ry="36"/>
+<text text-anchor="middle" x="535" y="-3149.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q1755242">Q1755242</a></text>
+<text text-anchor="middle" x="535" y="-3138.5" font-family="Times,serif" font-size="10.00" fill="#000000">nilpotent</text>
+<text text-anchor="middle" x="535" y="-3127.5" font-family="Times,serif" font-size="10.00" fill="#000000">group</text>
 </g>
-<!-- node0025&#45;&gt;node0029 -->
-<g id="edge34" class="edge">
-<title>node0025&#45;&gt;node0029</title>
-<path fill="none" stroke="#000000" d="M617.4219,-3234.7942C632.865,-3210.8382 651,-3175.3859 651,-3141 651,-3141 651,-3141 651,-2895 651,-2869.6302 651,-2841.3171 651,-2818.2564"/>
-<polygon fill="#000000" stroke="#000000" points="654.5001,-2818.06 651,-2808.06 647.5001,-2818.06 654.5001,-2818.06"/>
-<text text-anchor="middle" x="660.5" y="-3014.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<!-- node0026&#45;&gt;node0029 -->
+<g id="edge35" class="edge">
+<title>node0026&#45;&gt;node0029</title>
+<path fill="none" stroke="#000000" d="M581.5998,-3233.478C576.9885,-3225.8951 572.1933,-3217.7248 568,-3210 563.3453,-3201.4252 558.644,-3192.0885 554.3064,-3183.1336"/>
+<polygon fill="#000000" stroke="#000000" points="557.4053,-3181.5008 549.9349,-3173.9878 551.0896,-3184.5195 557.4053,-3181.5008"/>
+<text text-anchor="middle" x="577.5" y="-3198.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0030 -->
 <g id="node31" class="node">
 <title>node0030</title>
+<ellipse fill="none" stroke="#000000" cx="656" cy="-2772" rx="36" ry="36"/>
+<text text-anchor="middle" x="656" y="-2780.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q19934355">Q19934355</a></text>
+<text text-anchor="middle" x="656" y="-2769.5" font-family="Times,serif" font-size="10.00" fill="#000000">commutative</text>
+<text text-anchor="middle" x="656" y="-2758.5" font-family="Times,serif" font-size="10.00" fill="#000000">monoid</text>
+</g>
+<!-- node0026&#45;&gt;node0030 -->
+<g id="edge36" class="edge">
+<title>node0026&#45;&gt;node0030</title>
+<path fill="none" stroke="#000000" d="M622.4219,-3234.7942C637.865,-3210.8382 656,-3175.3859 656,-3141 656,-3141 656,-3141 656,-2895 656,-2869.6302 656,-2841.3171 656,-2818.2564"/>
+<polygon fill="#000000" stroke="#000000" points="659.5001,-2818.06 656,-2808.06 652.5001,-2818.06 659.5001,-2818.06"/>
+<text text-anchor="middle" x="665.5" y="-3014.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0031 -->
+<g id="node32" class="node">
+<title>node0031</title>
 <ellipse fill="none" stroke="#000000" cx="831" cy="-2649" rx="36" ry="36"/>
 <text text-anchor="middle" x="831" y="-2663" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q39485777">Q39485777</a></text>
 <text text-anchor="middle" x="831" y="-2652" font-family="Times,serif" font-size="10.00" fill="#000000">commutative</text>
 <text text-anchor="middle" x="831" y="-2641" font-family="Times,serif" font-size="10.00" fill="#000000">Moufang</text>
 <text text-anchor="middle" x="831" y="-2630" font-family="Times,serif" font-size="10.00" fill="#000000">loop</text>
 </g>
-<!-- node0025&#45;&gt;node0030 -->
-<g id="edge35" class="edge">
-<title>node0025&#45;&gt;node0030</title>
-<path fill="none" stroke="#000000" d="M631.7933,-3259.6025C691.9925,-3249.9901 807,-3221.1391 807,-3141 807,-3141 807,-3141 807,-2772 807,-2745.6563 812.369,-2716.7166 818.0281,-2693.5298"/>
+<!-- node0026&#45;&gt;node0031 -->
+<g id="edge37" class="edge">
+<title>node0026&#45;&gt;node0031</title>
+<path fill="none" stroke="#000000" d="M636.8825,-3259.1508C695.9028,-3248.9367 807,-3219.3095 807,-3141 807,-3141 807,-3141 807,-2772 807,-2745.6563 812.369,-2716.7166 818.0281,-2693.5298"/>
 <polygon fill="#000000" stroke="#000000" points="821.4702,-2694.1953 820.5431,-2683.6411 814.6862,-2692.4699 821.4702,-2694.1953"/>
 <text text-anchor="middle" x="816.5" y="-2952.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0031 -->
-<g id="node32" class="node">
-<title>node0031</title>
-<ellipse fill="none" stroke="#000000" cx="149" cy="-1806" rx="36" ry="36"/>
-<text text-anchor="middle" x="149" y="-1809" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q1948412">Q1948412</a></text>
-<text text-anchor="middle" x="149" y="-1798" font-family="Times,serif" font-size="10.00" fill="#000000">morphism</text>
-</g>
-<!-- node0026&#45;&gt;node0031 -->
-<g id="edge36" class="edge">
-<title>node0026&#45;&gt;node0031</title>
-<path fill="none" stroke="#000000" d="M147.4047,-1949.5743C147.7161,-1921.5469 148.1487,-1882.621 148.4848,-1852.3701"/>
-<polygon fill="#000000" stroke="#000000" points="151.9879,-1852.1022 148.5993,-1842.0639 144.9883,-1852.0244 151.9879,-1852.1022"/>
-<text text-anchor="middle" x="157.5" y="-1892.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0027&#45;&gt;node0012 -->
-<g id="edge37" class="edge">
-<title>node0027&#45;&gt;node0012</title>
-<path fill="none" stroke="#000000" d="M573.054,-2751.7466C611.7297,-2724.567 674,-2676.5313 674,-2649 674,-2649 674,-2649 674,-2289 674,-2181.4314 658,-2155.0686 658,-2047.5 658,-2047.5 658,-2047.5 661,-1560 661,-1495.5981 740.8392,-1462.2899 793.5766,-1447.3132"/>
-<polygon fill="#000000" stroke="#000000" points="794.6743,-1450.6419 803.4069,-1444.6425 792.839,-1443.8868 794.6743,-1450.6419"/>
-<text text-anchor="middle" x="667.5" y="-2043.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0032 -->
 <g id="node33" class="node">
 <title>node0032</title>
-<ellipse fill="none" stroke="#000000" cx="448" cy="-2649" rx="36" ry="36"/>
-<text text-anchor="middle" x="448" y="-2652" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q208237">Q208237</a></text>
-<text text-anchor="middle" x="448" y="-2641" font-family="Times,serif" font-size="10.00" fill="#000000">monoid</text>
+<ellipse fill="none" stroke="#000000" cx="148" cy="-1806" rx="36" ry="36"/>
+<text text-anchor="middle" x="148" y="-1809" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q1948412">Q1948412</a></text>
+<text text-anchor="middle" x="148" y="-1798" font-family="Times,serif" font-size="10.00" fill="#000000">morphism</text>
 </g>
 <!-- node0027&#45;&gt;node0032 -->
 <g id="edge38" class="edge">
 <title>node0027&#45;&gt;node0032</title>
-<path fill="none" stroke="#000000" d="M509.1318,-2759.2498C490.6757,-2750.4997 469.1757,-2736.9997 457,-2718 452.6461,-2711.2059 449.9515,-2703.2596 448.3468,-2695.225"/>
-<polygon fill="#000000" stroke="#000000" points="451.7727,-2694.4646 446.8542,-2685.0807 444.8473,-2695.4837 451.7727,-2694.4646"/>
-<text text-anchor="middle" x="466.5" y="-2706.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M148,-1949.5743C148,-1921.5469 148,-1882.621 148,-1852.3701"/>
+<polygon fill="#000000" stroke="#000000" points="151.5001,-1852.0639 148,-1842.0639 144.5001,-1852.064 151.5001,-1852.0639"/>
+<text text-anchor="middle" x="157.5" y="-1892.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0028&#45;&gt;node0012 -->
+<g id="edge39" class="edge">
+<title>node0028&#45;&gt;node0012</title>
+<path fill="none" stroke="#000000" d="M577.5414,-2751.1194C614.7832,-2723.6773 674,-2675.825 674,-2649 674,-2649 674,-2649 674,-2289 674,-2181.5113 661,-2154.9887 661,-2047.5 661,-2047.5 661,-2047.5 664,-1560 664,-1496.5051 742.0641,-1462.9579 793.9154,-1447.6785"/>
+<polygon fill="#000000" stroke="#000000" points="794.913,-1451.0337 803.5861,-1444.9487 793.0114,-1444.2969 794.913,-1451.0337"/>
+<text text-anchor="middle" x="670.5" y="-2043.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0033 -->
 <g id="node34" class="node">
 <title>node0033</title>
-<ellipse fill="none" stroke="#000000" cx="219" cy="-2649" rx="36" ry="36"/>
-<text text-anchor="middle" x="219" y="-2652" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q765994">Q765994</a></text>
-<text text-anchor="middle" x="219" y="-2641" font-family="Times,serif" font-size="10.00" fill="#000000">group object</text>
+<ellipse fill="none" stroke="#000000" cx="448" cy="-2649" rx="36" ry="36"/>
+<text text-anchor="middle" x="448" y="-2652" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q208237">Q208237</a></text>
+<text text-anchor="middle" x="448" y="-2641" font-family="Times,serif" font-size="10.00" fill="#000000">monoid</text>
 </g>
-<!-- node0027&#45;&gt;node0033 -->
-<g id="edge39" class="edge">
-<title>node0027&#45;&gt;node0033</title>
-<path fill="none" stroke="#000000" d="M508.5607,-2760.941C476.3992,-2750.4458 427.1614,-2733.9482 385,-2718 342.623,-2701.9702 294.9271,-2681.9322 261.5718,-2667.5866"/>
-<polygon fill="#000000" stroke="#000000" points="262.7006,-2664.2618 252.1321,-2663.514 259.9276,-2670.6891 262.7006,-2664.2618"/>
-<text text-anchor="middle" x="394.5" y="-2706.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<!-- node0028&#45;&gt;node0033 -->
+<g id="edge40" class="edge">
+<title>node0028&#45;&gt;node0033</title>
+<path fill="none" stroke="#000000" d="M514.147,-2759.0779C495.6126,-2750.2705 473.8626,-2736.7705 461,-2718 456.3461,-2711.2086 453.243,-2703.198 451.1964,-2695.0843"/>
+<polygon fill="#000000" stroke="#000000" points="454.6115,-2694.3142 449.1906,-2685.2112 447.7516,-2695.7079 454.6115,-2694.3142"/>
+<text text-anchor="middle" x="470.5" y="-2706.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0034 -->
 <g id="node35" class="node">
 <title>node0034</title>
-<ellipse fill="none" stroke="#000000" cx="358" cy="-2649" rx="36" ry="36"/>
-<text text-anchor="middle" x="358" y="-2652" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q1196038">Q1196038</a></text>
-<text text-anchor="middle" x="358" y="-2641" font-family="Times,serif" font-size="10.00" fill="#000000">groupoid</text>
+<ellipse fill="none" stroke="#000000" cx="219" cy="-2649" rx="36" ry="36"/>
+<text text-anchor="middle" x="219" y="-2652" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q765994">Q765994</a></text>
+<text text-anchor="middle" x="219" y="-2641" font-family="Times,serif" font-size="10.00" fill="#000000">group object</text>
 </g>
-<!-- node0027&#45;&gt;node0034 -->
-<g id="edge40" class="edge">
-<title>node0027&#45;&gt;node0034</title>
-<path fill="none" stroke="#000000" d="M509.0852,-2759.8695C485.0155,-2750.4115 452.5722,-2735.8935 427,-2718 413.2225,-2708.3596 399.756,-2695.822 388.4304,-2684.0831"/>
-<polygon fill="#000000" stroke="#000000" points="390.7175,-2681.4063 381.3153,-2676.5228 385.6199,-2686.2037 390.7175,-2681.4063"/>
-<text text-anchor="middle" x="436.5" y="-2706.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<!-- node0028&#45;&gt;node0034 -->
+<g id="edge41" class="edge">
+<title>node0028&#45;&gt;node0034</title>
+<path fill="none" stroke="#000000" d="M513.4502,-2761.0258C480.897,-2750.524 430.8582,-2733.9639 388,-2718 344.6168,-2701.8405 295.7161,-2681.6558 261.7209,-2667.3013"/>
+<polygon fill="#000000" stroke="#000000" points="262.6821,-2663.9075 252.109,-2663.2303 259.9521,-2670.3532 262.6821,-2663.9075"/>
+<text text-anchor="middle" x="397.5" y="-2706.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0035 -->
 <g id="node36" class="node">
 <title>node0035</title>
-<ellipse fill="none" stroke="#000000" cx="543" cy="-2649" rx="36" ry="36"/>
-<text text-anchor="middle" x="543" y="-2657.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q3022118">Q3022118</a></text>
-<text text-anchor="middle" x="543" y="-2646.5" font-family="Times,serif" font-size="10.00" fill="#000000">inverse</text>
-<text text-anchor="middle" x="543" y="-2635.5" font-family="Times,serif" font-size="10.00" fill="#000000">semigroup</text>
+<ellipse fill="none" stroke="#000000" cx="358" cy="-2649" rx="36" ry="36"/>
+<text text-anchor="middle" x="358" y="-2652" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q1196038">Q1196038</a></text>
+<text text-anchor="middle" x="358" y="-2641" font-family="Times,serif" font-size="10.00" fill="#000000">groupoid</text>
 </g>
-<!-- node0027&#45;&gt;node0035 -->
-<g id="edge41" class="edge">
-<title>node0027&#45;&gt;node0035</title>
-<path fill="none" stroke="#000000" d="M543,-2735.7612C543,-2723.2361 543,-2709.0191 543,-2695.771"/>
-<polygon fill="#000000" stroke="#000000" points="546.5001,-2695.4048 543,-2685.4048 539.5001,-2695.4048 546.5001,-2695.4048"/>
-<text text-anchor="middle" x="552.5" y="-2706.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<!-- node0028&#45;&gt;node0035 -->
+<g id="edge42" class="edge">
+<title>node0028&#45;&gt;node0035</title>
+<path fill="none" stroke="#000000" d="M513.94,-2759.6984C489.7331,-2750.1587 457.0336,-2735.6133 431,-2718 416.2876,-2708.0461 401.7259,-2695.0896 389.5243,-2683.0956"/>
+<polygon fill="#000000" stroke="#000000" points="391.7866,-2680.4071 382.2518,-2675.7876 386.8247,-2685.3447 391.7866,-2680.4071"/>
+<text text-anchor="middle" x="440.5" y="-2706.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0036 -->
 <g id="node37" class="node">
 <title>node0036</title>
-<ellipse fill="none" stroke="#000000" cx="623" cy="-2559" rx="36" ry="36"/>
-<text text-anchor="middle" x="623" y="-2562" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q5382940">Q5382940</a></text>
-<text text-anchor="middle" x="623" y="-2551" font-family="Times,serif" font-size="10.00" fill="#000000">epigroup</text>
+<ellipse fill="none" stroke="#000000" cx="548" cy="-2649" rx="36" ry="36"/>
+<text text-anchor="middle" x="548" y="-2657.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q3022118">Q3022118</a></text>
+<text text-anchor="middle" x="548" y="-2646.5" font-family="Times,serif" font-size="10.00" fill="#000000">inverse</text>
+<text text-anchor="middle" x="548" y="-2635.5" font-family="Times,serif" font-size="10.00" fill="#000000">semigroup</text>
 </g>
-<!-- node0027&#45;&gt;node0036 -->
-<g id="edge42" class="edge">
-<title>node0027&#45;&gt;node0036</title>
-<path fill="none" stroke="#000000" d="M561.2921,-2740.5093C570.1882,-2724.2977 580.542,-2703.9943 588,-2685 598.2371,-2658.9276 606.7361,-2628.7208 612.7946,-2604.4201"/>
-<polygon fill="#000000" stroke="#000000" points="616.2701,-2604.941 615.2397,-2594.3964 609.4695,-2603.2821 616.2701,-2604.941"/>
-<text text-anchor="middle" x="588.5" y="-2706.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<!-- node0028&#45;&gt;node0036 -->
+<g id="edge43" class="edge">
+<title>node0028&#45;&gt;node0036</title>
+<path fill="none" stroke="#000000" d="M548,-2735.7612C548,-2723.2361 548,-2709.0191 548,-2695.771"/>
+<polygon fill="#000000" stroke="#000000" points="551.5001,-2695.4048 548,-2685.4048 544.5001,-2695.4048 551.5001,-2695.4048"/>
+<text text-anchor="middle" x="557.5" y="-2706.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0037 -->
 <g id="node38" class="node">
 <title>node0037</title>
-<ellipse fill="none" stroke="#000000" cx="828" cy="-2469" rx="36" ry="36"/>
-<text text-anchor="middle" x="828" y="-2472" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q6918890">Q6918890</a></text>
-<text text-anchor="middle" x="828" y="-2461" font-family="Times,serif" font-size="10.00" fill="#000000">Moufang loop</text>
+<ellipse fill="none" stroke="#000000" cx="623" cy="-2559" rx="36" ry="36"/>
+<text text-anchor="middle" x="623" y="-2562" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q5382940">Q5382940</a></text>
+<text text-anchor="middle" x="623" y="-2551" font-family="Times,serif" font-size="10.00" fill="#000000">epigroup</text>
 </g>
-<!-- node0027&#45;&gt;node0037 -->
-<g id="edge43" class="edge">
-<title>node0027&#45;&gt;node0037</title>
-<path fill="none" stroke="#000000" d="M573.1603,-2752.2967C583.2772,-2746.3674 594.8322,-2740.301 606,-2736 640.8192,-2722.5903 658.0129,-2740.203 688,-2718 724.4896,-2690.9824 780.4007,-2575.2335 809.2846,-2511.5022"/>
-<polygon fill="#000000" stroke="#000000" points="812.596,-2512.6727 813.5129,-2502.1176 806.2139,-2509.7972 812.596,-2512.6727"/>
-<text text-anchor="middle" x="768.5" y="-2645.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<!-- node0028&#45;&gt;node0037 -->
+<g id="edge44" class="edge">
+<title>node0028&#45;&gt;node0037</title>
+<path fill="none" stroke="#000000" d="M566.3683,-2741.0277C575.3926,-2724.7802 585.8375,-2704.2892 593,-2685 602.623,-2659.0846 609.9221,-2629.0021 614.91,-2604.7312"/>
+<polygon fill="#000000" stroke="#000000" points="618.3842,-2605.2055 616.9062,-2594.7143 611.5192,-2603.8374 618.3842,-2605.2055"/>
+<text text-anchor="middle" x="593.5" y="-2706.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0038 -->
 <g id="node39" class="node">
 <title>node0038</title>
-<ellipse fill="none" stroke="#000000" cx="524" cy="-3018" rx="36" ry="36"/>
-<text text-anchor="middle" x="524" y="-3021" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q759832">Q759832</a></text>
-<text text-anchor="middle" x="524" y="-3010" font-family="Times,serif" font-size="10.00" fill="#000000">solvable group</text>
+<ellipse fill="none" stroke="#000000" cx="828" cy="-2469" rx="36" ry="36"/>
+<text text-anchor="middle" x="828" y="-2472" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q6918890">Q6918890</a></text>
+<text text-anchor="middle" x="828" y="-2461" font-family="Times,serif" font-size="10.00" fill="#000000">Moufang loop</text>
 </g>
 <!-- node0028&#45;&gt;node0038 -->
-<g id="edge44" class="edge">
-<title>node0028&#45;&gt;node0038</title>
-<path fill="none" stroke="#000000" d="M528.2323,-3104.7612C527.6097,-3091.9992 526.9015,-3077.4806 526.2449,-3064.0202"/>
-<polygon fill="#000000" stroke="#000000" points="529.7383,-3063.7973 525.7551,-3053.9798 522.7466,-3064.1385 529.7383,-3063.7973"/>
-<text text-anchor="middle" x="536.5" y="-3075.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0029&#45;&gt;node0032 -->
 <g id="edge45" class="edge">
-<title>node0029&#45;&gt;node0032</title>
-<path fill="none" stroke="#000000" d="M620.4076,-2752.3916C610.3615,-2746.5371 598.9569,-2740.4906 588,-2736 559.0721,-2724.1442 547.2626,-2733.3014 520,-2718 504.6214,-2709.3686 490.0821,-2696.6821 478.1488,-2684.534"/>
-<polygon fill="#000000" stroke="#000000" points="480.4952,-2681.9221 471.0712,-2677.0807 475.4191,-2686.7423 480.4952,-2681.9221"/>
-<text text-anchor="middle" x="529.5" y="-2706.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0028&#45;&gt;node0038</title>
+<path fill="none" stroke="#000000" d="M578.1952,-2752.3864C588.3142,-2746.4625 599.8616,-2740.3766 611,-2736 643.7103,-2723.1472 659.8972,-2739.1043 688,-2718 724.3056,-2690.7357 780.2959,-2575.0929 809.2398,-2511.4422"/>
+<polygon fill="#000000" stroke="#000000" points="812.5467,-2512.6236 813.4772,-2502.0697 806.1683,-2509.7399 812.5467,-2512.6236"/>
+<text text-anchor="middle" x="768.5" y="-2645.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0039 -->
 <g id="node40" class="node">
 <title>node0039</title>
+<ellipse fill="none" stroke="#000000" cx="529" cy="-3018" rx="36" ry="36"/>
+<text text-anchor="middle" x="529" y="-3026.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q759832">Q759832</a></text>
+<text text-anchor="middle" x="529" y="-3015.5" font-family="Times,serif" font-size="10.00" fill="#000000">solvable</text>
+<text text-anchor="middle" x="529" y="-3004.5" font-family="Times,serif" font-size="10.00" fill="#000000">group</text>
+</g>
+<!-- node0029&#45;&gt;node0039 -->
+<g id="edge46" class="edge">
+<title>node0029&#45;&gt;node0039</title>
+<path fill="none" stroke="#000000" d="M533.2323,-3104.7612C532.6097,-3091.9992 531.9015,-3077.4806 531.2449,-3064.0202"/>
+<polygon fill="#000000" stroke="#000000" points="534.7383,-3063.7973 530.7551,-3053.9798 527.7466,-3064.1385 534.7383,-3063.7973"/>
+<text text-anchor="middle" x="541.5" y="-3075.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0030&#45;&gt;node0033 -->
+<g id="edge47" class="edge">
+<title>node0030&#45;&gt;node0033</title>
+<path fill="none" stroke="#000000" d="M625.4076,-2752.3916C615.3615,-2746.5371 603.9569,-2740.4906 593,-2736 564.0721,-2724.1442 552.5148,-2732.8431 525,-2718 508.3603,-2709.0236 492.3784,-2695.7532 479.3297,-2683.2419"/>
+<polygon fill="#000000" stroke="#000000" points="481.576,-2680.541 472.003,-2676.0013 476.6556,-2685.5199 481.576,-2680.541"/>
+<text text-anchor="middle" x="534.5" y="-2706.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0040 -->
+<g id="node41" class="node">
+<title>node0040</title>
 <ellipse fill="none" stroke="#000000" cx="738" cy="-2289" rx="36" ry="36"/>
 <text text-anchor="middle" x="738" y="-2297.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q27672715">Q27672715</a></text>
 <text text-anchor="middle" x="738" y="-2286.5" font-family="Times,serif" font-size="10.00" fill="#000000">commutative</text>
 <text text-anchor="middle" x="738" y="-2275.5" font-family="Times,serif" font-size="10.00" fill="#000000">semigroup</text>
 </g>
-<!-- node0029&#45;&gt;node0039 -->
-<g id="edge46" class="edge">
-<title>node0029&#45;&gt;node0039</title>
-<path fill="none" stroke="#000000" d="M673.9363,-2744.0151C679.3945,-2736.0384 684.6118,-2727.0462 688,-2718 737.5224,-2585.7794 741.2446,-2415.972 739.7496,-2335.4024"/>
-<polygon fill="#000000" stroke="#000000" points="743.242,-2335.021 739.5203,-2325.1014 736.2438,-2335.1768 743.242,-2335.021"/>
-<text text-anchor="middle" x="740.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<!-- node0030&#45;&gt;node0040 -->
+<g id="edge48" class="edge">
+<title>node0030&#45;&gt;node0040</title>
+<path fill="none" stroke="#000000" d="M676.6251,-2742.2372C681.0418,-2734.6313 685.2122,-2726.2602 688,-2718 733.0917,-2584.3928 738.9166,-2415.5783 738.8323,-2335.3815"/>
+<polygon fill="#000000" stroke="#000000" points="742.3312,-2335.1114 738.7882,-2325.1266 735.3313,-2335.1416 742.3312,-2335.1114"/>
+<text text-anchor="middle" x="737.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
-<!-- node0030&#45;&gt;node0037 -->
-<g id="edge47" class="edge">
-<title>node0030&#45;&gt;node0037</title>
+<!-- node0031&#45;&gt;node0038 -->
+<g id="edge49" class="edge">
+<title>node0031&#45;&gt;node0038</title>
 <path fill="none" stroke="#000000" d="M830.3929,-2612.5743C829.9258,-2584.5469 829.277,-2545.621 828.7728,-2515.3701"/>
 <polygon fill="#000000" stroke="#000000" points="832.2673,-2515.0042 828.6011,-2505.0639 825.2683,-2515.1209 832.2673,-2515.0042"/>
 <text text-anchor="middle" x="839.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
-<!-- node0040 -->
-<g id="node41" class="node">
-<title>node0040</title>
+<!-- node0041 -->
+<g id="node42" class="node">
+<title>node0041</title>
 <ellipse fill="none" stroke="#000000" cx="918" cy="-2469" rx="36" ry="36"/>
-<text text-anchor="middle" x="918" y="-2472" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q39486222">Q39486222</a></text>
-<text text-anchor="middle" x="918" y="-2461" font-family="Times,serif" font-size="10.00" fill="#000000">commutative loop</text>
+<text text-anchor="middle" x="918" y="-2477.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q39486222">Q39486222</a></text>
+<text text-anchor="middle" x="918" y="-2466.5" font-family="Times,serif" font-size="10.00" fill="#000000">commutative</text>
+<text text-anchor="middle" x="918" y="-2455.5" font-family="Times,serif" font-size="10.00" fill="#000000">loop</text>
 </g>
-<!-- node0030&#45;&gt;node0040 -->
-<g id="edge48" class="edge">
-<title>node0030&#45;&gt;node0040</title>
+<!-- node0031&#45;&gt;node0041 -->
+<g id="edge50" class="edge">
+<title>node0031&#45;&gt;node0041</title>
 <path fill="none" stroke="#000000" d="M846.755,-2616.4034C861.0612,-2586.8044 882.2387,-2542.9888 897.7874,-2510.8191"/>
 <polygon fill="#000000" stroke="#000000" points="901.0149,-2512.1844 902.2154,-2501.6578 894.7124,-2509.1382 901.0149,-2512.1844"/>
 <text text-anchor="middle" x="898.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
-<!-- node0041 -->
-<g id="node42" class="node">
-<title>node0041</title>
-<ellipse fill="none" stroke="#000000" cx="155" cy="-1683" rx="36" ry="36"/>
-<text text-anchor="middle" x="155" y="-1686" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q370502">Q370502</a></text>
-<text text-anchor="middle" x="155" y="-1675" font-family="Times,serif" font-size="10.00" fill="#000000">mapping</text>
-</g>
-<!-- node0031&#45;&gt;node0041 -->
-<g id="edge49" class="edge">
-<title>node0031&#45;&gt;node0041</title>
-<path fill="none" stroke="#000000" d="M150.7677,-1769.7612C151.3903,-1756.9992 152.0985,-1742.4806 152.7551,-1729.0202"/>
-<polygon fill="#000000" stroke="#000000" points="156.2534,-1729.1385 153.2449,-1718.9798 149.2617,-1728.7973 156.2534,-1729.1385"/>
-<text text-anchor="middle" x="161.5" y="-1740.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
 <!-- node0042 -->
 <g id="node43" class="node">
 <title>node0042</title>
-<ellipse fill="none" stroke="#000000" cx="589" cy="-2109" rx="36" ry="36"/>
-<text text-anchor="middle" x="589" y="-2112" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q207348">Q207348</a></text>
-<text text-anchor="middle" x="589" y="-2101" font-family="Times,serif" font-size="10.00" fill="#000000">semigroup</text>
+<ellipse fill="none" stroke="#000000" cx="150" cy="-1683" rx="36" ry="36"/>
+<text text-anchor="middle" x="150" y="-1686" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q370502">Q370502</a></text>
+<text text-anchor="middle" x="150" y="-1675" font-family="Times,serif" font-size="10.00" fill="#000000">mapping</text>
 </g>
 <!-- node0032&#45;&gt;node0042 -->
-<g id="edge50" class="edge">
+<g id="edge51" class="edge">
 <title>node0032&#45;&gt;node0042</title>
-<path fill="none" stroke="#000000" d="M443.8462,-2613.0952C436.8982,-2542.4227 427.1387,-2381.0164 465,-2253 478.1653,-2208.4855 487.1687,-2197.7029 518,-2163 527.3439,-2152.4827 538.997,-2142.6298 550.1436,-2134.2941"/>
-<polygon fill="#000000" stroke="#000000" points="552.4737,-2136.9283 558.5222,-2128.2297 548.3693,-2131.2578 552.4737,-2136.9283"/>
-<text text-anchor="middle" x="454.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M148.5892,-1769.7612C148.7929,-1757.2361 149.0241,-1743.0191 149.2395,-1729.771"/>
+<polygon fill="#000000" stroke="#000000" points="152.7449,-1729.4604 149.4081,-1719.4048 145.7458,-1729.3466 152.7449,-1729.4604"/>
+<text text-anchor="middle" x="158.5" y="-1740.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0043 -->
 <g id="node44" class="node">
 <title>node0043</title>
-<ellipse fill="none" stroke="#000000" cx="382" cy="-2469" rx="36" ry="36"/>
-<text text-anchor="middle" x="382" y="-2472" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q719395">Q719395</a></text>
-<text text-anchor="middle" x="382" y="-2461" font-family="Times,serif" font-size="10.00" fill="#000000">category</text>
+<ellipse fill="none" stroke="#000000" cx="586" cy="-2109" rx="36" ry="36"/>
+<text text-anchor="middle" x="586" y="-2112" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q207348">Q207348</a></text>
+<text text-anchor="middle" x="586" y="-2101" font-family="Times,serif" font-size="10.00" fill="#000000">semigroup</text>
 </g>
-<!-- node0032&#45;&gt;node0043 -->
-<g id="edge51" class="edge">
-<title>node0032&#45;&gt;node0043</title>
-<path fill="none" stroke="#000000" d="M426.512,-2619.7254C421.5339,-2611.9707 416.6362,-2603.4085 413,-2595 401.9684,-2569.49 394.3698,-2539.3035 389.4573,-2514.873"/>
-<polygon fill="#000000" stroke="#000000" points="392.8426,-2513.943 387.5143,-2504.7855 385.969,-2515.2671 392.8426,-2513.943"/>
-<text text-anchor="middle" x="422.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<!-- node0033&#45;&gt;node0043 -->
+<g id="edge52" class="edge">
+<title>node0033&#45;&gt;node0043</title>
+<path fill="none" stroke="#000000" d="M443.7538,-2613.0676C436.6438,-2542.3469 426.6135,-2380.8599 465,-2253 478.4132,-2208.3224 488.3669,-2198.1798 519,-2163 527.5154,-2153.2207 537.9585,-2143.8652 548.0432,-2135.7702"/>
+<polygon fill="#000000" stroke="#000000" points="550.272,-2138.4707 556.0105,-2129.5645 545.9705,-2132.9483 550.272,-2138.4707"/>
+<text text-anchor="middle" x="454.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0044 -->
 <g id="node45" class="node">
 <title>node0044</title>
-<ellipse fill="none" stroke="#000000" cx="147" cy="-2469" rx="36" ry="36"/>
-<text text-anchor="middle" x="147" y="-2472" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q2785361">Q2785361</a></text>
-<text text-anchor="middle" x="147" y="-2461" font-family="Times,serif" font-size="10.00" fill="#000000">monoid object</text>
-</g>
-<!-- node0032&#45;&gt;node0044 -->
-<g id="edge52" class="edge">
-<title>node0032&#45;&gt;node0044</title>
-<path fill="none" stroke="#000000" d="M421.4034,-2624.0748C415.6775,-2619.7949 409.4089,-2615.8237 403,-2613 355.6579,-2592.1415 334.7558,-2617.1415 288,-2595 243.3323,-2573.8473 202.4383,-2533.9986 176.327,-2504.7585"/>
-<polygon fill="#000000" stroke="#000000" points="178.9157,-2502.4021 169.6889,-2497.1947 173.6545,-2507.0194 178.9157,-2502.4021"/>
-<text text-anchor="middle" x="297.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<ellipse fill="none" stroke="#000000" cx="382" cy="-2469" rx="36" ry="36"/>
+<text text-anchor="middle" x="382" y="-2472" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q719395">Q719395</a></text>
+<text text-anchor="middle" x="382" y="-2461" font-family="Times,serif" font-size="10.00" fill="#000000">category</text>
 </g>
 <!-- node0033&#45;&gt;node0044 -->
 <g id="edge53" class="edge">
 <title>node0033&#45;&gt;node0044</title>
-<path fill="none" stroke="#000000" d="M185.811,-2634.2029C170.0903,-2625.2879 152.8509,-2612.2791 144,-2595 131.3307,-2570.2665 131.9702,-2539.0629 135.8317,-2513.8963"/>
-<polygon fill="#000000" stroke="#000000" points="139.3099,-2514.324 137.5849,-2503.8706 132.4146,-2513.1182 139.3099,-2514.324"/>
-<text text-anchor="middle" x="153.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M426.512,-2619.7254C421.5339,-2611.9707 416.6362,-2603.4085 413,-2595 401.9684,-2569.49 394.3698,-2539.3035 389.4573,-2514.873"/>
+<polygon fill="#000000" stroke="#000000" points="392.8426,-2513.943 387.5143,-2504.7855 385.969,-2515.2671 392.8426,-2513.943"/>
+<text text-anchor="middle" x="422.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0045 -->
 <g id="node46" class="node">
 <title>node0045</title>
+<ellipse fill="none" stroke="#000000" cx="147" cy="-2469" rx="36" ry="36"/>
+<text text-anchor="middle" x="147" y="-2477.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q2785361">Q2785361</a></text>
+<text text-anchor="middle" x="147" y="-2466.5" font-family="Times,serif" font-size="10.00" fill="#000000">monoid</text>
+<text text-anchor="middle" x="147" y="-2455.5" font-family="Times,serif" font-size="10.00" fill="#000000">object</text>
+</g>
+<!-- node0033&#45;&gt;node0045 -->
+<g id="edge54" class="edge">
+<title>node0033&#45;&gt;node0045</title>
+<path fill="none" stroke="#000000" d="M421.4034,-2624.0748C415.6775,-2619.7949 409.4089,-2615.8237 403,-2613 355.6579,-2592.1415 334.7558,-2617.1415 288,-2595 243.3323,-2573.8473 202.4383,-2533.9986 176.327,-2504.7585"/>
+<polygon fill="#000000" stroke="#000000" points="178.9157,-2502.4021 169.6889,-2497.1947 173.6545,-2507.0194 178.9157,-2502.4021"/>
+<text text-anchor="middle" x="297.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0034&#45;&gt;node0045 -->
+<g id="edge55" class="edge">
+<title>node0034&#45;&gt;node0045</title>
+<path fill="none" stroke="#000000" d="M185.811,-2634.2029C170.0903,-2625.2879 152.8509,-2612.2791 144,-2595 131.3307,-2570.2665 131.9702,-2539.0629 135.8317,-2513.8963"/>
+<polygon fill="#000000" stroke="#000000" points="139.3099,-2514.324 137.5849,-2503.8706 132.4146,-2513.1182 139.3099,-2514.324"/>
+<text text-anchor="middle" x="153.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0046 -->
+<g id="node47" class="node">
+<title>node0046</title>
 <ellipse fill="none" stroke="#000000" cx="292" cy="-2289" rx="36" ry="36"/>
 <text text-anchor="middle" x="292" y="-2297.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q6047782">Q6047782</a></text>
 <text text-anchor="middle" x="292" y="-2286.5" font-family="Times,serif" font-size="10.00" fill="#000000">internal</text>
 <text text-anchor="middle" x="292" y="-2275.5" font-family="Times,serif" font-size="10.00" fill="#000000">category</text>
 </g>
-<!-- node0033&#45;&gt;node0045 -->
-<g id="edge54" class="edge">
-<title>node0033&#45;&gt;node0045</title>
+<!-- node0034&#45;&gt;node0046 -->
+<g id="edge56" class="edge">
+<title>node0034&#45;&gt;node0046</title>
 <path fill="none" stroke="#000000" d="M216.4221,-2612.8993C214.2562,-2569.5521 213.5007,-2494.9433 228,-2433 236.571,-2396.3833 254.3901,-2357.5713 269.0545,-2329.479"/>
 <polygon fill="#000000" stroke="#000000" points="272.2869,-2330.8547 273.8888,-2320.3817 266.1054,-2327.5699 272.2869,-2330.8547"/>
 <text text-anchor="middle" x="237.5" y="-2465.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
-<!-- node0034&#45;&gt;node0043 -->
-<g id="edge55" class="edge">
-<title>node0034&#45;&gt;node0043</title>
-<path fill="none" stroke="#000000" d="M359.1905,-2612.9504C360.4329,-2587.642 362.9468,-2553.0804 368,-2523 368.5129,-2519.9466 369.1161,-2516.8138 369.7789,-2513.6688"/>
-<polygon fill="#000000" stroke="#000000" points="373.249,-2514.194 372.0618,-2503.6659 366.4245,-2512.6365 373.249,-2514.194"/>
-<text text-anchor="middle" x="377.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0046 -->
-<g id="node47" class="node">
-<title>node0046</title>
-<ellipse fill="none" stroke="#000000" cx="292" cy="-2469" rx="36" ry="36"/>
-<text text-anchor="middle" x="292" y="-2472" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q17077830">Q17077830</a></text>
-<text text-anchor="middle" x="292" y="-2461" font-family="Times,serif" font-size="10.00" fill="#000000">groupoid object</text>
-</g>
-<!-- node0034&#45;&gt;node0046 -->
-<g id="edge56" class="edge">
-<title>node0034&#45;&gt;node0046</title>
-<path fill="none" stroke="#000000" d="M344.7482,-2615.3526C342.1454,-2608.6244 339.4604,-2601.5974 337,-2595 326.8345,-2567.7418 315.8449,-2536.9968 307.2706,-2512.7009"/>
-<polygon fill="#000000" stroke="#000000" points="310.4956,-2511.3215 303.8726,-2503.0518 303.893,-2513.6467 310.4956,-2511.3215"/>
-<text text-anchor="middle" x="346.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<!-- node0035&#45;&gt;node0044 -->
+<g id="edge57" class="edge">
+<title>node0035&#45;&gt;node0044</title>
+<path fill="none" stroke="#000000" d="M359.7142,-2612.9777C361.2664,-2587.6818 364.0872,-2553.1239 369,-2523 369.4887,-2520.0036 370.0538,-2516.9274 370.6691,-2513.8365"/>
+<polygon fill="#000000" stroke="#000000" points="374.1054,-2514.5041 372.7735,-2503.9933 367.2601,-2513.0406 374.1054,-2514.5041"/>
+<text text-anchor="middle" x="378.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0047 -->
 <g id="node48" class="node">
 <title>node0047</title>
+<ellipse fill="none" stroke="#000000" cx="292" cy="-2469" rx="36" ry="36"/>
+<text text-anchor="middle" x="292" y="-2477.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q17077830">Q17077830</a></text>
+<text text-anchor="middle" x="292" y="-2466.5" font-family="Times,serif" font-size="10.00" fill="#000000">groupoid</text>
+<text text-anchor="middle" x="292" y="-2455.5" font-family="Times,serif" font-size="10.00" fill="#000000">object</text>
+</g>
+<!-- node0035&#45;&gt;node0047 -->
+<g id="edge58" class="edge">
+<title>node0035&#45;&gt;node0047</title>
+<path fill="none" stroke="#000000" d="M344.7482,-2615.3526C342.1454,-2608.6244 339.4604,-2601.5974 337,-2595 326.8345,-2567.7418 315.8449,-2536.9968 307.2706,-2512.7009"/>
+<polygon fill="#000000" stroke="#000000" points="310.4956,-2511.3215 303.8726,-2503.0518 303.893,-2513.6467 310.4956,-2511.3215"/>
+<text text-anchor="middle" x="346.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0048 -->
+<g id="node49" class="node">
+<title>node0048</title>
 <ellipse fill="none" stroke="#000000" cx="510" cy="-2469" rx="36" ry="36"/>
 <text text-anchor="middle" x="510" y="-2477.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q3022119">Q3022119</a></text>
 <text text-anchor="middle" x="510" y="-2466.5" font-family="Times,serif" font-size="10.00" fill="#000000">regular</text>
 <text text-anchor="middle" x="510" y="-2455.5" font-family="Times,serif" font-size="10.00" fill="#000000">semigroup</text>
 </g>
-<!-- node0035&#45;&gt;node0047 -->
-<g id="edge57" class="edge">
-<title>node0035&#45;&gt;node0047</title>
-<path fill="none" stroke="#000000" d="M528.4256,-2615.7544C525.9319,-2608.993 523.6253,-2601.8511 522,-2595 515.8366,-2569.0188 512.8206,-2539.3128 511.3528,-2515.2722"/>
-<polygon fill="#000000" stroke="#000000" points="514.8324,-2514.7986 510.7976,-2505.0021 507.8426,-2515.1765 514.8324,-2514.7986"/>
+<!-- node0036&#45;&gt;node0048 -->
+<g id="edge59" class="edge">
+<title>node0036&#45;&gt;node0048</title>
+<path fill="none" stroke="#000000" d="M530.5296,-2617.4623C527.1945,-2610.2647 524.0953,-2602.5173 522,-2595 514.8304,-2569.2783 511.7635,-2539.5854 510.5198,-2515.487"/>
+<polygon fill="#000000" stroke="#000000" points="514.0035,-2515.0287 510.08,-2505.1872 507.0099,-2515.3274 514.0035,-2515.0287"/>
 <text text-anchor="middle" x="531.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
-<!-- node0048 -->
-<g id="node49" class="node">
-<title>node0048</title>
+<!-- node0049 -->
+<g id="node50" class="node">
+<title>node0049</title>
 <ellipse fill="none" stroke="#000000" cx="570" cy="-2379" rx="36" ry="36"/>
 <text text-anchor="middle" x="570" y="-2393" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q7449422">Q7449422</a></text>
 <text text-anchor="middle" x="570" y="-2382" font-family="Times,serif" font-size="10.00" fill="#000000">semigroup</text>
 <text text-anchor="middle" x="570" y="-2371" font-family="Times,serif" font-size="10.00" fill="#000000">with</text>
 <text text-anchor="middle" x="570" y="-2360" font-family="Times,serif" font-size="10.00" fill="#000000">involution</text>
 </g>
-<!-- node0035&#45;&gt;node0048 -->
-<g id="edge58" class="edge">
-<title>node0035&#45;&gt;node0048</title>
-<path fill="none" stroke="#000000" d="M546.5854,-2613.1461C551.4268,-2564.7324 560.0595,-2478.4047 565.3816,-2425.1839"/>
-<polygon fill="#000000" stroke="#000000" points="568.8873,-2425.3009 566.3998,-2415.0022 561.922,-2424.6043 568.8873,-2425.3009"/>
-<text text-anchor="middle" x="564.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0036&#45;&gt;node0042 -->
-<g id="edge59" class="edge">
-<title>node0036&#45;&gt;node0042</title>
-<path fill="none" stroke="#000000" d="M620.5256,-2522.7197C616.5871,-2465.4144 608.5627,-2350.443 601,-2253 598.4586,-2220.2546 595.3781,-2183.3397 592.9745,-2155.0844"/>
-<polygon fill="#000000" stroke="#000000" points="596.4594,-2154.7564 592.1219,-2145.0902 589.4847,-2155.3515 596.4594,-2154.7564"/>
-<text text-anchor="middle" x="621.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0049 -->
-<g id="node50" class="node">
-<title>node0049</title>
-<ellipse fill="none" stroke="#000000" cx="828" cy="-2289" rx="36" ry="36"/>
-<text text-anchor="middle" x="828" y="-2292" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q3836720">Q3836720</a></text>
-<text text-anchor="middle" x="828" y="-2281" font-family="Times,serif" font-size="10.00" fill="#000000">loop</text>
-</g>
-<!-- node0037&#45;&gt;node0049 -->
+<!-- node0036&#45;&gt;node0049 -->
 <g id="edge60" class="edge">
-<title>node0037&#45;&gt;node0049</title>
-<path fill="none" stroke="#000000" d="M828,-2432.5743C828,-2404.5469 828,-2365.621 828,-2335.3701"/>
-<polygon fill="#000000" stroke="#000000" points="831.5001,-2335.0639 828,-2325.0639 824.5001,-2335.064 831.5001,-2335.0639"/>
-<text text-anchor="middle" x="837.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0036&#45;&gt;node0049</title>
+<path fill="none" stroke="#000000" d="M550.9442,-2612.8668C554.8958,-2564.3692 561.9179,-2478.1896 566.2454,-2425.0794"/>
+<polygon fill="#000000" stroke="#000000" points="569.7495,-2425.1706 567.0732,-2414.9193 562.7726,-2424.602 569.7495,-2425.1706"/>
+<text text-anchor="middle" x="567.5" y="-2555.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0037&#45;&gt;node0043 -->
+<g id="edge61" class="edge">
+<title>node0037&#45;&gt;node0043</title>
+<path fill="none" stroke="#000000" d="M620.9358,-2522.9039C616.8026,-2453.2217 606.717,-2295.3588 593,-2163 592.7218,-2160.3157 592.4186,-2157.5586 592.0995,-2154.7783"/>
+<polygon fill="#000000" stroke="#000000" points="595.5564,-2154.2094 590.89,-2144.6975 588.6062,-2155.0433 595.5564,-2154.2094"/>
+<text text-anchor="middle" x="622.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0050 -->
 <g id="node51" class="node">
 <title>node0050</title>
-<ellipse fill="none" stroke="#000000" cx="530" cy="-2895" rx="36" ry="36"/>
-<text text-anchor="middle" x="530" y="-2898" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q7784285">Q7784285</a></text>
-<text text-anchor="middle" x="530" y="-2887" font-family="Times,serif" font-size="10.00" fill="#000000">thin group</text>
+<ellipse fill="none" stroke="#000000" cx="828" cy="-2289" rx="36" ry="36"/>
+<text text-anchor="middle" x="828" y="-2292" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q3836720">Q3836720</a></text>
+<text text-anchor="middle" x="828" y="-2281" font-family="Times,serif" font-size="10.00" fill="#000000">loop</text>
 </g>
 <!-- node0038&#45;&gt;node0050 -->
-<g id="edge61" class="edge">
-<title>node0038&#45;&gt;node0050</title>
-<path fill="none" stroke="#000000" d="M525.7677,-2981.7612C526.3903,-2968.9992 527.0985,-2954.4806 527.7551,-2941.0202"/>
-<polygon fill="#000000" stroke="#000000" points="531.2534,-2941.1385 528.2449,-2930.9798 524.2617,-2940.7973 531.2534,-2941.1385"/>
-<text text-anchor="middle" x="536.5" y="-2952.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0039&#45;&gt;node0042 -->
 <g id="edge62" class="edge">
-<title>node0039&#45;&gt;node0042</title>
-<path fill="none" stroke="#000000" d="M714.7188,-2260.875C688.8042,-2229.5689 646.8643,-2178.9032 618.629,-2144.7934"/>
-<polygon fill="#000000" stroke="#000000" points="621.1905,-2142.3989 612.1178,-2136.9275 615.7982,-2146.8626 621.1905,-2142.3989"/>
-<text text-anchor="middle" x="698.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0038&#45;&gt;node0050</title>
+<path fill="none" stroke="#000000" d="M828,-2432.5743C828,-2404.5469 828,-2365.621 828,-2335.3701"/>
+<polygon fill="#000000" stroke="#000000" points="831.5001,-2335.0639 828,-2325.0639 824.5001,-2335.064 831.5001,-2335.0639"/>
+<text text-anchor="middle" x="837.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0051 -->
 <g id="node52" class="node">
 <title>node0051</title>
-<ellipse fill="none" stroke="#000000" cx="725" cy="-2109" rx="36" ry="36"/>
-<text text-anchor="middle" x="725" y="-2117.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q5419309">Q5419309</a></text>
-<text text-anchor="middle" x="725" y="-2106.5" font-family="Times,serif" font-size="10.00" fill="#000000">commutative</text>
-<text text-anchor="middle" x="725" y="-2095.5" font-family="Times,serif" font-size="10.00" fill="#000000">magma</text>
+<ellipse fill="none" stroke="#000000" cx="535" cy="-2895" rx="36" ry="36"/>
+<text text-anchor="middle" x="535" y="-2898" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q7784285">Q7784285</a></text>
+<text text-anchor="middle" x="535" y="-2887" font-family="Times,serif" font-size="10.00" fill="#000000">thin group</text>
 </g>
 <!-- node0039&#45;&gt;node0051 -->
 <g id="edge63" class="edge">
 <title>node0039&#45;&gt;node0051</title>
-<path fill="none" stroke="#000000" d="M735.4005,-2253.0069C733.3723,-2224.924 730.54,-2185.7084 728.3432,-2155.2903"/>
-<polygon fill="#000000" stroke="#000000" points="731.8063,-2154.6526 727.595,-2144.9307 724.8245,-2155.1569 731.8063,-2154.6526"/>
-<text text-anchor="middle" x="742.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M530.7677,-2981.7612C531.3903,-2968.9992 532.0985,-2954.4806 532.7551,-2941.0202"/>
+<polygon fill="#000000" stroke="#000000" points="536.2534,-2941.1385 533.2449,-2930.9798 529.2617,-2940.7973 536.2534,-2941.1385"/>
+<text text-anchor="middle" x="541.5" y="-2952.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0040&#45;&gt;node0043 -->
+<g id="edge64" class="edge">
+<title>node0040&#45;&gt;node0043</title>
+<path fill="none" stroke="#000000" d="M714.5831,-2261.2695C688.1395,-2229.9546 645.0372,-2178.9124 616.1112,-2144.658"/>
+<polygon fill="#000000" stroke="#000000" points="618.5695,-2142.1442 609.4435,-2136.762 613.2212,-2146.6605 618.5695,-2142.1442"/>
+<text text-anchor="middle" x="697.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0052 -->
 <g id="node53" class="node">
 <title>node0052</title>
-<ellipse fill="none" stroke="#000000" cx="878" cy="-1986" rx="36" ry="36"/>
-<text text-anchor="middle" x="878" y="-1989" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q6806018">Q6806018</a></text>
-<text text-anchor="middle" x="878" y="-1978" font-family="Times,serif" font-size="10.00" fill="#000000">medial magma</text>
+<ellipse fill="none" stroke="#000000" cx="728" cy="-2109" rx="36" ry="36"/>
+<text text-anchor="middle" x="728" y="-2117.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q5419309">Q5419309</a></text>
+<text text-anchor="middle" x="728" y="-2106.5" font-family="Times,serif" font-size="10.00" fill="#000000">commutative</text>
+<text text-anchor="middle" x="728" y="-2095.5" font-family="Times,serif" font-size="10.00" fill="#000000">magma</text>
 </g>
-<!-- node0039&#45;&gt;node0052 -->
-<g id="edge64" class="edge">
-<title>node0039&#45;&gt;node0052</title>
-<path fill="none" stroke="#000000" d="M749.5422,-2254.7582C751.7139,-2248.2077 753.9465,-2241.3984 756,-2235 779.0266,-2163.2532 770.1824,-2139.2942 806,-2073 816.4756,-2053.6108 831.6332,-2034.4754 845.3416,-2019.109"/>
-<polygon fill="#000000" stroke="#000000" points="848.1891,-2021.181 852.3455,-2011.4355 843.0189,-2016.4619 848.1891,-2021.181"/>
-<text text-anchor="middle" x="815.5" y="-2105.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0040&#45;&gt;node0012 -->
+<!-- node0040&#45;&gt;node0052 -->
 <g id="edge65" class="edge">
-<title>node0040&#45;&gt;node0012</title>
-<path fill="none" stroke="#000000" d="M936.3398,-2437.9988C955.2517,-2403.039 982,-2343.8906 982,-2289 982,-2289 982,-2289 982,-1560 982,-1506.8748 924.5724,-1471.686 882.5023,-1453.0353"/>
-<polygon fill="#000000" stroke="#000000" points="883.8233,-1449.7936 873.2521,-1449.0867 881.0752,-1456.2317 883.8233,-1449.7936"/>
-<text text-anchor="middle" x="991.5" y="-1892.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0040&#45;&gt;node0049 -->
-<g id="edge66" class="edge">
-<title>node0040&#45;&gt;node0049</title>
-<path fill="none" stroke="#000000" d="M901.7017,-2436.4034C886.8561,-2406.7122 864.8578,-2362.7157 848.7594,-2330.5188"/>
-<polygon fill="#000000" stroke="#000000" points="851.7798,-2328.7332 844.1771,-2321.3541 845.5188,-2331.8637 851.7798,-2328.7332"/>
-<text text-anchor="middle" x="897.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0040&#45;&gt;node0052</title>
+<path fill="none" stroke="#000000" d="M736.0004,-2253.0069C734.4453,-2225.0158 732.2758,-2185.9646 730.5883,-2155.5888"/>
+<polygon fill="#000000" stroke="#000000" points="734.0627,-2155.0292 730.0133,-2145.2387 727.0734,-2155.4175 734.0627,-2155.0292"/>
+<text text-anchor="middle" x="743.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0053 -->
 <g id="node54" class="node">
 <title>node0053</title>
+<ellipse fill="none" stroke="#000000" cx="878" cy="-1986" rx="36" ry="36"/>
+<text text-anchor="middle" x="878" y="-1989" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q6806018">Q6806018</a></text>
+<text text-anchor="middle" x="878" y="-1978" font-family="Times,serif" font-size="10.00" fill="#000000">medial magma</text>
+</g>
+<!-- node0040&#45;&gt;node0053 -->
+<g id="edge66" class="edge">
+<title>node0040&#45;&gt;node0053</title>
+<path fill="none" stroke="#000000" d="M750.1037,-2255.0585C752.4259,-2248.4186 754.8138,-2241.4997 757,-2235 781.107,-2163.3273 773.3747,-2139.7005 809,-2073 819.0543,-2054.1756 833.3159,-2035.3629 846.2659,-2020.0719"/>
+<polygon fill="#000000" stroke="#000000" points="848.9939,-2022.2681 852.8891,-2012.4153 843.6998,-2017.6885 848.9939,-2022.2681"/>
+<text text-anchor="middle" x="818.5" y="-2105.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0041&#45;&gt;node0012 -->
+<g id="edge67" class="edge">
+<title>node0041&#45;&gt;node0012</title>
+<path fill="none" stroke="#000000" d="M936.3398,-2437.9988C955.2517,-2403.039 982,-2343.8906 982,-2289 982,-2289 982,-2289 982,-1560 982,-1506.8748 924.5724,-1471.686 882.5023,-1453.0353"/>
+<polygon fill="#000000" stroke="#000000" points="883.8233,-1449.7936 873.2521,-1449.0867 881.0752,-1456.2317 883.8233,-1449.7936"/>
+<text text-anchor="middle" x="991.5" y="-1892.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0041&#45;&gt;node0050 -->
+<g id="edge68" class="edge">
+<title>node0041&#45;&gt;node0050</title>
+<path fill="none" stroke="#000000" d="M901.7017,-2436.4034C886.8561,-2406.7122 864.8578,-2362.7157 848.7594,-2330.5188"/>
+<polygon fill="#000000" stroke="#000000" points="851.7798,-2328.7332 844.1771,-2321.3541 845.5188,-2331.8637 851.7798,-2328.7332"/>
+<text text-anchor="middle" x="897.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0054 -->
+<g id="node55" class="node">
+<title>node0054</title>
 <ellipse fill="none" stroke="#000000" cx="918" cy="-2289" rx="36" ry="36"/>
 <text text-anchor="middle" x="918" y="-2297.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q39653372">Q39653372</a></text>
 <text text-anchor="middle" x="918" y="-2286.5" font-family="Times,serif" font-size="10.00" fill="#000000">commutative</text>
 <text text-anchor="middle" x="918" y="-2275.5" font-family="Times,serif" font-size="10.00" fill="#000000">quasigroup</text>
 </g>
-<!-- node0040&#45;&gt;node0053 -->
-<g id="edge67" class="edge">
-<title>node0040&#45;&gt;node0053</title>
+<!-- node0041&#45;&gt;node0054 -->
+<g id="edge69" class="edge">
+<title>node0041&#45;&gt;node0054</title>
 <path fill="none" stroke="#000000" d="M918,-2432.5743C918,-2404.5469 918,-2365.621 918,-2335.3701"/>
 <polygon fill="#000000" stroke="#000000" points="921.5001,-2335.0639 918,-2325.0639 914.5001,-2335.064 921.5001,-2335.0639"/>
 <text text-anchor="middle" x="927.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
-<!-- node0054 -->
-<g id="node55" class="node">
-<title>node0054</title>
-<ellipse fill="none" stroke="#000000" cx="164" cy="-1560" rx="36" ry="36"/>
-<text text-anchor="middle" x="164" y="-1563" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q11348">Q11348</a></text>
-<text text-anchor="middle" x="164" y="-1552" font-family="Times,serif" font-size="10.00" fill="#000000">function</text>
-</g>
-<!-- node0041&#45;&gt;node0054 -->
-<g id="edge68" class="edge">
-<title>node0041&#45;&gt;node0054</title>
-<path fill="none" stroke="#000000" d="M157.6274,-1647.0927C158.5618,-1634.3225 159.6273,-1619.7605 160.6161,-1606.2472"/>
-<polygon fill="#000000" stroke="#000000" points="164.1146,-1606.3937 161.3538,-1596.1649 157.1333,-1605.8828 164.1146,-1606.3937"/>
-<text text-anchor="middle" x="169.5" y="-1617.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
 <!-- node0055 -->
 <g id="node56" class="node">
 <title>node0055</title>
-<ellipse fill="none" stroke="#000000" cx="530" cy="-1986" rx="36" ry="36"/>
-<text text-anchor="middle" x="530" y="-1989" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q4164581">Q4164581</a></text>
-<text text-anchor="middle" x="530" y="-1978" font-family="Times,serif" font-size="10.00" fill="#000000">semigroupoid</text>
+<ellipse fill="none" stroke="#000000" cx="160" cy="-1560" rx="36" ry="36"/>
+<text text-anchor="middle" x="160" y="-1563" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q11348">Q11348</a></text>
+<text text-anchor="middle" x="160" y="-1552" font-family="Times,serif" font-size="10.00" fill="#000000">function</text>
 </g>
 <!-- node0042&#45;&gt;node0055 -->
-<g id="edge69" class="edge">
+<g id="edge70" class="edge">
 <title>node0042&#45;&gt;node0055</title>
-<path fill="none" stroke="#000000" d="M567.5281,-2079.858C562.3375,-2072.0308 557.1088,-2063.401 553,-2055 549.2119,-2047.2547 545.8083,-2038.7324 542.8536,-2030.3985"/>
-<polygon fill="#000000" stroke="#000000" points="546.1134,-2029.1121 539.5951,-2020.7597 539.4821,-2031.354 546.1134,-2029.1121"/>
-<text text-anchor="middle" x="562.5" y="-2043.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M152.9193,-1647.0927C153.9575,-1634.3225 155.1414,-1619.7605 156.2401,-1606.2472"/>
+<polygon fill="#000000" stroke="#000000" points="159.7378,-1606.4157 157.0598,-1596.1649 152.7608,-1605.8484 159.7378,-1606.4157"/>
+<text text-anchor="middle" x="164.5" y="-1617.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0056 -->
 <g id="node57" class="node">
 <title>node0056</title>
-<ellipse fill="none" stroke="#000000" cx="594" cy="-1896" rx="36" ry="36"/>
-<text text-anchor="middle" x="594" y="-1904.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q97152390">Q97152390</a></text>
-<text text-anchor="middle" x="594" y="-1893.5" font-family="Times,serif" font-size="10.00" fill="#000000">partial</text>
-<text text-anchor="middle" x="594" y="-1882.5" font-family="Times,serif" font-size="10.00" fill="#000000">semigroup</text>
+<ellipse fill="none" stroke="#000000" cx="533" cy="-1986" rx="36" ry="36"/>
+<text text-anchor="middle" x="533" y="-1989" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q4164581">Q4164581</a></text>
+<text text-anchor="middle" x="533" y="-1978" font-family="Times,serif" font-size="10.00" fill="#000000">semigroupoid</text>
 </g>
-<!-- node0042&#45;&gt;node0056 -->
-<g id="edge70" class="edge">
-<title>node0042&#45;&gt;node0056</title>
-<path fill="none" stroke="#000000" d="M589.8482,-2072.8675C590.6922,-2036.9124 591.9909,-1981.5892 592.9107,-1942.4031"/>
-<polygon fill="#000000" stroke="#000000" points="596.4119,-1942.3892 593.1477,-1932.3098 589.4138,-1942.2249 596.4119,-1942.3892"/>
-<text text-anchor="middle" x="599.5" y="-2043.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<!-- node0043&#45;&gt;node0056 -->
+<g id="edge71" class="edge">
+<title>node0043&#45;&gt;node0056</title>
+<path fill="none" stroke="#000000" d="M567.5434,-2078.09C563.4692,-2070.6612 559.3684,-2062.6571 556,-2055 552.5648,-2047.191 549.3408,-2038.6978 546.4558,-2030.4256"/>
+<polygon fill="#000000" stroke="#000000" points="549.7454,-2029.227 543.2325,-2020.8704 543.1126,-2031.4645 549.7454,-2029.227"/>
+<text text-anchor="middle" x="565.5" y="-2043.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0057 -->
 <g id="node58" class="node">
 <title>node0057</title>
-<ellipse fill="none" stroke="#000000" cx="733" cy="-1986" rx="36" ry="36"/>
-<text text-anchor="middle" x="733" y="-1989" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q98099755">Q98099755</a></text>
-<text text-anchor="middle" x="733" y="-1978" font-family="Times,serif" font-size="10.00" fill="#000000">flexible magma</text>
+<ellipse fill="none" stroke="#000000" cx="597" cy="-1896" rx="36" ry="36"/>
+<text text-anchor="middle" x="597" y="-1904.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q97152390">Q97152390</a></text>
+<text text-anchor="middle" x="597" y="-1893.5" font-family="Times,serif" font-size="10.00" fill="#000000">partial</text>
+<text text-anchor="middle" x="597" y="-1882.5" font-family="Times,serif" font-size="10.00" fill="#000000">semigroup</text>
 </g>
-<!-- node0042&#45;&gt;node0057 -->
-<g id="edge71" class="edge">
-<title>node0042&#45;&gt;node0057</title>
-<path fill="none" stroke="#000000" d="M621.726,-2093.8285C640.3014,-2084.2713 663.3014,-2070.7713 681,-2055 690.8086,-2046.2595 699.9924,-2035.4231 707.8307,-2024.948"/>
-<polygon fill="#000000" stroke="#000000" points="710.7918,-2026.826 713.8147,-2016.6716 705.1192,-2022.7246 710.7918,-2026.826"/>
-<text text-anchor="middle" x="703.5" y="-2043.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0043&#45;&gt;node0055 -->
+<!-- node0043&#45;&gt;node0057 -->
 <g id="edge72" class="edge">
-<title>node0043&#45;&gt;node0055</title>
-<path fill="none" stroke="#000000" d="M389.8685,-2433.8651C391.2574,-2427.5857 392.6805,-2421.1014 394,-2415 418.192,-2303.1358 410.6841,-2271.5358 447,-2163 463.213,-2114.5449 489.0611,-2061.8681 507.605,-2026.6922"/>
-<polygon fill="#000000" stroke="#000000" points="510.7836,-2028.1693 512.3893,-2017.6968 504.6033,-2024.8823 510.7836,-2028.1693"/>
-<text text-anchor="middle" x="456.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0043&#45;&gt;node0057</title>
+<path fill="none" stroke="#000000" d="M587.866,-2072.8675C589.7285,-2036.8034 592.5972,-1981.2538 594.622,-1942.0473"/>
+<polygon fill="#000000" stroke="#000000" points="598.1227,-1942.121 595.1432,-1931.9537 591.1321,-1941.7599 598.1227,-1942.121"/>
+<text text-anchor="middle" x="598.5" y="-2043.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0058 -->
 <g id="node59" class="node">
 <title>node0058</title>
-<ellipse fill="none" stroke="#000000" cx="349" cy="-2199" rx="36" ry="36"/>
-<text text-anchor="middle" x="349" y="-2202" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q7977957">Q7977957</a></text>
-<text text-anchor="middle" x="349" y="-2191" font-family="Times,serif" font-size="10.00" fill="#000000">weak n&#45;category</text>
+<ellipse fill="none" stroke="#000000" cx="733" cy="-1986" rx="36" ry="36"/>
+<text text-anchor="middle" x="733" y="-1994.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q98099755">Q98099755</a></text>
+<text text-anchor="middle" x="733" y="-1983.5" font-family="Times,serif" font-size="10.00" fill="#000000">flexible</text>
+<text text-anchor="middle" x="733" y="-1972.5" font-family="Times,serif" font-size="10.00" fill="#000000">magma</text>
 </g>
 <!-- node0043&#45;&gt;node0058 -->
 <g id="edge73" class="edge">
 <title>node0043&#45;&gt;node0058</title>
-<path fill="none" stroke="#000000" d="M377.3227,-2433.2782C376.5377,-2427.181 375.7387,-2420.9097 375,-2415 367.6703,-2356.3614 359.5884,-2288.7183 354.4115,-2244.9796"/>
-<polygon fill="#000000" stroke="#000000" points="357.8743,-2244.4579 353.2243,-2234.9381 350.9227,-2245.2799 357.8743,-2244.4579"/>
-<text text-anchor="middle" x="384.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M619.6955,-2095.0663C639.794,-2085.6843 665.0108,-2071.9412 684,-2055 693.3361,-2046.6708 701.883,-2036.248 709.1325,-2026.046"/>
+<polygon fill="#000000" stroke="#000000" points="712.1639,-2027.813 714.9059,-2017.5792 706.3805,-2023.8694 712.1639,-2027.813"/>
+<text text-anchor="middle" x="707.5" y="-2043.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
-<!-- node0044&#45;&gt;node0017 -->
+<!-- node0044&#45;&gt;node0056 -->
 <g id="edge74" class="edge">
-<title>node0044&#45;&gt;node0017</title>
-<path fill="none" stroke="#000000" d="M147,-2432.5743C147,-2404.5469 147,-2365.621 147,-2335.3701"/>
-<polygon fill="#000000" stroke="#000000" points="150.5001,-2335.0639 147,-2325.0639 143.5001,-2335.064 150.5001,-2335.0639"/>
-<text text-anchor="middle" x="156.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0045&#45;&gt;node0018 -->
-<g id="edge75" class="edge">
-<title>node0045&#45;&gt;node0018</title>
-<path fill="none" stroke="#000000" d="M292.9575,-2252.8024C293.8354,-2216.4565 295,-2158.8507 295,-2109 295,-2109 295,-2109 295,-1437 295,-1387.8826 313.6749,-1334.285 329.0602,-1298.4629"/>
-<polygon fill="#000000" stroke="#000000" points="332.2674,-1299.864 333.0903,-1289.3012 325.86,-1297.0454 332.2674,-1299.864"/>
-<text text-anchor="middle" x="304.5" y="-1740.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0046&#45;&gt;node0045 -->
-<g id="edge76" class="edge">
-<title>node0046&#45;&gt;node0045</title>
-<path fill="none" stroke="#000000" d="M292,-2432.5743C292,-2404.5469 292,-2365.621 292,-2335.3701"/>
-<polygon fill="#000000" stroke="#000000" points="295.5001,-2335.0639 292,-2325.0639 288.5001,-2335.064 295.5001,-2335.0639"/>
-<text text-anchor="middle" x="301.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0044&#45;&gt;node0056</title>
+<path fill="none" stroke="#000000" d="M389.8491,-2433.8609C391.2402,-2427.5819 392.6689,-2421.0988 394,-2415 418.4241,-2303.0917 410.9485,-2271.3844 448,-2163 464.6512,-2114.2914 491.2335,-2061.4601 510.2373,-2026.3176"/>
+<polygon fill="#000000" stroke="#000000" points="513.4207,-2027.7905 515.1378,-2017.3357 507.2758,-2024.4378 513.4207,-2027.7905"/>
+<text text-anchor="middle" x="457.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0059 -->
 <g id="node60" class="node">
 <title>node0059</title>
-<ellipse fill="none" stroke="#000000" cx="510" cy="-2289" rx="36" ry="36"/>
-<text text-anchor="middle" x="510" y="-2297.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q18206693">Q18206693</a></text>
-<text text-anchor="middle" x="510" y="-2286.5" font-family="Times,serif" font-size="10.00" fill="#000000">E&#45;dense</text>
-<text text-anchor="middle" x="510" y="-2275.5" font-family="Times,serif" font-size="10.00" fill="#000000">semigroup</text>
+<ellipse fill="none" stroke="#000000" cx="349" cy="-2199" rx="36" ry="36"/>
+<text text-anchor="middle" x="349" y="-2213" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q7977957">Q7977957</a></text>
+<text text-anchor="middle" x="349" y="-2202" font-family="Times,serif" font-size="10.00" fill="#000000">weak</text>
+<text text-anchor="middle" x="349" y="-2191" font-family="Times,serif" font-size="10.00" fill="#000000">n&#45;</text>
+<text text-anchor="middle" x="349" y="-2180" font-family="Times,serif" font-size="10.00" fill="#000000">category</text>
 </g>
-<!-- node0047&#45;&gt;node0059 -->
+<!-- node0044&#45;&gt;node0059 -->
+<g id="edge75" class="edge">
+<title>node0044&#45;&gt;node0059</title>
+<path fill="none" stroke="#000000" d="M377.3227,-2433.2782C376.5377,-2427.181 375.7387,-2420.9097 375,-2415 367.6703,-2356.3614 359.5884,-2288.7183 354.4115,-2244.9796"/>
+<polygon fill="#000000" stroke="#000000" points="357.8743,-2244.4579 353.2243,-2234.9381 350.9227,-2245.2799 357.8743,-2244.4579"/>
+<text text-anchor="middle" x="384.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0045&#45;&gt;node0017 -->
+<g id="edge76" class="edge">
+<title>node0045&#45;&gt;node0017</title>
+<path fill="none" stroke="#000000" d="M147,-2432.5743C147,-2404.5469 147,-2365.621 147,-2335.3701"/>
+<polygon fill="#000000" stroke="#000000" points="150.5001,-2335.0639 147,-2325.0639 143.5001,-2335.064 150.5001,-2335.0639"/>
+<text text-anchor="middle" x="156.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0046&#45;&gt;node0018 -->
 <g id="edge77" class="edge">
-<title>node0047&#45;&gt;node0059</title>
-<path fill="none" stroke="#000000" d="M506.9614,-2433.0025C506.5611,-2426.995 506.2154,-2420.8244 506,-2415 504.8172,-2383.0219 504.8172,-2374.9781 506,-2343 506.0942,-2340.4518 506.2134,-2337.8374 506.3512,-2335.1993"/>
-<polygon fill="#000000" stroke="#000000" points="509.858,-2335.1887 506.9614,-2324.9975 502.8705,-2334.7707 509.858,-2335.1887"/>
-<text text-anchor="middle" x="515.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0046&#45;&gt;node0018</title>
+<path fill="none" stroke="#000000" d="M292.9575,-2252.8024C293.8354,-2216.4565 295,-2158.8507 295,-2109 295,-2109 295,-2109 295,-1437 295,-1387.8826 313.6749,-1334.285 329.0602,-1298.4629"/>
+<polygon fill="#000000" stroke="#000000" points="332.2674,-1299.864 333.0903,-1289.3012 325.86,-1297.0454 332.2674,-1299.864"/>
+<text text-anchor="middle" x="304.5" y="-1740.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
-<!-- node0048&#45;&gt;node0042 -->
+<!-- node0047&#45;&gt;node0046 -->
 <g id="edge78" class="edge">
-<title>node0048&#45;&gt;node0042</title>
-<path fill="none" stroke="#000000" d="M572.5427,-2342.8668C575.9555,-2294.3692 582.02,-2208.1896 585.7574,-2155.0794"/>
-<polygon fill="#000000" stroke="#000000" points="589.2617,-2155.1404 586.4723,-2144.9193 582.2789,-2154.6489 589.2617,-2155.1404"/>
-<text text-anchor="middle" x="587.5" y="-2285.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0047&#45;&gt;node0046</title>
+<path fill="none" stroke="#000000" d="M292,-2432.5743C292,-2404.5469 292,-2365.621 292,-2335.3701"/>
+<polygon fill="#000000" stroke="#000000" points="295.5001,-2335.0639 292,-2325.0639 288.5001,-2335.064 295.5001,-2335.0639"/>
+<text text-anchor="middle" x="301.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0060 -->
 <g id="node61" class="node">
 <title>node0060</title>
-<ellipse fill="none" stroke="#000000" cx="870" cy="-2109" rx="36" ry="36"/>
-<text text-anchor="middle" x="870" y="-2112" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q1503423">Q1503423</a></text>
-<text text-anchor="middle" x="870" y="-2101" font-family="Times,serif" font-size="10.00" fill="#000000">quasigroup</text>
+<ellipse fill="none" stroke="#000000" cx="510" cy="-2289" rx="36" ry="36"/>
+<text text-anchor="middle" x="510" y="-2303" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q18206693">Q18206693</a></text>
+<text text-anchor="middle" x="510" y="-2292" font-family="Times,serif" font-size="10.00" fill="#000000">E&#45;</text>
+<text text-anchor="middle" x="510" y="-2281" font-family="Times,serif" font-size="10.00" fill="#000000">dense</text>
+<text text-anchor="middle" x="510" y="-2270" font-family="Times,serif" font-size="10.00" fill="#000000">semigroup</text>
 </g>
-<!-- node0049&#45;&gt;node0060 -->
+<!-- node0048&#45;&gt;node0060 -->
 <g id="edge79" class="edge">
-<title>node0049&#45;&gt;node0060</title>
-<path fill="none" stroke="#000000" d="M838.6794,-2254.5508C840.5505,-2248.0813 842.4061,-2241.3543 844,-2235 850.6572,-2208.4608 856.8967,-2178.4693 861.5939,-2154.4064"/>
-<polygon fill="#000000" stroke="#000000" points="865.0503,-2154.9661 863.5092,-2144.484 858.1772,-2153.6393 865.0503,-2154.9661"/>
-<text text-anchor="middle" x="868.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0048&#45;&gt;node0060</title>
+<path fill="none" stroke="#000000" d="M506.9614,-2433.0025C506.5611,-2426.995 506.2154,-2420.8244 506,-2415 504.8172,-2383.0219 504.8172,-2374.9781 506,-2343 506.0942,-2340.4518 506.2134,-2337.8374 506.3512,-2335.1993"/>
+<polygon fill="#000000" stroke="#000000" points="509.858,-2335.1887 506.9614,-2324.9975 502.8705,-2334.7707 509.858,-2335.1887"/>
+<text text-anchor="middle" x="515.5" y="-2375.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
-<!-- node0050&#45;&gt;node0027 -->
+<!-- node0049&#45;&gt;node0043 -->
 <g id="edge80" class="edge">
-<title>node0050&#45;&gt;node0027</title>
-<path fill="none" stroke="#000000" d="M533.7951,-2859.0927C535.1448,-2846.3225 536.6839,-2831.7605 538.1121,-2818.2472"/>
-<polygon fill="#000000" stroke="#000000" points="541.6072,-2818.4774 539.1777,-2808.1649 534.6459,-2817.7416 541.6072,-2818.4774"/>
-<text text-anchor="middle" x="546.5" y="-2829.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0051&#45;&gt;node0057 -->
-<g id="edge81" class="edge">
-<title>node0051&#45;&gt;node0057</title>
-<path fill="none" stroke="#000000" d="M727.357,-2072.7612C728.187,-2059.9992 729.1313,-2045.4806 730.0068,-2032.0202"/>
-<polygon fill="#000000" stroke="#000000" points="733.5033,-2032.1859 730.6599,-2021.9798 726.5181,-2031.7315 733.5033,-2032.1859"/>
-<text text-anchor="middle" x="738.5" y="-2043.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0052&#45;&gt;node0012 -->
-<g id="edge82" class="edge">
-<title>node0052&#45;&gt;node0012</title>
-<path fill="none" stroke="#000000" d="M877.0425,-1949.8024C876.1646,-1913.4565 875,-1855.8507 875,-1806 875,-1806 875,-1806 875,-1560 875,-1532.4517 866.5792,-1502.7795 857.883,-1479.4817"/>
-<polygon fill="#000000" stroke="#000000" points="861.0484,-1477.9643 854.1629,-1469.9119 854.524,-1480.5006 861.0484,-1477.9643"/>
-<text text-anchor="middle" x="884.5" y="-1679.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0049&#45;&gt;node0043</title>
+<path fill="none" stroke="#000000" d="M572.1412,-2342.8668C575.0072,-2294.5039 580.0937,-2208.6681 583.2431,-2155.5228"/>
+<polygon fill="#000000" stroke="#000000" points="586.7481,-2155.54 583.8459,-2145.3504 579.7604,-2155.1258 586.7481,-2155.54"/>
+<text text-anchor="middle" x="586.5" y="-2285.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0061 -->
 <g id="node62" class="node">
 <title>node0061</title>
-<ellipse fill="none" stroke="#000000" cx="805" cy="-1806" rx="36" ry="36"/>
-<text text-anchor="middle" x="805" y="-1809" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q679903">Q679903</a></text>
-<text text-anchor="middle" x="805" y="-1798" font-family="Times,serif" font-size="10.00" fill="#000000">magma</text>
+<ellipse fill="none" stroke="#000000" cx="873" cy="-2109" rx="36" ry="36"/>
+<text text-anchor="middle" x="873" y="-2112" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q1503423">Q1503423</a></text>
+<text text-anchor="middle" x="873" y="-2101" font-family="Times,serif" font-size="10.00" fill="#000000">quasigroup</text>
 </g>
-<!-- node0052&#45;&gt;node0061 -->
+<!-- node0050&#45;&gt;node0061 -->
+<g id="edge81" class="edge">
+<title>node0050&#45;&gt;node0061</title>
+<path fill="none" stroke="#000000" d="M838.5615,-2254.5205C840.444,-2248.054 842.334,-2241.3358 844,-2235 850.993,-2208.4066 857.9338,-2178.4128 863.2711,-2154.3621"/>
+<polygon fill="#000000" stroke="#000000" points="866.7222,-2154.9647 865.4559,-2144.4458 859.8862,-2153.4585 866.7222,-2154.9647"/>
+<text text-anchor="middle" x="870.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0051&#45;&gt;node0028 -->
+<g id="edge82" class="edge">
+<title>node0051&#45;&gt;node0028</title>
+<path fill="none" stroke="#000000" d="M538.7951,-2859.0927C540.1448,-2846.3225 541.6839,-2831.7605 543.1121,-2818.2472"/>
+<polygon fill="#000000" stroke="#000000" points="546.6072,-2818.4774 544.1777,-2808.1649 539.6459,-2817.7416 546.6072,-2818.4774"/>
+<text text-anchor="middle" x="551.5" y="-2829.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0052&#45;&gt;node0058 -->
 <g id="edge83" class="edge">
-<title>node0052&#45;&gt;node0061</title>
-<path fill="none" stroke="#000000" d="M856.3192,-1956.9578C851.1315,-1949.1292 845.9563,-1940.4738 842,-1932 835.2193,-1917.4769 824.7254,-1880.8974 816.6428,-1850.8711"/>
-<polygon fill="#000000" stroke="#000000" points="819.9635,-1849.74 814.003,-1840.9808 813.2003,-1851.5452 819.9635,-1849.74"/>
-<text text-anchor="middle" x="851.5" y="-1892.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0052&#45;&gt;node0058</title>
+<path fill="none" stroke="#000000" d="M729.4731,-2072.7612C729.9919,-2059.9992 730.5821,-2045.4806 731.1293,-2032.0202"/>
+<polygon fill="#000000" stroke="#000000" points="734.6283,-2032.1137 731.5374,-2021.9798 727.634,-2031.8293 734.6283,-2032.1137"/>
+<text text-anchor="middle" x="739.5" y="-2043.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0053&#45;&gt;node0012 -->
 <g id="edge84" class="edge">
 <title>node0053&#45;&gt;node0012</title>
-<path fill="none" stroke="#000000" d="M923.1795,-2253.3283C923.9063,-2247.2254 924.5558,-2240.9391 925,-2235 941.2615,-2017.5619 935,-1962.5453 935,-1744.5 935,-1744.5 935,-1744.5 935,-1560 935,-1520.4764 903.8155,-1486.0503 876.9934,-1463.7499"/>
-<polygon fill="#000000" stroke="#000000" points="878.8418,-1460.7461 868.8488,-1457.2261 874.4656,-1466.2095 878.8418,-1460.7461"/>
-<text text-anchor="middle" x="944.5" y="-1802.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0053&#45;&gt;node0051 -->
-<g id="edge86" class="edge">
-<title>node0053&#45;&gt;node0051</title>
-<path fill="none" stroke="#000000" d="M890.9658,-2264.9592C885.276,-2260.6063 879.1326,-2256.3821 873,-2253 851.5843,-2241.1893 840.8121,-2249.3388 821,-2235 803.9236,-2222.6411 772.8735,-2179.9006 750.709,-2147.5972"/>
-<polygon fill="#000000" stroke="#000000" points="753.5207,-2145.5079 744.9962,-2139.2163 747.7366,-2149.4506 753.5207,-2145.5079"/>
-<text text-anchor="middle" x="830.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0053&#45;&gt;node0060 -->
-<g id="edge85" class="edge">
-<title>node0053&#45;&gt;node0060</title>
-<path fill="none" stroke="#000000" d="M908.6312,-2253.8669C900.9994,-2225.2477 890.1758,-2184.6591 881.926,-2153.7224"/>
-<polygon fill="#000000" stroke="#000000" points="885.3037,-2152.805 879.3452,-2144.0445 878.5401,-2154.6087 885.3037,-2152.805"/>
-<text text-anchor="middle" x="911.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M877.0425,-1949.8024C876.1646,-1913.4565 875,-1855.8507 875,-1806 875,-1806 875,-1806 875,-1560 875,-1532.4517 866.5792,-1502.7795 857.883,-1479.4817"/>
+<polygon fill="#000000" stroke="#000000" points="861.0484,-1477.9643 854.1629,-1469.9119 854.524,-1480.5006 861.0484,-1477.9643"/>
+<text text-anchor="middle" x="884.5" y="-1679.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0062 -->
 <g id="node63" class="node">
 <title>node0062</title>
-<ellipse fill="none" stroke="#000000" cx="171" cy="-1134" rx="36" ry="36"/>
-<text text-anchor="middle" x="171" y="-1137" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q130901">Q130901</a></text>
-<text text-anchor="middle" x="171" y="-1126" font-family="Times,serif" font-size="10.00" fill="#000000">binary relation</text>
+<ellipse fill="none" stroke="#000000" cx="805" cy="-1806" rx="36" ry="36"/>
+<text text-anchor="middle" x="805" y="-1809" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q679903">Q679903</a></text>
+<text text-anchor="middle" x="805" y="-1798" font-family="Times,serif" font-size="10.00" fill="#000000">magma</text>
 </g>
-<!-- node0054&#45;&gt;node0062 -->
+<!-- node0053&#45;&gt;node0062 -->
+<g id="edge85" class="edge">
+<title>node0053&#45;&gt;node0062</title>
+<path fill="none" stroke="#000000" d="M856.3192,-1956.9578C851.1315,-1949.1292 845.9563,-1940.4738 842,-1932 835.2193,-1917.4769 824.7254,-1880.8974 816.6428,-1850.8711"/>
+<polygon fill="#000000" stroke="#000000" points="819.9635,-1849.74 814.003,-1840.9808 813.2003,-1851.5452 819.9635,-1849.74"/>
+<text text-anchor="middle" x="851.5" y="-1892.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0054&#45;&gt;node0012 -->
+<g id="edge86" class="edge">
+<title>node0054&#45;&gt;node0012</title>
+<path fill="none" stroke="#000000" d="M923.9439,-2253.3474C924.7717,-2247.2423 925.5067,-2240.9503 926,-2235 944.0138,-2017.7087 935,-1962.5367 935,-1744.5 935,-1744.5 935,-1744.5 935,-1560 935,-1520.4764 903.8155,-1486.0503 876.9934,-1463.7499"/>
+<polygon fill="#000000" stroke="#000000" points="878.8418,-1460.7461 868.8488,-1457.2261 874.4656,-1466.2095 878.8418,-1460.7461"/>
+<text text-anchor="middle" x="944.5" y="-1802.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0054&#45;&gt;node0052 -->
+<g id="edge88" class="edge">
+<title>node0054&#45;&gt;node0052</title>
+<path fill="none" stroke="#000000" d="M890.9658,-2264.9592C885.276,-2260.6063 879.1326,-2256.3821 873,-2253 851.5843,-2241.1893 840.7023,-2249.4894 821,-2235 790.6951,-2212.7133 765.9821,-2177.712 749.6687,-2150.2497"/>
+<polygon fill="#000000" stroke="#000000" points="752.5011,-2148.1562 744.4624,-2141.2546 746.4427,-2151.6628 752.5011,-2148.1562"/>
+<text text-anchor="middle" x="830.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0054&#45;&gt;node0061 -->
 <g id="edge87" class="edge">
-<title>node0054&#45;&gt;node0062</title>
-<path fill="none" stroke="#000000" d="M179.1188,-1527.0783C181.7771,-1520.2288 184.2491,-1512.9709 186,-1506 216.8605,-1383.1373 209.8498,-1346.1143 190,-1221 187.8186,-1207.2506 184.821,-1192.4097 181.8513,-1178.9463"/>
-<polygon fill="#000000" stroke="#000000" points="185.2136,-1177.9455 179.5998,-1168.9602 178.385,-1179.4851 185.2136,-1177.9455"/>
-<text text-anchor="middle" x="216.5" y="-1343.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0054&#45;&gt;node0061</title>
+<path fill="none" stroke="#000000" d="M909.2167,-2253.8669C902.0929,-2225.3716 892.0026,-2185.0103 884.2812,-2154.1247"/>
+<polygon fill="#000000" stroke="#000000" points="887.5821,-2152.897 881.7611,-2144.0445 880.7911,-2154.5948 887.5821,-2152.897"/>
+<text text-anchor="middle" x="912.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0063 -->
 <g id="node64" class="node">
 <title>node0063</title>
+<ellipse fill="none" stroke="#000000" cx="172" cy="-1134" rx="36" ry="36"/>
+<text text-anchor="middle" x="172" y="-1142.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q130901">Q130901</a></text>
+<text text-anchor="middle" x="172" y="-1131.5" font-family="Times,serif" font-size="10.00" fill="#000000">binary</text>
+<text text-anchor="middle" x="172" y="-1120.5" font-family="Times,serif" font-size="10.00" fill="#000000">relation</text>
+</g>
+<!-- node0055&#45;&gt;node0063 -->
+<g id="edge89" class="edge">
+<title>node0055&#45;&gt;node0063</title>
+<path fill="none" stroke="#000000" d="M175.5763,-1527.3824C178.4082,-1520.4471 181.0713,-1513.0787 183,-1506 216.308,-1383.7515 209.1654,-1346.247 190,-1221 187.9178,-1207.3924 185.0996,-1192.6985 182.3117,-1179.3297"/>
+<polygon fill="#000000" stroke="#000000" points="185.7043,-1178.4565 180.1984,-1169.4047 178.8578,-1179.9144 185.7043,-1178.4565"/>
+<text text-anchor="middle" x="215.5" y="-1343.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0064 -->
+<g id="node65" class="node">
+<title>node0064</title>
 <ellipse fill="none" stroke="#000000" cx="100" cy="-1437" rx="36" ry="36"/>
 <text text-anchor="middle" x="100" y="-1445.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q629085">Q629085</a></text>
 <text text-anchor="middle" x="100" y="-1434.5" font-family="Times,serif" font-size="10.00" fill="#000000">multivalued</text>
 <text text-anchor="middle" x="100" y="-1423.5" font-family="Times,serif" font-size="10.00" fill="#000000">function</text>
 </g>
-<!-- node0054&#45;&gt;node0063 -->
-<g id="edge88" class="edge">
-<title>node0054&#45;&gt;node0063</title>
-<path fill="none" stroke="#000000" d="M140.4496,-1532.5919C134.19,-1524.4049 127.8345,-1515.1611 123,-1506 118.976,-1498.3747 115.4623,-1489.9083 112.473,-1481.592"/>
-<polygon fill="#000000" stroke="#000000" points="115.732,-1480.3037 109.2056,-1471.9577 109.1028,-1482.552 115.732,-1480.3037"/>
+<!-- node0055&#45;&gt;node0064 -->
+<g id="edge90" class="edge">
+<title>node0055&#45;&gt;node0064</title>
+<path fill="none" stroke="#000000" d="M138.0903,-1531.2035C132.6927,-1523.3013 127.2486,-1514.5487 123,-1506 119.1628,-1498.279 115.7363,-1489.768 112.7743,-1481.4376"/>
+<polygon fill="#000000" stroke="#000000" points="116.0339,-1480.1508 109.5139,-1471.7997 109.4031,-1482.394 116.0339,-1480.1508"/>
 <text text-anchor="middle" x="132.5" y="-1494.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0064 -->
-<g id="node65" class="node">
-<title>node0064</title>
-<ellipse fill="none" stroke="#000000" cx="162" cy="-1347" rx="36" ry="36"/>
-<text text-anchor="middle" x="162" y="-1350" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q1756942">Q1756942</a></text>
-<text text-anchor="middle" x="162" y="-1339" font-family="Times,serif" font-size="10.00" fill="#000000">partial function</text>
-</g>
-<!-- node0054&#45;&gt;node0064 -->
-<g id="edge89" class="edge">
-<title>node0054&#45;&gt;node0064</title>
-<path fill="none" stroke="#000000" d="M163.6607,-1523.8675C163.3231,-1487.9124 162.8037,-1432.5892 162.4357,-1393.4031"/>
-<polygon fill="#000000" stroke="#000000" points="165.9348,-1393.2765 162.3409,-1383.3098 158.9351,-1393.3423 165.9348,-1393.2765"/>
-<text text-anchor="middle" x="172.5" y="-1494.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0065 -->
 <g id="node66" class="node">
 <title>node0065</title>
-<ellipse fill="none" stroke="#000000" cx="596" cy="-1560" rx="36" ry="36"/>
-<text text-anchor="middle" x="596" y="-1563" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q18386809">Q18386809</a></text>
-<text text-anchor="middle" x="596" y="-1552" font-family="Times,serif" font-size="10.00" fill="#000000">partial algebra</text>
+<ellipse fill="none" stroke="#000000" cx="162" cy="-1347" rx="36" ry="36"/>
+<text text-anchor="middle" x="162" y="-1355.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q1756942">Q1756942</a></text>
+<text text-anchor="middle" x="162" y="-1344.5" font-family="Times,serif" font-size="10.00" fill="#000000">partial</text>
+<text text-anchor="middle" x="162" y="-1333.5" font-family="Times,serif" font-size="10.00" fill="#000000">function</text>
 </g>
 <!-- node0055&#45;&gt;node0065 -->
-<g id="edge90" class="edge">
+<g id="edge91" class="edge">
 <title>node0055&#45;&gt;node0065</title>
-<path fill="none" stroke="#000000" d="M527.4352,-1950.0693C524.0018,-1887.297 521.3942,-1754.1375 551,-1647 555.4957,-1630.7309 563.2701,-1613.9989 571.1049,-1599.6087"/>
-<polygon fill="#000000" stroke="#000000" points="574.3672,-1600.9489 576.2284,-1590.5188 568.2691,-1597.5117 574.3672,-1600.9489"/>
-<text text-anchor="middle" x="542.5" y="-1740.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M160.3393,-1523.8675C160.6769,-1487.9124 161.1963,-1432.5892 161.5643,-1393.4031"/>
+<polygon fill="#000000" stroke="#000000" points="165.0649,-1393.3423 161.6591,-1383.3098 158.0652,-1393.2765 165.0649,-1393.3423"/>
+<text text-anchor="middle" x="169.5" y="-1494.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0066 -->
 <g id="node67" class="node">
 <title>node0066</title>
-<ellipse fill="none" stroke="#000000" cx="596" cy="-1683" rx="36" ry="36"/>
-<text text-anchor="middle" x="596" y="-1686" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q18386814">Q18386814</a></text>
-<text text-anchor="middle" x="596" y="-1675" font-family="Times,serif" font-size="10.00" fill="#000000">partial groupoid</text>
+<ellipse fill="none" stroke="#000000" cx="599" cy="-1560" rx="36" ry="36"/>
+<text text-anchor="middle" x="599" y="-1568.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q18386809">Q18386809</a></text>
+<text text-anchor="middle" x="599" y="-1557.5" font-family="Times,serif" font-size="10.00" fill="#000000">partial</text>
+<text text-anchor="middle" x="599" y="-1546.5" font-family="Times,serif" font-size="10.00" fill="#000000">algebra</text>
 </g>
 <!-- node0056&#45;&gt;node0066 -->
-<g id="edge91" class="edge">
-<title>node0056&#45;&gt;node0066</title>
-<path fill="none" stroke="#000000" d="M594.3393,-1859.8675C594.6769,-1823.9124 595.1963,-1768.5892 595.5643,-1729.4031"/>
-<polygon fill="#000000" stroke="#000000" points="599.0649,-1729.3423 595.6591,-1719.3098 592.0652,-1729.2765 599.0649,-1729.3423"/>
-<text text-anchor="middle" x="604.5" y="-1802.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0057&#45;&gt;node0061 -->
 <g id="edge92" class="edge">
-<title>node0057&#45;&gt;node0061</title>
-<path fill="none" stroke="#000000" d="M741.3487,-1950.9233C748.0766,-1925.1587 758.6117,-1889.6323 772,-1860 774.2619,-1854.9938 776.8991,-1849.8832 779.6787,-1844.8999"/>
-<polygon fill="#000000" stroke="#000000" points="782.7842,-1846.5218 784.7854,-1836.1177 776.7329,-1843.003 782.7842,-1846.5218"/>
-<text text-anchor="middle" x="781.5" y="-1892.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0058&#45;&gt;node0018 -->
-<g id="edge93" class="edge">
-<title>node0058&#45;&gt;node0018</title>
-<path fill="none" stroke="#000000" d="M349,-2162.8794C349,-2132.1855 349,-2086.9531 349,-2047.5 349,-2047.5 349,-2047.5 349,-1437 349,-1391.6344 349,-1339.8374 349,-1303.4913"/>
-<polygon fill="#000000" stroke="#000000" points="352.5001,-1303.2005 349,-1293.2006 345.5001,-1303.2006 352.5001,-1303.2005"/>
-<text text-anchor="middle" x="358.5" y="-1740.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0059&#45;&gt;node0042 -->
-<g id="edge94" class="edge">
-<title>node0059&#45;&gt;node0042</title>
-<path fill="none" stroke="#000000" d="M517.5724,-2253.5515C523.9144,-2227.6022 534.3068,-2192.0074 549,-2163 552.0816,-2156.9163 555.8414,-2150.7955 559.8089,-2144.9717"/>
-<polygon fill="#000000" stroke="#000000" points="562.7581,-2146.8642 565.7158,-2136.6906 557.0593,-2142.7992 562.7581,-2146.8642"/>
-<text text-anchor="middle" x="558.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0060&#45;&gt;node0061 -->
-<g id="edge95" class="edge">
-<title>node0060&#45;&gt;node0061</title>
-<path fill="none" stroke="#000000" d="M846.6315,-2081.1724C834.5077,-2064.989 820.8349,-2043.5762 814,-2022 796.109,-1965.5225 796.859,-1896.5732 800.0643,-1852.0033"/>
-<polygon fill="#000000" stroke="#000000" points="803.574,-1852.0181 800.8742,-1841.773 796.5958,-1851.4656 803.574,-1852.0181"/>
-<text text-anchor="middle" x="823.5" y="-1982.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0061&#45;&gt;node0012 -->
-<g id="edge96" class="edge">
-<title>node0061&#45;&gt;node0012</title>
-<path fill="none" stroke="#000000" d="M808.322,-1769.9469C814.538,-1702.485 827.9162,-1557.2913 834.7676,-1482.934"/>
-<polygon fill="#000000" stroke="#000000" points="838.2572,-1483.2064 835.6896,-1472.9274 831.2868,-1482.5641 838.2572,-1483.2064"/>
-<text text-anchor="middle" x="831.5" y="-1617.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0061&#45;&gt;node0066 -->
-<g id="edge97" class="edge">
-<title>node0061&#45;&gt;node0066</title>
-<path fill="none" stroke="#000000" d="M773.7106,-1787.5857C736.9743,-1765.9658 675.9802,-1730.0697 635.8815,-1706.4709"/>
-<polygon fill="#000000" stroke="#000000" points="637.555,-1703.3947 627.1615,-1701.3391 634.0046,-1709.4275 637.555,-1703.3947"/>
-<text text-anchor="middle" x="722.5" y="-1740.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0056&#45;&gt;node0066</title>
+<path fill="none" stroke="#000000" d="M530.4352,-1950.0693C527.0018,-1887.297 524.3942,-1754.1375 554,-1647 558.4957,-1630.7309 566.2701,-1613.9989 574.1049,-1599.6087"/>
+<polygon fill="#000000" stroke="#000000" points="577.3672,-1600.9489 579.2284,-1590.5188 571.2691,-1597.5117 577.3672,-1600.9489"/>
+<text text-anchor="middle" x="545.5" y="-1740.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0067 -->
 <g id="node68" class="node">
 <title>node0067</title>
-<ellipse fill="none" stroke="#000000" cx="153" cy="-1011" rx="36" ry="36"/>
-<text text-anchor="middle" x="153" y="-1014" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q203066">Q203066</a></text>
-<text text-anchor="middle" x="153" y="-1003" font-family="Times,serif" font-size="10.00" fill="#000000">relation</text>
+<ellipse fill="none" stroke="#000000" cx="599" cy="-1683" rx="36" ry="36"/>
+<text text-anchor="middle" x="599" y="-1691.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q18386814">Q18386814</a></text>
+<text text-anchor="middle" x="599" y="-1680.5" font-family="Times,serif" font-size="10.00" fill="#000000">partial</text>
+<text text-anchor="middle" x="599" y="-1669.5" font-family="Times,serif" font-size="10.00" fill="#000000">groupoid</text>
+</g>
+<!-- node0057&#45;&gt;node0067 -->
+<g id="edge93" class="edge">
+<title>node0057&#45;&gt;node0067</title>
+<path fill="none" stroke="#000000" d="M597.3393,-1859.8675C597.6769,-1823.9124 598.1963,-1768.5892 598.5643,-1729.4031"/>
+<polygon fill="#000000" stroke="#000000" points="602.0649,-1729.3423 598.6591,-1719.3098 595.0652,-1729.2765 602.0649,-1729.3423"/>
+<text text-anchor="middle" x="607.5" y="-1802.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0058&#45;&gt;node0062 -->
+<g id="edge94" class="edge">
+<title>node0058&#45;&gt;node0062</title>
+<path fill="none" stroke="#000000" d="M741.3487,-1950.9233C748.0766,-1925.1587 758.6117,-1889.6323 772,-1860 774.2619,-1854.9938 776.8991,-1849.8832 779.6787,-1844.8999"/>
+<polygon fill="#000000" stroke="#000000" points="782.7842,-1846.5218 784.7854,-1836.1177 776.7329,-1843.003 782.7842,-1846.5218"/>
+<text text-anchor="middle" x="781.5" y="-1892.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0059&#45;&gt;node0018 -->
+<g id="edge95" class="edge">
+<title>node0059&#45;&gt;node0018</title>
+<path fill="none" stroke="#000000" d="M349,-2162.8794C349,-2132.1855 349,-2086.9531 349,-2047.5 349,-2047.5 349,-2047.5 349,-1437 349,-1391.6344 349,-1339.8374 349,-1303.4913"/>
+<polygon fill="#000000" stroke="#000000" points="352.5001,-1303.2005 349,-1293.2006 345.5001,-1303.2006 352.5001,-1303.2005"/>
+<text text-anchor="middle" x="358.5" y="-1740.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0060&#45;&gt;node0043 -->
+<g id="edge96" class="edge">
+<title>node0060&#45;&gt;node0043</title>
+<path fill="none" stroke="#000000" d="M517.8917,-2253.7096C524.3924,-2227.8388 534.8435,-2192.2731 549,-2163 551.7274,-2157.3602 554.9959,-2151.6453 558.4459,-2146.1493"/>
+<polygon fill="#000000" stroke="#000000" points="561.4069,-2148.0164 563.965,-2137.7351 555.5537,-2144.1771 561.4069,-2148.0164"/>
+<text text-anchor="middle" x="558.5" y="-2195.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0061&#45;&gt;node0062 -->
+<g id="edge97" class="edge">
+<title>node0061&#45;&gt;node0062</title>
+<path fill="none" stroke="#000000" d="M848.9909,-2082.1372C836.0712,-2065.9329 821.3212,-2044.1829 814,-2022 795.3934,-1965.6226 796.3443,-1896.4497 799.7877,-1851.8176"/>
+<polygon fill="#000000" stroke="#000000" points="803.2753,-1852.1113 800.6297,-1841.8521 796.3001,-1851.5219 803.2753,-1852.1113"/>
+<text text-anchor="middle" x="823.5" y="-1982.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0062&#45;&gt;node0012 -->
+<g id="edge98" class="edge">
+<title>node0062&#45;&gt;node0012</title>
+<path fill="none" stroke="#000000" d="M808.322,-1769.9469C814.538,-1702.485 827.9162,-1557.2913 834.7676,-1482.934"/>
+<polygon fill="#000000" stroke="#000000" points="838.2572,-1483.2064 835.6896,-1472.9274 831.2868,-1482.5641 838.2572,-1483.2064"/>
+<text text-anchor="middle" x="831.5" y="-1617.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0062&#45;&gt;node0067 -->
-<g id="edge98" class="edge">
+<g id="edge99" class="edge">
 <title>node0062&#45;&gt;node0067</title>
-<path fill="none" stroke="#000000" d="M165.7453,-1098.0927C163.8599,-1085.2095 161.7077,-1070.5026 159.7154,-1056.8887"/>
-<polygon fill="#000000" stroke="#000000" points="163.1413,-1056.1271 158.2301,-1046.7393 156.2151,-1057.1408 163.1413,-1056.1271"/>
-<text text-anchor="middle" x="172.5" y="-1068.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<path fill="none" stroke="#000000" d="M773.713,-1787.3189C737.7638,-1765.8541 678.6768,-1730.574 639.3091,-1707.0681"/>
+<polygon fill="#000000" stroke="#000000" points="640.6235,-1703.7765 630.2432,-1701.6549 637.0349,-1709.7866 640.6235,-1703.7765"/>
+<text text-anchor="middle" x="723.5" y="-1740.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 <!-- node0068 -->
 <g id="node69" class="node">
 <title>node0068</title>
-<ellipse fill="none" stroke="#000000" cx="100" cy="-1257" rx="36" ry="36"/>
-<text text-anchor="middle" x="100" y="-1260" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q54940067">Q54940067</a></text>
-<text text-anchor="middle" x="100" y="-1249" font-family="Times,serif" font-size="10.00" fill="#000000">serial relation</text>
+<ellipse fill="none" stroke="#000000" cx="167" cy="-1011" rx="36" ry="36"/>
+<text text-anchor="middle" x="167" y="-1014" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q203066">Q203066</a></text>
+<text text-anchor="middle" x="167" y="-1003" font-family="Times,serif" font-size="10.00" fill="#000000">relation</text>
 </g>
 <!-- node0063&#45;&gt;node0068 -->
-<g id="edge99" class="edge">
+<g id="edge100" class="edge">
 <title>node0063&#45;&gt;node0068</title>
+<path fill="none" stroke="#000000" d="M170.5269,-1097.7612C170.0081,-1084.9992 169.4179,-1070.4806 168.8707,-1057.0202"/>
+<polygon fill="#000000" stroke="#000000" points="172.366,-1056.8293 168.4626,-1046.9798 165.3717,-1057.1137 172.366,-1056.8293"/>
+<text text-anchor="middle" x="178.5" y="-1068.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0069 -->
+<g id="node70" class="node">
+<title>node0069</title>
+<ellipse fill="none" stroke="#000000" cx="100" cy="-1257" rx="36" ry="36"/>
+<text text-anchor="middle" x="100" y="-1265.5" font-family="Times,serif" font-size="10.00" fill="#000000"><a href="http://www.wikidata.org/entity/Q54940067">Q54940067</a></text>
+<text text-anchor="middle" x="100" y="-1254.5" font-family="Times,serif" font-size="10.00" fill="#000000">serial</text>
+<text text-anchor="middle" x="100" y="-1243.5" font-family="Times,serif" font-size="10.00" fill="#000000">relation</text>
+</g>
+<!-- node0064&#45;&gt;node0069 -->
+<g id="edge101" class="edge">
+<title>node0064&#45;&gt;node0069</title>
 <path fill="none" stroke="#000000" d="M98.4806,-1400.987C98.2805,-1394.9815 98.1077,-1388.8155 98,-1383 97.4077,-1351.0055 97.4077,-1342.9945 98,-1311 98.0471,-1308.4557 98.1067,-1305.8444 98.1755,-1303.2087"/>
 <polygon fill="#000000" stroke="#000000" points="101.6799,-1303.1132 98.4806,-1293.013 94.683,-1302.9038 101.6799,-1303.1132"/>
 <text text-anchor="middle" x="107.5" y="-1343.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
-<!-- node0064&#45;&gt;node0062 -->
-<g id="edge100" class="edge">
-<title>node0064&#45;&gt;node0062</title>
-<path fill="none" stroke="#000000" d="M163.5267,-1310.8675C165.046,-1274.9124 167.3836,-1219.5892 169.0393,-1180.4031"/>
-<polygon fill="#000000" stroke="#000000" points="172.5404,-1180.4487 169.4658,-1170.3098 165.5467,-1180.1531 172.5404,-1180.4487"/>
+<!-- node0065&#45;&gt;node0063 -->
+<g id="edge102" class="edge">
+<title>node0065&#45;&gt;node0063</title>
+<path fill="none" stroke="#000000" d="M163.6964,-1310.8675C165.3844,-1274.9124 167.9817,-1219.5892 169.8215,-1180.4031"/>
+<polygon fill="#000000" stroke="#000000" points="173.3224,-1180.463 170.2953,-1170.3098 166.3301,-1180.1346 173.3224,-1180.463"/>
 <text text-anchor="middle" x="176.5" y="-1253.3" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
-<!-- node0065&#45;&gt;node0012 -->
-<g id="edge101" class="edge">
-<title>node0065&#45;&gt;node0012</title>
-<path fill="none" stroke="#000000" d="M605.2784,-1525.1955C610.1783,-1512.8128 617.4396,-1499.779 628,-1491 652.9264,-1470.2781 739.1059,-1453.0914 793.3123,-1443.9991"/>
-<polygon fill="#000000" stroke="#000000" points="794.0711,-1447.4214 803.3696,-1442.3432 792.9338,-1440.5144 794.0711,-1447.4214"/>
-<text text-anchor="middle" x="637.5" y="-1494.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0066&#45;&gt;node0065 -->
-<g id="edge102" class="edge">
-<title>node0066&#45;&gt;node0065</title>
-<path fill="none" stroke="#000000" d="M596,-1646.7612C596,-1634.2361 596,-1620.0191 596,-1606.771"/>
-<polygon fill="#000000" stroke="#000000" points="599.5001,-1606.4048 596,-1596.4048 592.5001,-1606.4048 599.5001,-1606.4048"/>
-<text text-anchor="middle" x="605.5" y="-1617.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
-</g>
-<!-- node0067&#45;&gt;node0003 -->
+<!-- node0066&#45;&gt;node0012 -->
 <g id="edge103" class="edge">
-<title>node0067&#45;&gt;node0003</title>
-<path fill="none" stroke="#000000" d="M151.8215,-974.7612C151.4142,-962.2361 150.9518,-948.0191 150.521,-934.771"/>
-<polygon fill="#000000" stroke="#000000" points="154.0072,-934.2857 150.1839,-924.4048 147.0109,-934.5133 154.0072,-934.2857"/>
-<text text-anchor="middle" x="160.5" y="-945.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+<title>node0066&#45;&gt;node0012</title>
+<path fill="none" stroke="#000000" d="M608.2945,-1525.2148C613.1964,-1512.8345 620.4549,-1499.7973 631,-1491 655.424,-1470.6243 739.588,-1453.4352 793.0762,-1444.2271"/>
+<polygon fill="#000000" stroke="#000000" points="793.7349,-1447.6655 803.0115,-1442.5475 792.568,-1440.7634 793.7349,-1447.6655"/>
+<text text-anchor="middle" x="640.5" y="-1494.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
-<!-- node0068&#45;&gt;node0062 -->
+<!-- node0067&#45;&gt;node0066 -->
 <g id="edge104" class="edge">
-<title>node0068&#45;&gt;node0062</title>
-<path fill="none" stroke="#000000" d="M117.7264,-1225.3204C124.3493,-1213.5686 131.9688,-1200.1473 139,-1188 141.6281,-1183.4596 144.3993,-1178.7173 147.167,-1174.0096"/>
-<polygon fill="#000000" stroke="#000000" points="150.3795,-1175.4524 152.4463,-1165.0611 144.3505,-1171.8954 150.3795,-1175.4524"/>
+<title>node0067&#45;&gt;node0066</title>
+<path fill="none" stroke="#000000" d="M599,-1646.7612C599,-1634.2361 599,-1620.0191 599,-1606.771"/>
+<polygon fill="#000000" stroke="#000000" points="602.5001,-1606.4048 599,-1596.4048 595.5001,-1606.4048 602.5001,-1606.4048"/>
+<text text-anchor="middle" x="608.5" y="-1617.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0068&#45;&gt;node0003 -->
+<g id="edge105" class="edge">
+<title>node0068&#45;&gt;node0003</title>
+<path fill="none" stroke="#000000" d="M166.1161,-974.7612C165.8106,-962.2361 165.4639,-948.0191 165.1408,-934.771"/>
+<polygon fill="#000000" stroke="#000000" points="168.6308,-934.3165 164.8879,-924.4048 161.6329,-934.4872 168.6308,-934.3165"/>
+<text text-anchor="middle" x="174.5" y="-945.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
+</g>
+<!-- node0069&#45;&gt;node0063 -->
+<g id="edge106" class="edge">
+<title>node0069&#45;&gt;node0063</title>
+<path fill="none" stroke="#000000" d="M117.637,-1225.2682C124.2502,-1213.5108 131.8864,-1200.0992 139,-1188 141.7843,-1183.2643 144.7398,-1178.3186 147.6934,-1173.4255"/>
+<polygon fill="#000000" stroke="#000000" points="150.7737,-1175.0961 152.9706,-1164.7316 144.7897,-1171.4639 150.7737,-1175.0961"/>
 <text text-anchor="middle" x="148.5" y="-1191.8" font-family="Times,serif" font-size="14.00" fill="#000000">is a</text>
 </g>
 </g>

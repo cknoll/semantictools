@@ -9,7 +9,7 @@ from IPython.display import SVG, display, HTML
 
 import networkx as nx
 import owlready2 as owl2
-import BeautifulSoup
+from bs4 import BeautifulSoup
 import nxv
 
 
@@ -19,7 +19,7 @@ from .release import __version__
 
 # noinspection PyUnresolvedReferences
 # for debugging
-from ipydex import IPS
+from ipydex import IPS, activate_ips_on_exception, set_trace
 
 
 BASEPATH = os.path.dirname(
@@ -290,9 +290,12 @@ class GraphVisualizer(object):
         while True:
 
             res_entities = []
+            # set_trace()
+            # print(active_nodes)
             for node in active_nodes:
 
-                raw_subclasses = node.concept.subclasses(world=world)
+                raw_subclasses = list(node.concept.subclasses(world=world))
+                # print(raw_subclasses)
                 subclasses = [self.get_node_from_owl_concept(concept) for concept in raw_subclasses]
 
                 for cls in subclasses:
