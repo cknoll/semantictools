@@ -295,6 +295,14 @@ class GraphVisualizer(object):
             for node in active_nodes:
 
                 raw_subclasses = list(node.concept.subclasses(world=world))
+                # some (strange) ontologies have owl2.Thing as a subclass of other classes
+                # to prevent an infinity loop we simply ignore this
+                try:
+                    raw_subclasses.remove(owl2.Thing)
+                except:
+                    pass
+
+
                 # print(raw_subclasses)
                 subclasses = [self.get_node_from_owl_concept(concept) for concept in raw_subclasses]
 
