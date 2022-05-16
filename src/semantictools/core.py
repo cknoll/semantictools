@@ -237,8 +237,21 @@ def get_node(data: WDObject, **kwargs) -> Node:
 
 
 class GraphVisualizer(object):
-    def __init__(self, show_labels_for_concepts: bool = True):
+    def __init__(self, show_labels_for_concepts: bool = True,
+                 nodeclass=None):
+        """
+        :param show_labels_for_concepts:    bool, default=True; if False, only show `name`
+        :param nodeclass:                   custom Node class or None (default)
+
+        """
         self.show_labels_for_concepts = show_labels_for_concepts
+        if nodeclass:
+            self.nodeclass = nodeclass
+            self.use_legacy_nodeclass = False
+        else:
+            self.nodeclass = Node
+            self.use_legacy_nodeclass = True
+
 
         # Some (long) concept names have labels ending with "__disp".
         # These should be used instead of the actual name, because they fit into the circles.
@@ -263,9 +276,14 @@ class GraphVisualizer(object):
         else:
             graph_label = f"{concept.name}"
 
-        data = WDObject(dict(id=f"{concept.iri}", label=graph_label))
 
-        node = get_node(data, id_in_repr=False)
+        if self.use_legacy_nodeclass:
+            data = WDObject(dict(id=f"{concept.iri}", label=graph_label))
+
+            node = get_node(data, id_in_repr=False)
+        else:
+            # see demo notebook ontomathpro_viz1.ipynb for usage example
+            node = self.nodeclass(concept)
 
         # also store the original concept object
         node.concept = concept
@@ -320,8 +338,14 @@ class GraphVisualizer(object):
         return G
 
 
-def vizualize_taxonomy(
-    onto: owl2.Ontology, style: dict = None, svg_fname: str = None, scale: float = 1.0
+# handle legacy typo
+def vizualize_taxonomy(*args, **kwargs):
+    return  visualize_taxonomy(*args, **kwargs)
+
+
+def visualize_taxonomy(
+    onto: owl2.Ontology, style: dict = None, svg_fname: str = None, scale: float = 1.0,
+    nodeclass=None
 ):
     """
     create a svg image and display it in a Jupyter Notebook.
@@ -330,13 +354,14 @@ def vizualize_taxonomy(
     :param style:       (optional), hardcoded default
     :param svg_fname:   (optional), default -> tempfile
     :param scale:       scaling factor, default: 1.0
+    :param nodeclass:   custom Node class, default: None
 
     :return:        IPython.display.HTML-Object
     """
     base_concept = owl2.Thing
     assert base_concept
 
-    gv = GraphVisualizer()
+    gv = GraphVisualizer(nodeclass=nodeclass)
     G = gv.generate_taxonomy_graph_from_onto(base_concept, world=onto.world)
 
     default_style = nxv.Style(
