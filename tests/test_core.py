@@ -25,7 +25,7 @@ class TestWikidata(unittest.TestCase):
         res1 = smt.get_superclasses(base_node.id)
         self.assertEqual(len(res1), 2)
         res_nodes = [smt.get_node(data) for data in res1]
-        self.assertEqual(res_nodes[0].label, "space (mathematics)")
+        self.assertTrue(res_nodes[0].label.startswith("space"))
         self.assertEqual(res_nodes[1].label, "free module")
 
     def test_build_graph(self):
@@ -73,7 +73,8 @@ class TestWikidata(unittest.TestCase):
 
         self.assertTrue(isinstance(bfo, owl2.Ontology))
 
-        G = smt.generate_taxonomy_graph_from_onto(owl2.Thing)
+        gv = smt.GraphVisualizer()
+        G = gv.generate_taxonomy_graph_from_onto(owl2.Thing, world=bfo.world)
 
         self.assertEqual(G.number_of_nodes(), 36)
 
@@ -97,9 +98,16 @@ class TestWikidata(unittest.TestCase):
     def test_vizualize_taxonomy(self):
 
         w = owl2.World()
-        target_path = "testdata/rector-modularization-asserted-minimal.owl"
+        target_path = os.path.join(BASEPATH, "tests", "testdata", "rector-modularization-asserted-minimal.owl")
         # target_path = "testdata/rector-modularization-reasoned-openllet.owl"
         ocf = w.get_ontology(target_path).load()
 
         smt.vizualize_taxonomy(ocf)
 
+    def test_vizualize_taxonomy_unlabeled(self):
+
+        w = owl2.World()
+        target_path = os.path.join(BASEPATH, "tests", "testdata", "bfo.owl")
+        ocf = w.get_ontology(target_path).load()
+
+        smt.vizualize_taxonomy(ocf, style=smt.style_taxo_unlabeled)

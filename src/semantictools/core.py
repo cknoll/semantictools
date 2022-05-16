@@ -329,7 +329,7 @@ def vizualize_taxonomy(
     :param onto:
     :param style:       (optional), hardcoded default
     :param svg_fname:   (optional), default -> tempfile
-    :param width:       html display width, default "20%"
+    :param scale:       scaling factor, default: 1.0
 
     :return:        IPython.display.HTML-Object
     """
@@ -372,6 +372,20 @@ def vizualize_taxonomy(
     res = SVG(svg_abspath)
     scale_svg(res, scale)
     return res
+
+
+# http://www.graphviz.org/doc/info/attrs.html#d:nodesep
+# define a style for unlabeled taxonomy
+style_taxo_unlabeled = nxv.Style(
+    graph={"rankdir": "BT", "nodesep": 0.05},
+    node=lambda u, d: {
+        "shape": "point",
+        "fixedsize": True,
+        "width": 0.1,
+        "fontsize": 10,
+    },
+    edge=lambda u, v, d: {"style": "solid", "arrowhead": "none", "color": "#959595ff"},
+)
 
 
 def scale_svg(svg_object, scale=1.0):
