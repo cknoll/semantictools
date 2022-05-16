@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="https://w3id.org/yet/undefined/rme"
+         xmlns="https://w3id.org/yet/undefined/rme#">
+
+<owl:Ontology rdf:about="https://w3id.org/yet/undefined/rme"/>
+
+<owl:ObjectProperty rdf:about="#plays_role"/>
+
+<owl:Class rdf:about="#Protein">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Insulin">
+  <rdfs:subClassOf>
+    <owl:Restriction>
+      <owl:someValuesFrom rdf:resource="#Hormone_Role"/>
+      <owl:onProperty rdf:resource="#plays_role"/>
+    </owl:Restriction>
+  </rdfs:subClassOf>
+  <rdfs:subClassOf rdf:resource="#Protein"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Hormone_Role">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Protein_Hormone">
+  <owl:equivalentClass>
+    <owl:Class>
+      <owl:intersectionOf rdf:parseType="Collection">
+        <rdf:Description rdf:about="#Protein"/>
+        <owl:Restriction>
+          <owl:someValuesFrom rdf:resource="#Hormone_Role"/>
+          <owl:onProperty rdf:resource="#plays_role"/>
+        </owl:Restriction>
+      </owl:intersectionOf>
+    </owl:Class>
+  </owl:equivalentClass>
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+
+</rdf:RDF>

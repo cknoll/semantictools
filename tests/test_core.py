@@ -98,9 +98,8 @@ class TestWikidata(unittest.TestCase):
 
         w = owl2.World()
         target_path = "testdata/rector-modularization-asserted-minimal.owl"
-        target_path = "testdata/rector-modularization-reasoned-openllet.owl"
+        # target_path = "testdata/rector-modularization-reasoned-openllet.owl"
         ocf = w.get_ontology(target_path).load()
 
-        # set_trace()
         smt.vizualize_taxonomy(ocf)
 
