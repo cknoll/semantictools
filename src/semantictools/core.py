@@ -291,6 +291,38 @@ class GraphVisualizer(object):
 
         return node
 
+    @staticmethod
+    def modify_tooltip(G: nx.Graph, svg_data: str):
+        """
+        Change the title tag of every node from generig 'node0001' to some
+        meaingful value.
+
+        :param G:           the graph to modify
+        :param svg_data:    svg data string of rendered graph
+
+        :return:    None
+        """
+
+        old_title_str_template = "<title>node{:04d}</title>"
+        new_title_str_template = "<title>{}</title>"
+
+
+        # generate replacement tuples
+        rpl_tuples = []
+        for i, node in enumerate(G.nodes):
+            s1 = old_title_str_template.format(i)
+
+            # get new title or old generic node label as fallback
+            new_title = getattr(node, "title", f"node{i:04d}")
+            s2 = new_title_str_template.format(new_title)
+            rpl_tuples.append((s1, s2))
+
+
+        for s1, s2 in rpl_tuples:
+            svg_data = svg_data.replace(s1, s2)
+
+        return svg_data
+
     def generate_taxonomy_graph_from_onto(
         self, base_concept: owl2.ThingClass, world: owl2.World = None
     ) -> nx.DiGraph:
@@ -379,14 +411,17 @@ def visualize_taxonomy(
 
     if style is None:
         style = default_style
-    svg_data = nxv.render(G, style, format="svg")
+    svg_data = nxv.render(G, style, format="svg").decode("utf8")
+
+    svg_data = gv.modify_tooltip(G, svg_data)
+
     if svg_fname is None:
         import tempfile
 
         svg_fname = tempfile.mktemp(suffix=".svg")
 
     with open(svg_fname, "wb") as svgfile:
-        svgfile.write(svg_data)
+        svgfile.write(svg_data.encode("utf8"))
 
     svg_abspath = os.path.abspath(svg_fname)
     url = f"file://{svg_abspath}"
@@ -396,6 +431,7 @@ def visualize_taxonomy(
 
     res = SVG(svg_abspath)
     scale_svg(res, scale)
+    res.G = G
     return res
 
 
