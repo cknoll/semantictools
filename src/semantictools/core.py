@@ -4,7 +4,7 @@ import requests
 import json
 import time
 import re
-import base64
+import base64  #noqa
 from IPython.display import SVG, display, HTML
 
 import networkx as nx
@@ -19,7 +19,7 @@ from .release import __version__
 
 # noinspection PyUnresolvedReferences
 # for debugging
-from ipydex import IPS, activate_ips_on_exception, set_trace
+from ipydex import IPS, activate_ips_on_exception, set_trace  #noqa
 
 
 BASEPATH = os.path.dirname(
@@ -50,7 +50,7 @@ class WDObject(object):
     """
 
     # regex that matches labels wich start with "Q<number>"
-    no_label = re.compile("Q\d+?.*")
+    no_label = re.compile(r"Q\d+?.*")
 
     def __init__(self, source_data):
         """
@@ -112,9 +112,12 @@ except (ImportError, FileNotFoundError):
     request_headers = {}
 
 
+sparql_url = "https://query.wikidata.org/sparql"
+
+
 # source: https://github.com/njanakiev/wikidata-mayors/blob/master/utils.py
 def wikidata_query(query: str) -> dict:
-    url = "https://query.wikidata.org/sparql"
+    url = sparql_url
 
     if cached_result := cache.wikidata_query_cache.get(query):
         # return cached result if possible (save wikidata requests)
@@ -175,7 +178,7 @@ def get_query_response(essential_query_str: str, distinct=False) -> list:
 
     q = f"""
     SELECT {distinct_str} ?item ?itemLabel
-    WHERE 
+    WHERE
     {{
       {essential_query_str}
       SERVICE wikibase:label {{ bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }}
